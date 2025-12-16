@@ -1,0 +1,227 @@
+html,
+        body {
+            font-family: system-ui, sans-serif !important;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        #modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 999;
+            opacity: 0;
+            transition: opacity 0.3s ease-in-out;
+        }
+
+        #content-master-container {
+            background-color: #FFFFFF;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            border-radius: 1rem;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            padding: 3rem 2rem;
+            max-width: 900px;
+            width: 90%;
+
+            overflow: hidden;
+        }
+
+        .modal-content-block {
+            display: none;
+        }
+
+        .close-button {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .product-selection-grid {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+
+        .product-card {
+            cursor: pointer;
+            border: 1px solid #ccc;
+            border-radius: 1rem;
+            padding: 10px;
+            width: 15rem;
+            text-align: center;
+            transition: box-shadow 0.2s;
+        }
+
+        .product-card:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .card-image {
+            width: 100%;
+            height: auto;
+            border-radius: 1rem;
+            margin-bottom: 5px;
+        }
+
+        .card-heading {
+            font-size: 2rem;
+            margin: 0;
+            text-align: center;
+            margin: 1rem 0 2rem 0;
+        }
+
+        .card-title {
+            font-size: 1.2rem;
+            margin: 0;
+        }
+
+        .modal-flex-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 20px;
+            padding-top: 0px;
+        }
+
+        .modal-left-column {
+            flex: 0 0 50%;
+            max-width: 50%;
+        }
+
+        .modal-right-column {
+            flex: 1;
+            padding: 0;
+        }
+
+        .image-carousel {
+            position: relative;
+            width: 100%;
+            padding-top: 100%;
+            margin: 0;
+            overflow: hidden;
+        }
+
+        /* .slides-container {
+            border-radius: 1rem;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .carousel-slide {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            flex-shrink: 0;
+            border-radius: 1rem;
+        } */
+
+        .slides-container {
+            border-radius: 1rem;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            /* Remove display: flex; and transition: transform... */
+            overflow: hidden; /* Good practice */
+        }
+
+        .carousel-slide {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            flex-shrink: 0;
+            border-radius: 1rem;
+            
+            /* --- CRITICAL FADE PROPERTIES --- */
+            position: absolute; /* Allows slides to overlap */
+            top: 0;
+            left: 0;
+            opacity: 0; /* Starts hidden */
+            z-index: 5; /* Base layer */
+            transition: opacity 0.4s ease-in-out; /* The fade transition */
+        }
+        
+        /* New class to make the current slide visible */
+        .carousel-slide.active {
+            opacity: 1;
+            z-index: 10; /* Ensures it's on top of the fading-out slide */
+        }
+
+        .prev-btn,
+        .next-btn {
+            position: absolute;
+            top: 5px;
+            align-self: anchor-center;
+            cursor: pointer;
+            width: 4rem;
+            height: 100%;
+            line-height: 35px;
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            font-size: 2.5rem;
+            transition: background-color 0.3s ease;
+            border: none;
+            background-color: rgba(0, 0, 0, 0.0);
+            border-radius: 0.5rem;
+            z-index: 100;
+            padding: 0;
+        }
+
+        .prev-btn:hover,
+        .next-btn:hover {
+            background-color: rgba(0, 0, 0, 0.1);
+        }
+
+        .prev-btn {
+            left: 0px;
+        }
+
+        .next-btn {
+            right: 0px;
+        }
+
+        .back-button {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+            margin-left: 1rem;
+            margin-right: 2rem;
+            padding-top: 0px;
+        }
+
+        .back-button:hover {
+            color: #000;
+        }
+
+        .feature-list {
+            list-style-type: disc;
+            padding-left: 20px;
+            margin-top: 10px;
+        }
+
+        .feature-list li {
+            font-size: 1.2rem;
+        }

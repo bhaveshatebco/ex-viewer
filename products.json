@@ -1,0 +1,229 @@
+{
+  "hotspots": [
+    {
+      "id": "hotspot-kitchen-overhead",
+      "targetContent": "selection-kitchen-content",
+      "position": "-8 4.5 -2.5",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "hotspot-wicker-basket",
+      "targetContent": "selection-wicker-content",
+      "position": "1.3 -0.5 -8",
+      "rotation": "0 -25 0"
+    },
+    {
+      "id": "hotspot-midway-systems",
+      "targetContent": "selection-midway-systems",
+      "position": "-6.77 3.31 -8.87",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "hotspot-mixer-lift-up",
+      "targetContent": "selection-mixer-lift-up",
+      "position": "-1.35 0.14 -7.7",
+      "rotation": "0 75 0"
+    }
+  ],
+  "selection-kitchen-content": {
+    "title": "Select the Product from Kitchen Overhead Systems",
+    "products": [
+      {
+        "id": "eurolifts-content",
+        "prevContent": "selection-kitchen-content",
+        "title": "Eurolifts Flap Door System",
+        "cardImg": "media/kitchen-overhead/eurolifts-flap-door-system/2.jpg",
+        "carouselId": "carousel-eurolifts",
+        "images": [
+          "media/kitchen-overhead/eurolifts-flap-door-system/2.jpg",
+          "media/kitchen-overhead/eurolifts-flap-door-system/eurolift-flap-door.jpg"
+        ],
+        "features": [
+          "Ideal for overhead hanging cabinets.",
+          "Flap type fully openable door for easy assessibility.",
+          "The kit consists of Mechanism with Cover, Hinge Clip on Bracket, Allen Key and Self Tapping Screws."
+        ],
+        "pageLink": "https://ebco.in/livsmart/eurolifts-flap-door-system"
+      },
+      {
+        "id": "kpds-glass-content",
+        "prevContent": "selection-kitchen-content",
+        "title": "Kitchen Pulldown System - Glass",
+        "cardImg": "media/kitchen-overhead/kitchen-pulldown-system-glass/Kitchen-Pulldown-System-Glass-01.jpg",
+        "carouselId": "carousel-kpds",
+        "images": [
+          "media/kitchen-overhead/kitchen-pulldown-system-glass/Kitchen-Pulldown-System-Glass-01.jpg",
+          "media/kitchen-overhead/kitchen-pulldown-system-glass/Kitchen-Pulldown-System-Glass-02.jpg"
+        ],
+        "features": [
+          "Overhead Storage is now accessible.",
+          "Soft pulldown & Soft lift up feature.",
+          "Ability to adjust the load as per requirement.",
+          "Glass Baskets can easily be removed for cleaning and clipped back."
+        ],
+        "pageLink": "https://ebco.in/livsmart/kitchen-pulldown-system-900mm-mechanism-with-glass-baskets"
+      },
+      {
+        "id": "kpds-shutter-lift-heavy",
+        "prevContent": "selection-kitchen-content",
+        "title": "Shutter Lift Heavy",
+        "cardImg": "media/kitchen-overhead/shutter-lift-heavy/dp-img-1.jpg",
+        "carouselId": "carousel-shutter-lift",
+        "images": [
+          "media/kitchen-overhead/shutter-lift-heavy/dp-img-1.jpg",
+          "media/kitchen-overhead/shutter-lift-heavy/Shutter-Lift-Heavy-2-scaled.jpg"
+        ],
+        "features": [
+          "Shutter opening angle 100°",
+          "Door thickness: 16-28mm",
+          "Suitable for wooden and framed glass doors",
+          "Soft close Lift - up with and close, silent motion, easy to use fitting.",
+          "Suitable for Kitchen, Living Room, Office, bathroom"
+        ],
+        "pageLink": "https://ebco.in/livsmart/shutter-lift-heavy"
+      }
+    ]
+  },
+  "selection-wicker-content": {
+    "title": "Select the Product from Wicker Basket",
+    "products": [
+      {
+        "id": "wicker-basket-content",
+        "prevContent": "selection-wicker-content",
+        "title": "Plastic Wicker Basket Soft Close",
+        "cardImg": "media/wicker-basket/plastic-wicker-basket-soft-close/dp-img-1.JPG",
+        "carouselId": "carousel-wicker",
+        "images": [
+          "media/wicker-basket/plastic-wicker-basket-soft-close/dp-img-1.JPG",
+          "media/wicker-basket/plastic-wicker-basket-soft-close/plastic-wicker-basket-img-02.JPG"
+        ],
+        "features": [
+          "Modern Design: Sleek and contemporary design enhances the aesthetic appeal of your kitchen while adding functionality",
+          "Premium Material: Crafted with durable plastic wicker, featuring a sturdy wooden frame and slide, ensuring longevity and stability",
+          "Soft Close Mechanism: Equipped with a soft-close feature for gentle and noiseless closing, ..."
+        ],
+        "pageLink": "https://ebco.in/livsmart/plastic-wicker-basket-soft-close"
+      },
+      {
+        "id": "drawer-slide-content",
+        "prevContent": "selection-wicker-content",
+        "title": "Sleek Telescopic Drawer Slide",
+        "cardImg": "media/wicker-basket/sleek-telescopic-drawer-slide/Sleek-Telescopic-Drawer-Slides-1-35-SC-03.webp",
+        "carouselId": "carousel-drawerslide",
+        "images": [
+          "media/wicker-basket/sleek-telescopic-drawer-slide/Sleek-Telescopic-Drawer-Slides-1-35-SC-03.webp",
+          "media/wicker-basket/sleek-telescopic-drawer-slide/Sleek-Telescopic-Drawer-Slides-1-35-SC-04.webp"
+        ],
+        "features": [
+          "Manufactured out of stainless steel 304 grade.",
+          "Built-in soft close mechanism.",
+          "Precision ball bearings ensure smooth movement.",
+          "Full extension of drawer.",
+          "Easy for installation",
+          "Load Capacity: 35 kgs."
+        ],
+        "pageLink": "https://ebco.in/ebco/sleek-telescopic-drawer-slide-35kg-ss304-soft-close"
+      },
+      {
+        "id": "shoerack-product-content",
+        "prevContent": "selection-wicker-content",
+        "title": "Wardrobe Pullout 2 - Shoe Rack (Soft Close)",
+        "cardImg": "media/wicker-basket/wardrobe-pullout-2-shoe-rack-soft-close/dp-img-01.jpg",
+        "carouselId": "carousel-shoerack",
+        "images": [
+          "media/wicker-basket/wardrobe-pullout-2-shoe-rack-soft-close/dp-img-01.jpg",
+          "media/wicker-basket/wardrobe-pullout-2-shoe-rack-soft-close/WPSR-Economical-A-Square.png"
+        ],
+        "features": [
+          "Organise your footwears in a better way with these pull-out shoe racks.",
+          "Ready to use product that can be installed easily in any type of wardrobe.",
+          "Easy pullout ensures clear overview of stored item.",
+          "In-built soft closing ensures effortless functioning."
+        ],
+        "pageLink": "https://ebco.in/livsmart/wardrobe-pullout-2-shoe-rack-soft-close"
+      }
+    ]
+  },
+  "selection-midway-systems": {
+    "title": "Select the Product from Midway Systems",
+    "products": [
+      {
+        "id": "kitchen-midway-systems-content",
+        "prevContent": "selection-midway-systems",
+        "title": "Kitchen Midway Systems",
+        "cardImg": "media/kitchen-midway-system/kitchen-midway-system/dp-img-1.jpg",
+        "carouselId": "carousel-midway-systems",
+        "images": [
+          "media/kitchen-midway-system/kitchen-midway-system/dp-img-2.jpg",
+          "media/kitchen-midway-system/kitchen-midway-system/dp-img-1.jpg",
+          "media/kitchen-midway-system/kitchen-midway-system/dp-img-3.jpg",
+          "media/kitchen-midway-system/kitchen-midway-system/dp-img-6.jpg"
+        ],
+        "features": [
+          "Maximise your kitchen space and get easy access to your daily kitchen tools",
+          "Easy to clip on shelves/racks that can be added / removed or repositioned as per your work convenience",
+          "Made of MS and Natural Wood which adds aesthetic appeal to your countertop"
+        ],
+        "pageLink": "https://ebco.in/livsmart/kitchen-midway-systems"
+      },
+      {
+        "id": "shelf-tray-content",
+        "prevContent": "selection-midway-systems",
+        "title": "Shelf Tray",
+        "cardImg": "media/kitchen-midway-system/shelf-tray/shelf-tray-3.jpg",
+        "carouselId": "carousel-shelf-tray",
+        "images": [
+          "media/kitchen-midway-system/shelf-tray/shelf-tray-3.jpg",
+          "media/kitchen-midway-system/shelf-tray/shelf-tray-03.jpg"
+        ],
+        "features": [
+          "A multi-utility shelf tray that can be used in kitchens (waste-bin shutters, pantry unit shutters, overhead shutters, on the mid-way wall etc.), Wardrobes (for cosmetics, perfumes etc.) in bathroom cabinets & more.",
+          "This tray can be fitted on to the inner face of any shutter.",
+          "Designed for easy accessibility, clip-on mounting."
+        ],
+        "pageLink": "https://ebco.in/livsmart/shelf-tray"
+      },
+      {
+        "id": "cup-hanger-content",
+        "prevContent": "selection-midway-systems",
+        "title": "Cup Hanger",
+        "cardImg": "media/kitchen-midway-system/cup-hanger/dp-img-1-1.jpg",
+        "carouselId": "carousel-cup-hanger",
+        "images": [
+          "media/kitchen-midway-system/cup-hanger/dp-img-1-1.jpg",
+          "media/kitchen-midway-system/cup-hanger/dp-img-2.jpg"
+        ],
+        "features": [
+          "Manufactured out of SS 304.",
+          "Ideal for Hanging 6 cups.",
+          "Easy to fit on to the Ceiling of Cabinets.",
+          "Elegant & Cost effective design."
+        ],
+        "pageLink": "https://ebco.in/livsmart/cup-hanger"
+      }
+    ]
+  },
+  "selection-mixer-lift-up": {
+    "title" : "Select the Product : Mixer Lift Up Stand",
+    "products" : [
+      {
+        "id": "mixer-lift-up-stand",
+        "prevContent": "selection-mixer-lift-up",
+        "title": "mixer Lift Up Stand",
+        "cardImg": "media/mixer-lift-up/0000-0462-ezgif.com-speed.gif",
+        "carouselId": "carousel-mixer-lift-up",
+        "images": [
+          "media/mixer-lift-up/Mixer-Lift-Up-Stand-2.jpg",
+          "media/mixer-lift-up/dp-img-1.jpg-1.webp",
+          "media/mixer-lift-up/0000-0462-ezgif.com-speed.gif"
+        ],
+        "features": [
+          "Stores appliances inside the cabinet, reducing countertop clutter.",
+          "Secure locking mechanism for safety.",
+          "Effortlessly smooth lifting and lowering."
+        ],
+        "pageLink": "https://ebco.in/livsmart/mixer-lift-up-stand-2"
+      }
+    ]
+  }
+}
