@@ -26,7 +26,7 @@
     }
   ],
   "selection-kitchen-content": {
-    "title": "Select the Product from Kitchen Overhead Systems",
+    "title": "Select the Product from this Cabinet",
     "products": [
       {
         "id": "eurolifts-content",
@@ -85,7 +85,7 @@
     ]
   },
   "selection-wicker-content": {
-    "title": "Select the Product from Wicker Basket",
+    "title": "Select the Product from this Cabinet",
     "products": [
       {
         "id": "wicker-basket-content",
