@@ -131,7 +131,7 @@ function generateHotspots(hotspotData) {
         hotspotEntity.setAttribute('class', 'collidable');
 
         // --- 1. Geometry & Appearance (The single white, pulsing ring) ---
-        hotspotEntity.setAttribute('geometry', 'primitive: circle; radius: 0.2');// Radius of 0.2m (you can adjust this size)
+        hotspotEntity.setAttribute('geometry', 'primitive: sphere; radius: 0.2');// Radius of 0.2m (you can adjust this size)
 
         // Material: White, semi-transparent, flat shader
         hotspotEntity.setAttribute('material', 'color: white; opacity: 0.8; shader: flat');
@@ -492,4 +492,5 @@ document.addEventListener('keydown', function (event) {
 
 // INITIAL CALL: Start the process by fetching data when the window loads
 // This replaces the old window.addEventListener('load', initCarousels);
+
 window.addEventListener('load', fetchProductData);
