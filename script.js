@@ -492,48 +492,47 @@ document.addEventListener('keydown', function (event) {
 
 // INITIAL CALL: Start the process by fetching data when the window loads
 // This replaces the old window.addEventListener('load', initCarousels);
-window.addEventListener('load', fetchProductData);
+/* window.addEventListener('load', fetchProductData); */
 
 
-// Add this logic to the end of your script.js file, 
-// or wrap it in a function called by window.onload if you prefer.
+// ** 6. INITIALIZATION AND LOADER CONTROL (THE CORRECT SEQUENCE) **
 
 document.addEventListener('DOMContentLoaded', () => {
-    const sceneEl = document.getElementById('my-scene');
     const loaderEl = document.getElementById('scene-loader');
+    
+    // Check if the A-Frame environment asset ID is available (you must have set 
+    // id="main-environment-asset" on your a-sky tag in index.html)
+    const skyEl = document.getElementById('main-environment-asset'); 
 
-    // CRITICAL: The 'loaded' event fires when all assets and the scene are parsed.
-    sceneEl.addEventListener('loaded', function () {
-        console.log("A-Frame scene and assets loaded.");
+    if (skyEl) {
+        // We listen for 'material-loaded' which means the 360 image is displayed.
+        skyEl.addEventListener('material-loaded', function () {
+            console.log("360° Image texture loaded and ready. Starting content fetch.");
+            
+            // 1. Fetch data and generate hotspots/modals (Hotspots appear on scene)
+            // This MUST happen BEFORE the loader disappears.
+            fetchProductData(); 
+            
+            // 2. Wait for the next successful render frame (removes the black screen gap)
+            window.requestAnimationFrame(() => {
+                if (loaderEl) {
+                    loaderEl.classList.add('hidden');
+                    
+                    // Remove the loader from the DOM completely after the fade-out transition
+                    setTimeout(() => {
+                        loaderEl.remove();
+                    }, 500); 
+                }
+            });
+        }, { once: true }); // Use { once: true } to ensure it only runs one time.
         
-        // Hide the loader and remove it after the fade-out transition
+    } else {
+        // Fallback if the element is not found immediately (should not happen if HTML is correct)
+        console.warn("Sky element ID not found. Running fetch immediately.");
+        fetchProductData();
         if (loaderEl) {
             loaderEl.classList.add('hidden');
-            
-            // Remove the loader from the DOM completely after the transition ends (500ms)
-            setTimeout(() => {
-                loaderEl.remove();
-            }, 500); 
+            setTimeout(() => { loaderEl.remove(); }, 500);
         }
-    });
-
-    // We also want to start fetching product data only after the scene is ready
-    // to ensure the hotspots are generated only when the A-Frame environment exists.
-    // If you are calling fetchProductData via window.onload, change that to:
-    
-    // Instead of calling fetchProductData on window.onload, 
-    // call it within the 'loaded' event listener if you prefer 
-    // to tie content generation to scene readiness.
-    
-    // If you keep the current window.addEventListener('load', fetchProductData); 
-    // it will work, but linking it to the 'loaded' event can be cleaner:
-    
-    // sceneEl.addEventListener('loaded', function() {
-    //     // ... hide loader code ...
-    //     fetchProductData(); // <-- Optional: If you want to delay data fetch until scene is ready
-    // });
+    }
 });
-
-// Since you already have:
-// window.addEventListener('load', fetchProductData);
-// You can remove that line if you implement the optional code above.
