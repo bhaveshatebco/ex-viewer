@@ -498,42 +498,45 @@ document.addEventListener('keydown', function (event) {
 // ** 6. INITIALIZATION AND LOADER CONTROL (THE SYNCHRONIZED SEQUENCE) **
 // ** 6. INITIALIZATION AND LOADER CONTROL (THE ROBUST, NON-BLOCKING SEQUENCE) **
 
-document.addEventListener('DOMContentLoaded', () => {
-    const loaderEl = document.getElementById('scene-loader');
-    const skyEl = document.getElementById('main-environment-asset'); 
-    
-    // Function to handle the final steps (fetching data and hiding the loader)
-    const initializeApp = () => {
-        console.log("360° Image is ready. Starting content fetch and scene unlock.");
-        
-        // 1. Fetch data and generate hotspots/modals
-        fetchProductData(); 
-        
-        // 2. Hide the loader seamlessly
-        window.requestAnimationFrame(() => {
-            if (loaderEl) {
-                loaderEl.classList.add('hidden');
-                
-                // Add a small buffer timeout to ensure the fade animation completes
-                setTimeout(() => {
-                    loaderEl.remove();
-                }, 500); 
-            }
-        });
-    };
+// ** 6. INITIALIZATION AND LOADER CONTROL (USING SCENE READY EVENT) **
 
-    if (skyEl) {
-        // --- CRITICAL FIX: Check if the material is ALREADY loaded ---
-        if (skyEl.hasLoaded && skyEl.components.material && skyEl.components.material.material) {
-            // Case 1: The material is already loaded (common with cache or fast loading)
-            initializeApp();
-        } else {
-            // Case 2: The material is still loading, so attach the listener.
-            skyEl.addEventListener('material-loaded', initializeApp, { once: true });
+// Function to run when the entire A-Frame scene (including the 360 image) is ready
+const initializeApp = () => {
+    const loaderEl = document.getElementById('scene-loader');
+
+    console.log("A-Frame scene and 360 image are fully rendered. Unlocking application.");
+    
+    // 1. Fetch data and generate hotspots/modals (Hotspots appear on scene)
+    fetchProductData(); 
+    
+    // 2. Hide the loader seamlessly
+    window.requestAnimationFrame(() => {
+        if (loaderEl) {
+            loaderEl.classList.add('hidden');
+            
+            // Add a small buffer timeout to ensure the fade animation completes
+            setTimeout(() => {
+                loaderEl.remove();
+            }, 500); 
         }
-    } else {
-        // Fallback if the ID is missing (should not happen now)
-        console.warn("Sky element ID not found. Running fetch immediately.");
+    });
+};
+
+document.addEventListener('DOMContentLoaded', () => {
+    const sceneEl = document.getElementById('my-scene'); 
+    
+    if (!sceneEl) {
+        console.error("A-Frame scene element not found. Cannot proceed.");
+        return;
+    }
+
+    // --- CRITICAL FIX: Check if the scene is already loaded/rendered ---
+    if (sceneEl.hasLoaded) {
+        // Case 1: Scene is ready (very common when running locally/cached)
         initializeApp();
+    } else {
+        // Case 2: Scene is still loading. Wait for A-Frame's official 'loaded' event.
+        // This event guarantees all assets have finished loading.
+        sceneEl.addEventListener('loaded', initializeApp, { once: true });
     }
 });
