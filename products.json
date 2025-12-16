@@ -209,7 +209,7 @@
       {
         "id": "mixer-lift-up-stand",
         "prevContent": "selection-mixer-lift-up",
-        "title": "mixer Lift Up Stand",
+        "title": "Mixer Lift Up Stand",
         "cardImg": "media/mixer-lift-up/0000-0462-ezgif.com-speed.gif",
         "carouselId": "carousel-mixer-lift-up",
         "images": [
@@ -228,4 +228,5 @@
   }
 
 }
+
 
