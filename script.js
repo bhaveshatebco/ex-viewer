@@ -507,16 +507,14 @@ document.addEventListener('DOMContentLoaded', () => {
         console.log("A-Frame scene and assets loaded.");
         
         // Hide the loader and remove it after the fade-out transition
-        window.requestAnimationFrame(() => {
-            if (loaderEl) {
-                loaderEl.classList.add('hidden');
-                
-                // Remove the loader from the DOM completely after the fade-out transition
-                setTimeout(() => {
-                    loaderEl.remove();
-                }, 500);
-            }
-        });
+        if (loaderEl) {
+            loaderEl.classList.add('hidden');
+            
+            // Remove the loader from the DOM completely after the transition ends (500ms)
+            setTimeout(() => {
+                loaderEl.remove();
+            }, 500); 
+        }
     });
 
     // We also want to start fetching product data only after the scene is ready
