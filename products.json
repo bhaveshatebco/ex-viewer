@@ -91,10 +91,10 @@
         "id": "wicker-basket-content",
         "prevContent": "selection-wicker-content",
         "title": "Plastic Wicker Basket Soft Close",
-        "cardImg": "media/wicker-basket/plastic-wicker-basket-soft-close/dp-img-1.JPG",
+        "cardImg": "media/wicker-basket/plastic-wicker-basket-soft-close/dp-img-1.jpg",
         "carouselId": "carousel-wicker",
         "images": [
-          "media/wicker-basket/plastic-wicker-basket-soft-close/dp-img-1.JPG",
+          "media/wicker-basket/plastic-wicker-basket-soft-close/dp-img-1.jpg",
           "media/wicker-basket/plastic-wicker-basket-soft-close/plastic-wicker-basket-img-02.JPG"
         ],
         "features": [
@@ -226,4 +226,5 @@
       }
     ]
   }
+
 }
