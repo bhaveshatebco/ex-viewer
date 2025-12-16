@@ -3,29 +3,32 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="media/icon/ebco-logo-32px.png" sizes="32x32">
     <title>Ebco Indiawood View</title>
-    <script src="aframe.min.js"></script> 
+    <script src="aframe.min.js"></script>
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body> 
+<body>
     <div id="scene-loader">
         <div class="loader-content">
-            <div class="spinner"></div> 
-            <p>Loading 3D Environment...</p> 
-        </div> 
-    </div> 
+            <div class="spinner"></div>
+            <p>Loading 3D Environment...</p>
+        </div>
+    </div>
 
     <a-scene id="my-scene" embedded vr-mode-ui="enabled: false" cursor="rayOrigin: mouse">
 
         <a-sky id="main-environment-asset" src="media/3d-image/your-360-image-low.png" rotation="0 -90 0">
-</a-sky>
+        </a-sky>
 
         <a-entity id="camera-wrapper">
-            <a-camera camera="fov: 75;" look-controls="mouseEnabled: true; touchEnabled: false; reverseMouseDrag: true;"
+            <!-- <a-camera camera="fov: 75;" look-controls="mouseEnabled: true; touchEnabled: false; reverseMouseDrag: true;"
                 custom-touch-override pinch-to-zoom raycaster="objects: .collidable" sphere-collider>
+            </a-camera> -->
+            <a-camera camera="fov: 75;" look-controls="mouseEnabled: true; reverseMouseDrag: true; device-orientation-enabled: false;"
+                custom-touch-override pinch-to-zoom raycaster="objects: .collidable">
             </a-camera>
         </a-entity>
 
@@ -36,6 +39,7 @@
             <div id="dynamic-content-area"></div>
         </div>
     </div>
+
     <script src="script.js"></script>
 
 </body>
