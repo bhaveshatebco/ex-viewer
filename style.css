@@ -82,7 +82,7 @@ body {
     width: 900px;
     max-width: 85vw !important;
     max-height: 85vh !important;    /* Use 90% of the viewport height for better responsiveness */
-    overflow-y: auto;    /* Show scrollbar if vertical content overflows */
+    overflow-y: auto !important;    /* Show scrollbar if vertical content overflows */
 }
 
 .modal-content-block {
