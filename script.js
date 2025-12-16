@@ -509,7 +509,7 @@ const initializeApp = () => {
                 loaderEl.remove();
             }, 500); 
         }
-    });
+    }); 
 };
 
 document.addEventListener('DOMContentLoaded', () => {
