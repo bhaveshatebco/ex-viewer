@@ -86,7 +86,7 @@ body {
     transform: translate(-50%, -50%);
     border-radius: 1rem;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    padding: 3rem 2rem;
+    padding: 2rem;
     max-width: 900px;
     width: 90%;
 
@@ -103,6 +103,7 @@ body {
     font-size: 28px;
     font-weight: bold;
     cursor: pointer;
+    margin-top: -15px !important;
 }
 
 .product-selection-grid {
@@ -273,6 +274,7 @@ body {
     margin-left: 1rem;
     margin-right: 2rem;
     padding-top: 0px;
+    margin-top: -15px !important;
 }
 
 .back-button:hover {
