@@ -492,5 +492,50 @@ document.addEventListener('keydown', function (event) {
 
 // INITIAL CALL: Start the process by fetching data when the window loads
 // This replaces the old window.addEventListener('load', initCarousels);
-
 window.addEventListener('load', fetchProductData);
+
+
+// Add this logic to the end of your script.js file, 
+// or wrap it in a function called by window.onload if you prefer.
+
+document.addEventListener('DOMContentLoaded', () => {
+    const sceneEl = document.getElementById('my-scene');
+    const loaderEl = document.getElementById('scene-loader');
+
+    // CRITICAL: The 'loaded' event fires when all assets and the scene are parsed.
+    sceneEl.addEventListener('loaded', function () {
+        console.log("A-Frame scene and assets loaded.");
+        
+        // Hide the loader and remove it after the fade-out transition
+        window.requestAnimationFrame(() => {
+            if (loaderEl) {
+                loaderEl.classList.add('hidden');
+                
+                // Remove the loader from the DOM completely after the fade-out transition
+                setTimeout(() => {
+                    loaderEl.remove();
+                }, 500);
+            }
+        });
+    });
+
+    // We also want to start fetching product data only after the scene is ready
+    // to ensure the hotspots are generated only when the A-Frame environment exists.
+    // If you are calling fetchProductData via window.onload, change that to:
+    
+    // Instead of calling fetchProductData on window.onload, 
+    // call it within the 'loaded' event listener if you prefer 
+    // to tie content generation to scene readiness.
+    
+    // If you keep the current window.addEventListener('load', fetchProductData); 
+    // it will work, but linking it to the 'loaded' event can be cleaner:
+    
+    // sceneEl.addEventListener('loaded', function() {
+    //     // ... hide loader code ...
+    //     fetchProductData(); // <-- Optional: If you want to delay data fetch until scene is ready
+    // });
+});
+
+// Since you already have:
+// window.addEventListener('load', fetchProductData);
+// You can remove that line if you implement the optional code above.
