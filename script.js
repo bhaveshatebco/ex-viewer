@@ -116,8 +116,8 @@ const modalOverlay = document.getElementById('modal-overlay');
     "selection-kitchen-content": "Kitchen Overhead",
     "selection-wicker-content": "Cabinet Accessory",
     "selection-midway-systems": "Midway Systems" */
-    // Add new areas here when you create them, e.g.:
-    // "selection-new-area-content": "Living Room Fixtures" 
+// Add new areas here when you create them, e.g.:
+// "selection-new-area-content": "Living Room Fixtures" 
 /* }; */
 
 // NEW FUNCTION: Dynamically creates A-Frame hotspot entities (Outer Pulsing Ring Only)
@@ -199,20 +199,20 @@ async function fetchProductData() {
 function generateInitialHTML(data) {
     const dynamicArea = document.getElementById('dynamic-content-area');
     let htmlContent = '';
-    const allProductLookups = {}; 
+    const allProductLookups = {};
 
     // 1. GENERATE SELECTION VIEWS (TIER 1)
     for (const selectionKey in data) {
-        
+
         const selectionWrapper = data[selectionKey];
-        
+
         // Skip the hotspots array, as it's not a product selection view
-        if (selectionKey === 'hotspots') continue; 
-        
+        if (selectionKey === 'hotspots') continue;
+
         // Ensure the wrapper object and products array exist in the new structure
         if (!selectionWrapper || !selectionWrapper.products || !Array.isArray(selectionWrapper.products)) {
             console.warn(`Skipping invalid content block: ${selectionKey}. Check JSON structure.`);
-            continue; 
+            continue;
         }
 
         // --- READ DYNAMIC DATA FROM NEW JSON STRUCTURE ---
@@ -221,7 +221,7 @@ function generateInitialHTML(data) {
         // --------------------------------------------------
 
         let selectionGrid = '';
-        
+
         products.forEach(product => {
             allProductLookups[product.id] = product;
 
@@ -494,45 +494,46 @@ document.addEventListener('keydown', function (event) {
 // This replaces the old window.addEventListener('load', initCarousels);
 /* window.addEventListener('load', fetchProductData); */
 
-
-// ** 6. INITIALIZATION AND LOADER CONTROL (THE CORRECT SEQUENCE) **
+// ** 6. INITIALIZATION AND LOADER CONTROL (REVISED, PARALLEL SEQUENCE) **
+// ** 6. INITIALIZATION AND LOADER CONTROL (THE SYNCHRONIZED SEQUENCE) **
+// ** 6. INITIALIZATION AND LOADER CONTROL (THE ROBUST, NON-BLOCKING SEQUENCE) **
 
 document.addEventListener('DOMContentLoaded', () => {
     const loaderEl = document.getElementById('scene-loader');
-    
-    // Check if the A-Frame environment asset ID is available (you must have set 
-    // id="main-environment-asset" on your a-sky tag in index.html)
     const skyEl = document.getElementById('main-environment-asset'); 
+    
+    // Function to handle the final steps (fetching data and hiding the loader)
+    const initializeApp = () => {
+        console.log("360° Image is ready. Starting content fetch and scene unlock.");
+        
+        // 1. Fetch data and generate hotspots/modals
+        fetchProductData(); 
+        
+        // 2. Hide the loader seamlessly
+        window.requestAnimationFrame(() => {
+            if (loaderEl) {
+                loaderEl.classList.add('hidden');
+                
+                // Add a small buffer timeout to ensure the fade animation completes
+                setTimeout(() => {
+                    loaderEl.remove();
+                }, 500); 
+            }
+        });
+    };
 
     if (skyEl) {
-        // We listen for 'material-loaded' which means the 360 image is displayed.
-        skyEl.addEventListener('material-loaded', function () {
-            console.log("360° Image texture loaded and ready. Starting content fetch.");
-            
-            // 1. Fetch data and generate hotspots/modals (Hotspots appear on scene)
-            // This MUST happen BEFORE the loader disappears.
-            fetchProductData(); 
-            
-            // 2. Wait for the next successful render frame (removes the black screen gap)
-            window.requestAnimationFrame(() => {
-                if (loaderEl) {
-                    loaderEl.classList.add('hidden');
-                    
-                    // Remove the loader from the DOM completely after the fade-out transition
-                    setTimeout(() => {
-                        loaderEl.remove();
-                    }, 500); 
-                }
-            });
-        }, { once: true }); // Use { once: true } to ensure it only runs one time.
-        
-    } else {
-        // Fallback if the element is not found immediately (should not happen if HTML is correct)
-        console.warn("Sky element ID not found. Running fetch immediately.");
-        fetchProductData();
-        if (loaderEl) {
-            loaderEl.classList.add('hidden');
-            setTimeout(() => { loaderEl.remove(); }, 500);
+        // --- CRITICAL FIX: Check if the material is ALREADY loaded ---
+        if (skyEl.hasLoaded && skyEl.components.material && skyEl.components.material.material) {
+            // Case 1: The material is already loaded (common with cache or fast loading)
+            initializeApp();
+        } else {
+            // Case 2: The material is still loading, so attach the listener.
+            skyEl.addEventListener('material-loaded', initializeApp, { once: true });
         }
+    } else {
+        // Fallback if the ID is missing (should not happen now)
+        console.warn("Sky element ID not found. Running fetch immediately.");
+        initializeApp();
     }
 });
