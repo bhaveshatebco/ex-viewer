@@ -12,19 +12,16 @@ body {
 #scene-loader {
     position: fixed;
     top: 0;
-    left: 0;
+    left: 0; 
     width: 100%;
     height: 100%;
-    background-color: #333;
-    /* Dark background */
+    background-color: #333;    /* Dark background */
     color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 9999;
-    /* Ensure it's above everything else */
-    transition: opacity 0.5s ease-in-out;
-    /* Smooth fade-out */
+    z-index: 9999;    /* Ensure it's above everything else */
+    transition: opacity 0.5s ease-in-out;    /* Smooth fade-out */
 }
 
 /* Loader content alignment */
@@ -35,15 +32,12 @@ body {
 
 /* Spinner CSS (Creating a simple rotating circle) */
 .spinner {
-    border: 8px solid #f3f3f3;
-    /* Light grey base */
-    border-top: 8px solid #007bff;
-    /* Blue top for animation */
+    border: 8px solid #f3f3f3;    /* Light grey base */
+    border-top: 8px solid #007bff;    /* Blue top for animation */
     border-radius: 50%;
     width: 60px;
     height: 60px;
-    animation: spin 1.5s linear infinite;
-    /* Apply the animation */
+    animation: spin 1.5s linear infinite;    /* Apply the animation */
     margin: 0 auto 15px auto;
 }
 
@@ -52,7 +46,6 @@ body {
     0% {
         transform: rotate(0deg);
     }
-
     100% {
         transform: rotate(360deg);
     }
@@ -61,8 +54,7 @@ body {
 /* Class to hide the loader with a smooth fade */
 .hidden {
     opacity: 0;
-    pointer-events: none;
-    /* Crucial: ensures clicks pass through after fade */
+    pointer-events: none;    /* Crucial: ensures clicks pass through after fade */
 }
 
 #modal-overlay {
@@ -87,10 +79,10 @@ body {
     border-radius: 1rem;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     padding: 2rem;
-    max-width: 900px;
-    width: 90%;
-
-    overflow: hidden;
+    width: 900px;
+    max-width: 85vw !important;
+    max-height: 85vh !important;    /* Use 90% of the viewport height for better responsiveness */
+    overflow-y: auto;    /* Show scrollbar if vertical content overflows */
 }
 
 .modal-content-block {
@@ -112,7 +104,6 @@ body {
     gap: 20px;
     flex-wrap: wrap;
 }
-
 
 .product-card {
     cursor: pointer;
@@ -173,35 +164,14 @@ body {
     overflow: hidden;
 }
 
-/* .slides-container {
-            border-radius: 1rem;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            display: flex;
-            transition: transform 0.3s ease-in-out;
-        }
-
-        .carousel-slide {
-            width: 100%;
-            height: 100%;
-            object-fit: contain;
-            flex-shrink: 0;
-            border-radius: 1rem;
-        } */
-
 .slides-container {
     border-radius: 1rem;
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
-    /* Remove display: flex; and transition: transform... */
-    overflow: hidden;
-    /* Good practice */
+    height: 100%;    /* Remove display: flex; and transition: transform... */
+    overflow: hidden;    /* Good practice */
 }
 
 .carousel-slide {
@@ -209,26 +179,19 @@ body {
     height: 100%;
     object-fit: contain;
     flex-shrink: 0;
-    border-radius: 1rem;
-
-    /* --- CRITICAL FADE PROPERTIES --- */
-    position: absolute;
-    /* Allows slides to overlap */
+    border-radius: 1rem;    /* --- CRITICAL FADE PROPERTIES --- */
+    position: absolute;    /* Allows slides to overlap */
     top: 0;
     left: 0;
-    opacity: 0;
-    /* Starts hidden */
-    z-index: 5;
-    /* Base layer */
-    transition: opacity 0.4s ease-in-out;
-    /* The fade transition */
+    opacity: 0;    /* Starts hidden */
+    z-index: 5;    /* Base layer */
+    transition: opacity 0.4s ease-in-out;    /* The fade transition */
 }
 
 /* New class to make the current slide visible */
 .carousel-slide.active {
     opacity: 1;
-    z-index: 10;
-    /* Ensures it's on top of the fading-out slide */
+    z-index: 10;    /* Ensures it's on top of the fading-out slide */
 }
 
 .prev-btn,
@@ -258,7 +221,7 @@ body {
 }
 
 .prev-btn {
-    left: 0px; 
+    left: 0px;
 }
 
 .next-btn {
