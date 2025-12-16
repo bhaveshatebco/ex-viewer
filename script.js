@@ -490,16 +490,6 @@ document.addEventListener('keydown', function (event) {
     }
 });
 
-// INITIAL CALL: Start the process by fetching data when the window loads
-// This replaces the old window.addEventListener('load', initCarousels);
-/* window.addEventListener('load', fetchProductData); */
-
-// ** 6. INITIALIZATION AND LOADER CONTROL (REVISED, PARALLEL SEQUENCE) **
-// ** 6. INITIALIZATION AND LOADER CONTROL (THE SYNCHRONIZED SEQUENCE) **
-// ** 6. INITIALIZATION AND LOADER CONTROL (THE ROBUST, NON-BLOCKING SEQUENCE) **
-
-// ** 6. INITIALIZATION AND LOADER CONTROL (USING SCENE READY EVENT) **
-
 // Function to run when the entire A-Frame scene (including the 360 image) is ready
 const initializeApp = () => {
     const loaderEl = document.getElementById('scene-loader');
