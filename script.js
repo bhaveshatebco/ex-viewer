@@ -1,3 +1,36 @@
+/* --- MOBILE SENSOR & VR BLOCKING --- */
+
+// 1. Immediate listener to stop sensor data propagation
+window.addEventListener('deviceorientation', function (e) {
+    e.stopImmediatePropagation();
+}, true);
+
+window.addEventListener('devicemotion', function (e) {
+    e.stopImmediatePropagation();
+}, true);
+
+// 2. Scene configuration (runs once the scene is ready)
+const configureScene = () => {
+    const sceneEl = document.querySelector('a-scene');
+    if (sceneEl) {
+        sceneEl.setAttribute('vr-mode-ui', 'enabled: false');
+        sceneEl.setAttribute('webxr', 'referenceSpaceType: local; requiredFeatures: []; optionalFeatures: [];');
+    }
+};
+
+// Check if scene is already loaded, otherwise wait for it
+if (document.readyState === 'complete' || document.readyState === 'interactive') {
+    configureScene();
+} else {
+    document.addEventListener('DOMContentLoaded', configureScene);
+}
+/* ----------------------------------- */
+
+// ... rest of your existing code (modal logic, carousel, etc.) ...
+
+
+
+
 // ** 1. A-FRAME CUSTOM COMPONENTS (YOUR ORIGINAL, WORKING CODE) **
 
 AFRAME.registerComponent('pinch-to-zoom', {
@@ -352,13 +385,13 @@ function handleBackButtonClick(buttonElement) {
         currentContentBlock.style.opacity = 1;
 
         showContent(prevContentId);
-    }, 300); 
+    }, 300);
 }
 
 function hideAllModals() {
-    modalOverlay.style.opacity = 0; 
+    modalOverlay.style.opacity = 0;
 
-    setTimeout(() => { 
+    setTimeout(() => {
         modalOverlay.style.display = 'none';
 
         if (currentContentId) {
@@ -495,26 +528,26 @@ const initializeApp = () => {
     const loaderEl = document.getElementById('scene-loader');
 
     console.log("A-Frame scene and 360 image are fully rendered. Unlocking application.");
-    
+
     // 1. Fetch data and generate hotspots/modals (Hotspots appear on scene)
-    fetchProductData(); 
-    
+    fetchProductData();
+
     // 2. Hide the loader seamlessly
     window.requestAnimationFrame(() => {
         if (loaderEl) {
             loaderEl.classList.add('hidden');
-            
+
             // Add a small buffer timeout to ensure the fade animation completes
             setTimeout(() => {
                 loaderEl.remove();
-            }, 500); 
+            }, 500);
         }
-    }); 
+    });
 };
 
 document.addEventListener('DOMContentLoaded', () => {
-    const sceneEl = document.getElementById('my-scene'); 
-    
+    const sceneEl = document.getElementById('my-scene');
+
     if (!sceneEl) {
         console.error("A-Frame scene element not found. Cannot proceed.");
         return;
