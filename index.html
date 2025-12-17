@@ -27,8 +27,15 @@
             <!-- <a-camera camera="fov: 75;" look-controls="mouseEnabled: true; touchEnabled: false; reverseMouseDrag: true;"
                 custom-touch-override pinch-to-zoom raycaster="objects: .collidable" sphere-collider>
             </a-camera> -->
-            <a-camera camera="fov: 75;" look-controls="mouseEnabled: true; reverseMouseDrag: true; device-orientation-enabled: false;"
+            <!-- <a-camera camera="fov: 75;"
+                look-controls="mouseEnabled: true; reverseMouseDrag: true; device-orientation-enabled: false;"
                 custom-touch-override pinch-to-zoom raycaster="objects: .collidable">
+            </a-camera> -->
+            <a-camera camera="fov: 75;" look-controls="
+        mouseEnabled: true; 
+        reverseMouseDrag: true;
+        device-orientation-enabled: false; 
+    ">
             </a-camera>
         </a-entity>
 
@@ -39,6 +46,8 @@
             <div id="dynamic-content-area"></div>
         </div>
     </div>
+
+
 
     <script src="script.js"></script>
 
