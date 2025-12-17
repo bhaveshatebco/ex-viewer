@@ -71,18 +71,33 @@ body {
 }
 
 #content-master-container {
-    background-color: #FFFFFF;
+    /* background-color: #FFFFFF; */
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    border-radius: 1rem;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     padding: 2rem;
     width: 900px;
     max-width: 80vw !important;
     max-height: 80vh !important;    /* Use 90% of the viewport height for better responsiveness */
     overflow-y: auto !important;    /* Show scrollbar if vertical content overflows */
+
+    border-radius: 1rem;
+
+    /* background: linear-gradient(180deg, #d0d5db 0%, #ffffff 100%) !important; */
+    /* background-color: #f5f5f5; */ /* Near-white background */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25); /* Lifted appearance */
+    transition: all 0.3s ease-in-out; /* Smooth transitions */
+
+    /* === CRITICAL BACKGROUND CHANGE FOR FULL-WIDTH FLUSH BOTTOM === */
+    background: 
+        /* Image URL (Layer 1) */
+        url('media/icon/brand-element-right.png') no-repeat center bottom 0 / 100% auto, 
+        /* Gradient (Layer 2) - Creamy Paper */
+        linear-gradient(180deg, #deceb1 0%, #ffffff 100%);
+    /* === END CRITICAL BACKGROUND CHANGE === */
+
+
 }
 
 .modal-content-block {
@@ -90,7 +105,7 @@ body {
 }
 
 .close-button {
-    color: #aaa;
+    color: #565454;
     float: right;
     font-size: 28px;
     font-weight: bold;
@@ -112,11 +127,18 @@ body {
     padding: 10px;
     width: 15rem;
     text-align: center;
-    transition: box-shadow 0.2s;
+    transition: box-shadow 0.3s, transform 0.3s; 
+    box-shadow: 0 24px 48px rgba(0, 0, 0, 0.50); 
+    background-color: white;
 }
 
 .product-card:hover {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); 
+    transform: translateY(5px); 
+}
+
+.product-card:active {
+    transform: translateY(0);  /* 4. The press down effect (resets to original position) */
 }
 
 .card-image {
@@ -229,7 +251,7 @@ body {
 }
 
 .back-button {
-    color: #aaa;
+    color: #565454;
     float: right;
     font-size: 28px;
     font-weight: bold;
@@ -243,6 +265,41 @@ body {
 .back-button:hover {
     color: #000;
 }
+
+/* Enhanced hover for the Close and Back icons/buttons */
+.close-button,
+.back-button {
+    /* Ensure cursor is explicit */
+    cursor: pointer; 
+    /* Add a subtle transition for color change */
+    transition: color 0.2s ease-in-out, transform 0.2s ease-in-out; 
+}
+
+.close-button:hover,
+.back-button:hover {
+    color: #000; /* Darker color on hover */
+    /* Subtle movement effect */
+    transform: scale(1.1); 
+}
+
+.prev-btn,
+.next-btn {
+    /* ... existing styles ... */
+    background-color: rgba(0, 0, 0, 0.0); /* Make them slightly visible by default */
+    border-radius: 0.5rem;
+    z-index: 100;
+    padding: 0;
+    /* Add transform to the transition */
+    transition: background-color 0.3s ease, transform 0.2s; 
+}
+
+.prev-btn:hover,
+.next-btn:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* Darker on hover */
+    /* Add subtle zoom effect */
+    transform: scale(1.05); 
+}
+
 
 .feature-list {
     list-style-type: disc;
