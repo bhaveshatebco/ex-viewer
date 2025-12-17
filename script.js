@@ -267,7 +267,7 @@ function generateInitialHTML(data) {
                         <span class="back-button" onclick="handleBackButtonClick(this)">&#8592;</span>
                         <h3 style="font-weight: bold; margin-top: 10px; font-size: 2rem;">${product.title}</h3>
                         <ul class="feature-list">${featuresHtml}</ul>
-                        <a style="font-size: 1.2rem; text-decoration: none; float: right; padding: 1rem 0;"
+                        <a style="display:none; font-size: 1.2rem; text-decoration: none; float: right; padding: 1rem 0;"
                             target="_blank" href="${product.pageLink}">View Product Page</a>
                     </div>
                 </div>
@@ -358,7 +358,7 @@ function handleBackButtonClick(buttonElement) {
 function hideAllModals() {
     modalOverlay.style.opacity = 0;
 
-    setTimeout(() => {
+    setTimeout(() => { 
         modalOverlay.style.display = 'none';
 
         if (currentContentId) {
