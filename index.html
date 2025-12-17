@@ -8,21 +8,26 @@
     <title>Ebco Indiawood View</title>
     <script src="aframe.min.js"></script>
     <link rel="stylesheet" href="style.css">
-    <script>
-        // Force-disable the Device Orientation API before any library can use it
-        window.DeviceOrientationEvent = null;
-        window.DeviceMotionEvent = null;
+<script>
+  // Disable WebXR and VR features that force gyro on mobile
+  window.addEventListener('DOMContentLoaded', () => {
+    const sceneEl = document.querySelector('a-scene');
+    if (sceneEl) {
+      // This tells A-Frame not to search for or use mobile sensors
+      sceneEl.setAttribute('vr-mode-ui', 'enabled: false');
+      sceneEl.setAttribute('webxr', 'referenceSpaceType: local; requiredFeatures: []; optionalFeatures: [];');
+    }
+  });
 
-        // Intercept any attempts to add the listener
-        const originalAddEventListener = window.addEventListener;
-        window.addEventListener = function (type, listener, options) {
-            if (type === 'deviceorientation' || type === 'devicemotion') {
-                console.log('Blocked attempt to use gyro/accelerometer sensor.');
-                return; // Do nothing
-            }
-            return originalAddEventListener.apply(this, arguments);
-        };
-    </script>
+  // Block the data stream without crashing the objects
+  window.addEventListener('deviceorientation', function(e) {
+    e.stopImmediatePropagation();
+  }, true);
+  
+  window.addEventListener('devicemotion', function(e) {
+    e.stopImmediatePropagation();
+  }, true);
+</script>
 </head>
 
 <body>
