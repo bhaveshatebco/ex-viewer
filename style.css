@@ -71,8 +71,7 @@ body {
 }
 
 #content-master-container {
-    /* background-color: #FFFFFF; */
-    background: url('media/icon/brand-element-right.png') no-repeat right bottom 0 / 50% auto, linear-gradient(180deg, #deceb1 0%, #ffffff 100%);
+    background: url('media/icon/brand-element-right-bottom.png') no-repeat right bottom 0 / 65% auto, linear-gradient(180deg, #deceb1 0%, #ffffff 100%);
     position: absolute;
     top: 50%;
     left: 50%;
@@ -83,11 +82,8 @@ body {
     max-height: 80vh !important;    /* Use 90% of the viewport height for better responsiveness */
     overflow-y: auto !important;    /* Show scrollbar if vertical content overflows */
     border-radius: 1rem; 
-
-    /* background: linear-gradient(180deg, #d0d5db 0%, #ffffff 100%) !important; */
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25); /* Lifted appearance */
     transition: all 0.3s ease-in-out; /* Smooth transitions */
-    
 }
 
 .modal-content-block {
