@@ -82,7 +82,7 @@ body {
     max-height: 80vh !important;    /* Use 90% of the viewport height for better responsiveness */
     overflow-y: auto !important;    /* Show scrollbar if vertical content overflows */
 
-    border-radius: 1rem;
+    border-radius: 1rem; 
 
     /* background: linear-gradient(180deg, #d0d5db 0%, #ffffff 100%) !important; */
     /* background-color: #f5f5f5; */ /* Near-white background */
