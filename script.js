@@ -352,11 +352,11 @@ function handleBackButtonClick(buttonElement) {
         currentContentBlock.style.opacity = 1;
 
         showContent(prevContentId);
-    }, 300);
+    }, 300); 
 }
 
 function hideAllModals() {
-    modalOverlay.style.opacity = 0;
+    modalOverlay.style.opacity = 0; 
 
     setTimeout(() => { 
         modalOverlay.style.display = 'none';
