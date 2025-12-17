@@ -8,26 +8,6 @@
     <title>Ebco Indiawood View</title>
     <script src="aframe.min.js"></script>
     <link rel="stylesheet" href="style.css">
-<script>
-  // Disable WebXR and VR features that force gyro on mobile
-  window.addEventListener('DOMContentLoaded', () => {
-    const sceneEl = document.querySelector('a-scene');
-    if (sceneEl) {
-      // This tells A-Frame not to search for or use mobile sensors
-      sceneEl.setAttribute('vr-mode-ui', 'enabled: false');
-      sceneEl.setAttribute('webxr', 'referenceSpaceType: local; requiredFeatures: []; optionalFeatures: [];');
-    }
-  });
-
-  // Block the data stream without crashing the objects
-  window.addEventListener('deviceorientation', function(e) {
-    e.stopImmediatePropagation();
-  }, true);
-  
-  window.addEventListener('devicemotion', function(e) {
-    e.stopImmediatePropagation();
-  }, true);
-</script>
 </head>
 
 <body>
