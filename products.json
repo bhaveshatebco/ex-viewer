@@ -187,7 +187,7 @@
     ]
   },
   "selection-mixer-lift-up": {
-    "title" : "Select the Product : Mixer Lift Up Stand",
+    "title" : "Select the Product : Mixer Lift Up Stand", 
     "products" : [
       {
         "id": "mixer-lift-up-stand",
