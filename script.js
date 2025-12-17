@@ -540,7 +540,7 @@ const initializeApp = () => {
             // Add a small buffer timeout to ensure the fade animation completes
             setTimeout(() => {
                 loaderEl.remove();
-            }, 500);
+            }, 500); 
         }
     });
 };
