@@ -3,25 +3,25 @@
     {
       "id": "hotspot-kitchen-overhead",
       "targetContent": "selection-kitchen-content",
-      "position": "-8 4.5 -2.5",
+      "position": "-2.1 3.4 -8.87",
       "rotation": "0 75 0"
     },
     {
       "id": "hotspot-wicker-basket",
       "targetContent": "selection-wicker-content",
-      "position": "1.3 -0.5 -8",
+      "position": "-6.1 -1.56  -10.80",
       "rotation": "0 -25 0"
     },
     {
       "id": "hotspot-midway-systems",
       "targetContent": "selection-midway-systems",
-      "position": "-6.77 3.31 -8.87",
+      "position": "2.45 2.13 -8.87",
       "rotation": "0 75 0"
     },
     {
       "id": "hotspot-mixer-lift-up",
       "targetContent": "selection-mixer-lift-up",
-      "position": "-1.35 0.14 -7.7",
+      "position": "4.71 -0.85 -6.9",
       "rotation": "0 75 0"
     }
   ],
@@ -41,9 +41,9 @@
         "features": [
           "Ideal for overhead hanging cabinets.",
           "Flap type fully openable door for easy assessibility.",
-          "The kit consists of Mechanism with Cover, Hinge Clip on Bracket, Allen Key and Self Tapping Screws."
-        ],
-        "pageLink": "https://ebco.in/livsmart/eurolifts-flap-door-system"
+          "The kit consists of Mechanism with Cover, Hinge Clip on Bracket, Allen Key and Self Tapping Screws.",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th><th>Price</th>  </tr> </thead> <tbody> <tr> <td></td> <td></td> <td></td> </tr> </tbody> </table>"
+        ]
       },
       {
         "id": "kpds-glass-content",
@@ -59,9 +59,9 @@
           "Overhead Storage is now accessible.",
           "Soft pulldown & Soft lift up feature.",
           "Ability to adjust the load as per requirement.",
-          "Glass Baskets can easily be removed for cleaning and clipped back."
-        ],
-        "pageLink": "https://ebco.in/livsmart/kitchen-pulldown-system-900mm-mechanism-with-glass-baskets"
+          "Glass Baskets can easily be removed for cleaning and clipped back.",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th><th>Price</th>  </tr> </thead> <tbody> <tr> <td></td> <td></td> <td></td> </tr> </tbody> </table>"
+        ]
       },
       {
         "id": "kpds-shutter-lift-heavy",
@@ -78,9 +78,9 @@
           "Door thickness: 16-28mm",
           "Suitable for wooden and framed glass doors",
           "Soft close Lift - up with and close, silent motion, easy to use fitting.",
-          "Suitable for Kitchen, Living Room, Office, bathroom"
-        ],
-        "pageLink": "https://ebco.in/livsmart/shutter-lift-heavy"
+          "Suitable for Kitchen, Living Room, Office, bathroom",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th><th>Price</th>  </tr> </thead> <tbody> <tr> <td></td> <td></td> <td></td> </tr> </tbody> </table>"
+        ]
       }
     ]
   },
@@ -100,29 +100,9 @@
         "features": [
           "Modern Design: Sleek and contemporary design enhances the aesthetic appeal of your kitchen while adding functionality",
           "Premium Material: Crafted with durable plastic wicker, featuring a sturdy wooden frame and slide, ensuring longevity and stability",
-          "Soft Close Mechanism: Equipped with a soft-close feature for gentle and noiseless closing"
-        ],
-        "pageLink": "https://ebco.in/livsmart/plastic-wicker-basket-soft-close"
-      }, 
-      {
-        "id": "drawer-slide-content",
-        "prevContent": "selection-wicker-content",
-        "title": "Sleek Telescopic Drawer Slide",
-        "cardImg": "media/wicker-basket/sleek-telescopic-drawer-slide/Sleek-Telescopic-Drawer-Slides-1-35-SC-03.webp",
-        "carouselId": "carousel-drawerslide",
-        "images": [
-          "media/wicker-basket/sleek-telescopic-drawer-slide/Sleek-Telescopic-Drawer-Slides-1-35-SC-03.webp",
-          "media/wicker-basket/sleek-telescopic-drawer-slide/Sleek-Telescopic-Drawer-Slides-1-35-SC-04.webp"
-        ],
-        "features": [
-          "Manufactured out of stainless steel 304 grade.",
-          "Built-in soft close mechanism.",
-          "Precision ball bearings ensure smooth movement.",
-          "Full extension of drawer.",
-          "Easy for installation",
-          "Load Capacity: 35 kgs."
-        ],
-        "pageLink": "https://ebco.in/ebco/sleek-telescopic-drawer-slide-35kg-ss304-soft-close"
+          "Soft Close Mechanism: Equipped with a soft-close feature for gentle and noiseless closing",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th><th>Price</th>  </tr> </thead> <tbody> <tr> <td></td> <td></td> <td></td> </tr> </tbody> </table>"
+        ]
       }, 
       {
         "id": "shoerack-product-content",
@@ -138,9 +118,9 @@
           "Organise your footwears in a better way with these pull-out shoe racks.",
           "Ready to use product that can be installed easily in any type of wardrobe.",
           "Easy pullout ensures clear overview of stored item.",
-          "In-built soft closing ensures effortless functioning."
-        ],
-        "pageLink": "https://ebco.in/livsmart/wardrobe-pullout-2-shoe-rack-soft-close"
+          "In-built soft closing ensures effortless functioning.",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>WP2SR-60-SC-AT</td> <td rowspan='2'>Anthracite</td><td>₹10862.00</td>  </tr> <tr> <td>WP2SR-90-SC-AT</td> <td>₹13847.00</td> </tr> </tbody> </table>"
+        ]
       }
     ]
   },
@@ -162,9 +142,9 @@
         "features": [
           "Maximise your kitchen space and get easy access to your daily kitchen tools",
           "Easy to clip on shelves/racks that can be added / removed or repositioned as per your work convenience",
-          "Made of MS and Natural Wood which adds aesthetic appeal to your countertop"
-        ],
-        "pageLink": "https://ebco.in/livsmart/kitchen-midway-systems"
+          "Made of MS and Natural Wood which adds aesthetic appeal to your countertop",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th><th>Price</th>  </tr> </thead> <tbody> <tr> <td></td> <td></td> <td></td> </tr> </tbody> </table>"
+        ]
       },
       {
         "id": "cup-hanger-content",
@@ -180,9 +160,9 @@
           "Manufactured out of SS 304.",
           "Ideal for Hanging 6 cups.",
           "Easy to fit on to the Ceiling of Cabinets.",
-          "Elegant & Cost effective design."
-        ],
-        "pageLink": "https://ebco.in/livsmart/cup-hanger"
+          "Elegant & Cost effective design.",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th><th>Price</th>  </tr> </thead> <tbody> <tr> <td></td> <td></td> <td></td> </tr> </tbody> </table>"
+        ]
       }
     ]
   },
@@ -203,9 +183,9 @@
         "features": [
           "Stores appliances inside the cabinet, reducing countertop clutter.",
           "Secure locking mechanism for safety.",
-          "Effortlessly smooth lifting and lowering."
-        ],
-        "pageLink": "https://ebco.in/livsmart/mixer-lift-up-stand-2"
+          "Effortlessly smooth lifting and lowering.",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th><th>Price</th>  </tr> </thead> <tbody> <tr> <td></td> <td></td> <td></td> </tr> </tbody> </table>"
+        ]
       }
     ]
   }
