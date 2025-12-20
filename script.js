@@ -277,7 +277,6 @@ function generateInitialHTML(data) {
     }
 
     // 2. GENERATE DETAIL VIEWS (TIER 2)
-    // This part relies on allProductLookups, which is correctly populated above.
     for (const productKey in allProductLookups) {
         const product = allProductLookups[productKey];
 
@@ -285,27 +284,25 @@ function generateInitialHTML(data) {
         let featuresHtml = product.features.map(feature => `<li>${feature}</li>`).join('');
 
         htmlContent += `
-            <div id="${product.id}" class="modal-content-block product-detail-content"
-                data-prev-content="${product.prevContent}">
-                <div class="modal-flex-container">
-                    <div class="modal-left-column">
-                        <div class="image-carousel" id="${product.carouselId}">
-                            <div class="slides-container">${slidesHtml}</div>
-                            <button class="prev-btn" onclick="plusSlides(-1, '${product.carouselId}')">&#10094;</button>
-                            <button class="next-btn" onclick="plusSlides(1, '${product.carouselId}')">&#10095;</button>
-                        </div>
-                    </div>
-                    <div class="modal-right-column">
-                        <span class="close-button" onclick="hideAllModals()">&times;</span>
-                        <span class="back-button" onclick="handleBackButtonClick(this)">&#8592;</span>
-                        <h3 style="font-weight: bold; margin-top: 10px; font-size: 2rem;">${product.title}</h3>
-                        <ul class="feature-list">${featuresHtml}</ul>
-                        <a style="display:none; font-size: 1.2rem; text-decoration: none; float: right; padding: 1rem 0;"
-                            target="_blank" href="${product.pageLink}">View Product Page</a>
+        <div id="${product.id}" class="modal-content-block product-detail-content"
+            data-prev-content="${product.prevContent}">
+            <div class="modal-flex-container">
+                <div class="modal-left-column">
+                    <div class="image-carousel" id="${product.carouselId}">
+                        <div class="slides-container">${slidesHtml}</div>
+                        <button class="prev-btn" onclick="plusSlides(-1, '${product.carouselId}')">&#10094;</button>
+                        <button class="next-btn" onclick="plusSlides(1, '${product.carouselId}')">&#10095;</button>
                     </div>
                 </div>
+                <div class="modal-right-column">
+                    <span class="close-button" onclick="hideAllModals()">&times;</span>
+                    <span class="back-button" onclick="handleBackButtonClick(this)">&#8592;</span>
+                    <h3 style="font-weight: bold; margin-top: 10px; margin-bottom: 15px; font-size: 2rem;">${product.title}</h3>
+                    <ul class="feature-list">${featuresHtml}</ul>                    
+                </div>
             </div>
-        `;
+        </div>
+    `;
     }
 
     dynamicArea.innerHTML = htmlContent;
@@ -540,7 +537,7 @@ const initializeApp = () => {
             // Add a small buffer timeout to ensure the fade animation completes
             setTimeout(() => {
                 loaderEl.remove();
-            }, 500); 
+            }, 500);
         }
     });
 };
