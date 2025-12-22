@@ -1,0 +1,470 @@
+{
+  "sceneConfig": {
+    "panorama": "media/3d-image/Kitchen-Area-Render-20251220-1415-2560x1280.png",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "1",
+      "targetContent": "selection-pantry-max",
+      "position": "-8.439 3.118 5.02",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "pantry-max-unit",
+      "targetContent": "selection-pantry-max-unit",
+      "position": "-8.439 3.118 2.027",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "recessed-hinge-35",
+      "targetContent": "selection-recessed-hinge-35",
+      "position": "-8.439 5.57 -0.87",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "spinova-360",
+      "targetContent": "selection-spinova-360",
+      "position": "-8.439 4.157 -5.07",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "plastic-wicker-basket-soft-close",
+      "targetContent": "selection-plastic-wicker-basket-soft-close",
+      "position": "-8.439 -2.535 -5.35",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "mixer-lift-up",
+      "targetContent": "selection-mixer-lift-up",
+      "position": "-8.439 -1.955 -7.678",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "magic-corner-double-pullout-glass",
+      "targetContent": "selection-magic-corner-double-pullout-glass",
+      "position": "-6.99 -2.03 -11.66",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "pmds-s3-cutlery-tray-drawer-built-in-bin",
+      "targetContent": "selection-pmds-s3-cutlery-tray-drawer-built-in-bin",
+      "position": "-3.83 -1.75 -11.66",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "11",
+      "targetContent": "selection-11",
+      "position": "-0.175 -1.75 -10.45",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "12",
+      "targetContent": "selection-12",
+      "position": "2.45 -1.75 -10.99",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "13",
+      "targetContent": "selection-13",
+      "position": "5.05 -2.09 -11.706",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "14",
+      "targetContent": "selection-14",
+      "position": "-8.30 2.65 -10.24",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "15",
+      "targetContent": "selection-15",
+      "position": "-6.42 3.88 -10.240",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "16",
+      "targetContent": "selection-15",
+      "position": "-3.12 4.23 -11.67",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "17",
+      "targetContent": "selection-16",
+      "position": "0.51 4.28 -11.706",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "18",
+      "targetContent": "selection-18",
+      "position": "4.00 4.46 -11.706",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "19",
+      "targetContent": "selection-19",
+      "position": "7.35 1.7 -12.30",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "20",
+      "targetContent": "selection-20",
+      "position": "5.98 -1.90 -10.32",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "21",
+      "targetContent": "selection-21",
+      "position": "6.88 -2.57 -10.23",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "22",
+      "targetContent": "selection-22",
+      "position": "6.63 -1.72 -8.10",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "23",
+      "targetContent": "selection-23",
+      "position": "6.63 -2.12 -6.10",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "24",
+      "targetContent": "selection-24",
+      "position": "2.50 2.16 -9.16",
+      "rotation": "0 75 0"
+    }
+  ],
+  "selection-pantry-max": {
+    "title": "Select the Product",
+    "products": [
+      {
+        "id": "content-pantry-max",
+        "prevContent": "selection-pantry-max",
+        "title": "Kitchen Pantry Max Glass - Soft Close",
+        "cardImg": "media-u-kitchen/pantry-max-01.jpg",
+        "carouselId": "carousel-pantry-max",
+        "images": [
+          "media-u-kitchen/pantry-max-01.jpg",
+          "media-u-kitchen/pantry-max-02.jpg"
+        ],
+        "features": [
+          "Elegant glass finish to add finesse to your dry storage solution",
+          "Soft close and soft open feature ensures effortless functioning",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>KPMGSC-45</td> <td>Anthracite</td><td>₹</td>  </tr> <tr> <td>KPMGSC-60</td> <td>Anthracite</td> <td>₹</td> </tr> </tbody> </table>"
+        ]
+      }
+    ]
+  },
+  "selection-pantry-max-unit": {
+    "title": "Select the Product",
+    "products": [
+      {
+        "id": "content-pantry-max-unit",
+        "prevContent": "selection-pantry-max-unit",
+        "title": "Kitchen Pantry Unit - Soft Close - Glass",
+        "cardImg": "media-u-kitchen/pantry-max-unit-01.jpg",
+        "carouselId": "carousel-pantry-max-unit",
+        "images": [
+          "media-u-kitchen/pantry-max-unit-01.jpg",
+          "media-u-kitchen/pantry-max-unit-02.jpg"
+        ],
+        "features": [
+          "Modern style with sleek glass front shelves makes the most of available space and enhances appearance",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>KPUSCG-45</td> <td>Anthracite</td><td>₹</td>  </tr> <tr> <td>KPUSCG-60</td> <td>Anthracite</td> <td>₹</td> </tr> </tbody> </table>"
+        ]
+      }
+    ]
+  },
+  "selection-recessed-hinge-35": {
+    "title": "Select the Product",
+    "products": [
+      {
+        "id": "content-recessed-hinge-35",
+        "prevContent": "selection-recessed-hinge-35",
+        "title": "Recessed Hinge 35 - Soft Close",
+        "cardImg": "media-u-kitchen/recessed-hinge-35-01.jpg",
+        "carouselId": "carousel-recessed-hinge-35",
+        "images": [
+          "media-u-kitchen/spinova-360-01.jpg",
+          "media-u-kitchen/spinova-360-02.jpg"
+        ],
+        "features": [
+          "For Wood & Aluminium profile shutters, with 3D adjustment and opening angle up to 105°",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>RH35-SC-TN</td> <td>Titanium</td><td>₹</td>  </tr> <tr> <td>RH35-HW</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>RH35-LC1</td> <td>Zinc White</td> <td>₹</td> </tr> <tr> <td>RH35-AGP-AS/AB</td> <td>Anodized Silver / Anodized Black</td> <td>₹</td> </tr> <tr> <td>RH35-AGP-H-AS/AB</td> <td>Anodized Silver / Anodized Black</td> <td>₹</td> </tr> </tbody> </table>"
+        ]
+      }
+    ]
+  },
+  "selection-spinova-360": {
+    "title": "Select the Product",
+    "products": [
+      {
+        "id": "content-spinova-360",
+        "prevContent": "selection-spinova-360",
+        "title": "Spinova 360",
+        "cardImg": "media-u-kitchen/spinova-360-01.jpg",
+        "carouselId": "carousel-spinova-360",
+        "images": [
+          "media-u-kitchen/spinova-360-01.jpg",
+          "media-u-kitchen/spinova-360-02.jpg",
+          "media-u-kitchen/spinova-360-03.jpg",
+          "media-u-kitchen/spinova-360-04.jpg"
+        ],
+        "features": [
+          "Make the cabinet more concealed, maximize space utilization.",
+          "Simple and convenient installation and removal.",
+          "Ensures precise positioning of accessories, smooth rotation.",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>SPN-360</td> <td>Zinc White</td> <td>₹</td> </tr> </tbody> </table>"
+        ]
+      }
+    ]
+  },
+  "selection-plastic-wicker-basket-soft-close": {
+    "title": "Select the Product",
+    "products": [
+      {
+        "id": "content-plastic-wicker-basket-soft-close",
+        "prevContent": "selection-plastic-wicker-basket-soft-close",
+        "title": "Plastic Wicker Basket Soft Close",
+        "cardImg": "media-u-kitchen/plastic-wicker-basket-soft-close-01.jpg",
+        "carouselId": "carousel-plastic-wicker-basket-soft-close",
+        "images": [
+          "media-u-kitchen/plastic-wicker-basket-soft-close-01.jpg",
+          "media-u-kitchen/plastic-wicker-basket-soft-close-02.jpg",
+          "media-u-kitchen/plastic-wicker-basket-soft-close-03.jpg",
+          "media-u-kitchen/plastic-wicker-basket-soft-close-04.jpg"
+        ],
+        "features": [
+          "Modern Design: Sleek and contemporary design enhances the aesthetic appeal of your kitchen while adding functionality",
+          "Premium Material: Crafted with durable plastic wicker, featuring a sturdy wooden frame and slide, ensuring longevity and stability",
+          "Soft Close Mechanism: Equipped with a soft-close feature for gentle and noiseless closing",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>PWBSC45-16-20-04</td> <td>Brown</td> <td>₹</td> </tr> <tr> <td>PWBSC45-16-20-06</td> <td>Brown</td> <td>₹</td> </tr> <tr> <td>PWBSC45-16-20-08</td> <td>Brown</td> <td>₹</td> </tr> <tr> <td>PWBSC45-22-20-04</td> <td>Brown</td> <td>₹</td> </tr> <tr> <td>PWBSC45-22-20-06</td> <td>Brown</td> <td>₹</td> </tr> <tr> <td>PWBSC45-22-20-08</td> <td>Brown</td> <td>₹</td> </tr> </tbody> </table>"
+        ]
+      }
+    ]
+  },
+  "selection-mixer-lift-up": {
+    "title": "Select the Product",
+    "products": [
+      {
+        "id": "content-mixer-lift-up",
+        "prevContent": "selection-mixer-lift-up",
+        "title": "Mixer Lift Up Stand",
+        "cardImg": "media-u-kitchen/mixer-lift-up-03.gif",
+        "carouselId": "carousel-mixer-lift-up",
+        "images": [
+          "media-u-kitchen/mixer-lift-up-01.webp",
+          "media-u-kitchen/mixer-lift-up-02.jpg",
+          "media-u-kitchen/mixer-lift-up-03.gif"
+        ],
+        "features": [
+          "Stores appliances inside the cabinet, reducing countertop clutter.",
+          "Secure locking mechanism for safety.",
+          "Effortlessly smooth lifting and lowering.",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>MLUS1-AT</td> <td>Anthracite</td> <td>₹</td> </tr> </tbody> </table>"
+        ]
+      },
+      {
+        "id": "content-pro-motion-drawer-system-90-s3",
+        "prevContent": "selection-mixer-lift-up",
+        "title": "Pro-motion Drawer System 90 - S3",
+        "cardImg": "media-u-kitchen/pro-motion-drawer-system-90-s3-01.jpg",
+        "carouselId": "carousel-pro-motion-drawer-system-90-s3",
+        "images": [
+          "media-u-kitchen/pro-motion-drawer-system-90-s3-01.jpg",
+          "media-u-kitchen/pro-motion-drawer-system-90-s3-02.jpg"
+        ],
+        "features": [
+          "Quick installation and dismantle.",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Full extension of drawer with soft close feature",
+          "Fascia panel system for internal drawers",
+          "Side panel height: 90mm",
+          "Load capacity: 50kg",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>PMDS1-30-S3 </td> <td> White / Anthracite</td> <td>₹</td> </tr><tr> <td>PMDS1-35-S3 </td> <td> White / Anthracite</td> <td>₹</td> </tr><tr> <td>PMDS1-40-S3 </td> <td> White / Anthracite / Black</td> <td>₹</td> </tr><tr> <td>PMDS1-45-S3 </td> <td> White / Anthracite/ Brown /Black/ Oak</td> <td>₹</td> </tr><tr> <td>PMDS1-50-S3 </td> <td> White / Anthracite/ Brown / Black / Oak</td> <td>₹</td> </tr><tr> <td>PMDS1-55-S3 </td> <td> White / Anthracite/ Brown / Black / Oak</td> <td>₹</td> </tr><tr> <td>PMDS1-60-S3 </td> <td> White/ Anthracite / Black</td> <td>₹</td> </tr><tr> <td>PMDS1-S3-FC </td> <td> White / Anthracite / Brown / Black</td> <td>₹</td> </tr><tr> <td>PMDS-G1-45-S3 </td> <td> White/Anthracite/Brown</td> <td>₹</td> </tr><tr> <td>PMDS-G1-50-S3 </td> <td> White/Anthracite/Brown</td> <td>₹</td> </tr><tr> <td>PMDS-G1-55-S3 </td> <td> White/Anthracite/Brown</td> <td>₹</td> </tr><tr> <td>PMDS-G1-60-S3 </td> <td> White/Anthracite</td> <td>₹</td> </tr><tr> <td>PMDS-S3-LED-50</td> <td> Anthracite</td> <td>₹</td> </tr><tr> <td>PMDS-LP1-S3-AT</td> <td> Anthracite</td> <td>₹</td> </tr> </tbody> </table>"
+        ]
+      },
+      {
+        "id": "content-HAP-hinge-and-profile",
+        "prevContent": "selection-mixer-lift-up",
+        "title": "Hinge for Aluminium Profile 3D - With Linear Mounting Plate",
+        "cardImg": "media-u-kitchen/HAP-hinge-and-profile-01.jpg",
+        "carouselId": "carousel-HAP-hinge-and-profile",
+        "images": [
+          "media-u-kitchen/HAP-hinge-and-profile-01.jpg",
+          "media-u-kitchen/HAP-hinge-and-profile-02.jpg",
+          "media-u-kitchen/HAP-hinge-and-profile-03.jpg"
+        ],
+        "features": [
+          "Specially designed hinge with linear mounting plate for the Glass shutter Al. profiles.",
+          "Available in Overlay & Half Overlay",
+          "Hinge opening angle: 105˚",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>HAP1-TN</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAP2-TN</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAPL1-TN</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAPL2-TN</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAPL-C-TN</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAP-4-22-2</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAP-4-22H-2</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HHAP-T</td> <td>Titanium</td> <td>₹</td> </tr> </tbody> </table>"
+        ]
+      }
+    ]
+  },
+  "selection-magic-corner-double-pullout-glass": {
+    "title": "Select the Product",
+    "products": [
+      {
+        "id": "content-magic-corner-double-pullout-glass",
+        "prevContent": "selection-magic-corner-double-pullout-glass",
+        "title": "Magic Corner Double Pullout - Glass",
+        "cardImg": "media-u-kitchen/magic-corner-double-pullout-glass-01.jpg",
+        "carouselId": "carousel-magic-corner-double-pullout-glass",
+        "images": [
+          "media-u-kitchen/magic-corner-double-pullout-glass-01.jpg",
+          "media-u-kitchen/magic-corner-double-pullout-glass-02.jpg"
+        ],
+        "features": [
+          "Glass Shelves provides a sleek, modern look and is easy to clean",
+          "Enhances kitchen aesthetics with a contemporary style",
+          "High Load Capacity which is strong enough to hold heavy cookware and appliances",
+          "Both glass shelves pull out completely for easy access",
+          "Built with high-quality materials for longevity",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>MCDP90G</td> <td>Anthracite</td> <td>₹</td> </tr> </tbody> </table>"
+        ]
+      }
+    ]
+  },
+  "selection-pmds-s3-cutlery-tray-drawer-built-in-bin": {
+    "title": "Select the Product",
+    "products": [
+      {
+        "id": "content-pro-motion-drawer-system-90-s3",
+        "prevContent": "selection-pmds-s3-cutlery-tray-drawer-built-in-bin",
+        "title": "Pro-motion Drawer System 90 - S3",
+        "cardImg": "media-u-kitchen/pro-motion-drawer-system-90-s3-01.jpg",
+        "carouselId": "carousel-pro-motion-drawer-system-90-s3",
+        "images": [
+          "media-u-kitchen/pro-motion-drawer-system-90-s3-01.jpg",
+          "media-u-kitchen/pro-motion-drawer-system-90-s3-02.jpg"
+        ],
+        "features": [
+          "Quick installation and dismantle.",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Full extension of drawer with soft close feature",
+          "Fascia panel system for internal drawers",
+          "Side panel height: 90mm",
+          "Load capacity: 50kg",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>PMDS1-30-S3 </td> <td> White / Anthracite</td> <td>₹</td> </tr><tr> <td>PMDS1-35-S3 </td> <td> White / Anthracite</td> <td>₹</td> </tr><tr> <td>PMDS1-40-S3 </td> <td> White / Anthracite / Black</td> <td>₹</td> </tr><tr> <td>PMDS1-45-S3 </td> <td> White / Anthracite/ Brown /Black/ Oak</td> <td>₹</td> </tr><tr> <td>PMDS1-50-S3 </td> <td> White / Anthracite/ Brown / Black / Oak</td> <td>₹</td> </tr><tr> <td>PMDS1-55-S3 </td> <td> White / Anthracite/ Brown / Black / Oak</td> <td>₹</td> </tr><tr> <td>PMDS1-60-S3 </td> <td> White/ Anthracite / Black</td> <td>₹</td> </tr><tr> <td>PMDS1-S3-FC </td> <td> White / Anthracite / Brown / Black</td> <td>₹</td> </tr><tr> <td>PMDS-G1-45-S3 </td> <td> White/Anthracite/Brown</td> <td>₹</td> </tr><tr> <td>PMDS-G1-50-S3 </td> <td> White/Anthracite/Brown</td> <td>₹</td> </tr><tr> <td>PMDS-G1-55-S3 </td> <td> White/Anthracite/Brown</td> <td>₹</td> </tr><tr> <td>PMDS-G1-60-S3 </td> <td> White/Anthracite</td> <td>₹</td> </tr><tr> <td>PMDS-S3-LED-50</td> <td> Anthracite</td> <td>₹</td> </tr><tr> <td>PMDS-LP1-S3-AT</td> <td> Anthracite</td> <td>₹</td> </tr> </tbody> </table>"
+        ]
+      },
+      {
+        "id": "content-kitchen-cutlery-tray-5",
+        "prevContent": "selection-pmds-s3-cutlery-tray-drawer-built-in-bin",
+        "title": "Kitchen Cutlery Tray 5",
+        "cardImg": "media-u-kitchen/kitchen-cutlery-tray-5-01.jpg",
+        "carouselId": "carousel-kitchen-cutlery-tray-5",
+        "images": [
+          "media-u-kitchen/kitchen-cutlery-tray-5-01.jpg",
+          "media-u-kitchen/kitchen-cutlery-tray-5-02.jpg"
+        ],
+        "features": [
+          "Multiple compartments keep cutlery and tools neatly organised",
+          "Diagonal stripes pattern tray surface for better hold",
+          "Diamond pattern top for an elegant look",
+          "Available in 7 different cut-able widths to fit any drawer",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KCT5-40-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-45-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-50-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-60-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-70-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-80-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-90-AT</td><td>Anthracite</td><td>₹</td></tr></tbody></table>"
+       ]
+      },
+      {
+        "id": "content-led-for-pmds-s3-series-50",
+        "prevContent": "selection-pmds-s3-cutlery-tray-drawer-built-in-bin",
+        "title": "LED For PMDS 'S3' Series 50",
+        "cardImg": "media-u-kitchen/led-for-pmds-s3-series-50-01.webp",
+        "carouselId": "carousel-led-for-pmds-s3-series-50",
+        "images": [
+          "media-u-kitchen/led-for-pmds-s3-series-50-01.webp",
+          "media-u-kitchen/led-for-pmds-s3-series-50-02.webp"
+        ],
+        "features": [
+          "Elegant lighting that enhances the usability and appearance of the PMDS S3 Series 50",
+          "ON/OFF button on controller box helps conserve battery.",
+          "Includes 2 lights (right & left, 500mm each) and 1 controller box for full drawer coverage",
+          "Tool-free installation with strong adhesive backing.",
+          "Runs on 6 AAA batteries with a built-in sensor that automatically turns on the light when the drawer opens and switches off when closed or after 20 seconds.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS-S3-LED-50</td><td>Anthracite</td><td>₹</td></tr></tbody></table>"
+       ]
+      },
+      {
+        "id": "content-pro-motion-drawer-system-122-s3",
+        "prevContent": "selection-pmds-s3-cutlery-tray-drawer-built-in-bin",
+        "title": "Pro-motion Drawer System 122 - S3",
+        "cardImg": "media-u-kitchen/pro-motion-drawer-system-122-s3-01.jpg",
+        "carouselId": "carousel-pro-motion-drawer-system-122-s3",
+        "images": [
+          "media-u-kitchen/pro-motion-drawer-system-122-s3-01.jpg",
+          "media-u-kitchen/pro-motion-drawer-system-122-s3-02.jpg"
+        ],
+        "features": [
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Load capacity: 50kg",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS2-30-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS2-35-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS2-40-S3</td><td>White / Anthracite / Black</td><td>₹</td></tr><tr><td>PMDS2-45-S3</td><td>White / Anthracite / Brown / Oak / Black</td><td>₹</td></tr><tr><td>PMDS2-50-S3</td><td>White / Anthracite / Brown / Oak / Black</td><td>₹</td></tr><tr><td>PMDS2-55-S3</td><td>White / Anthracite / Brown / Oak / Black</td><td>₹</td></tr><tr><td>PMDS2-60-S3</td><td>White / Anthracite / Brown / Black</td><td>₹</td></tr><tr><td>PMDS2-S3-FC</td><td>White / Anthracite / Brown / Black</td><td>₹</td></tr><tr><td>PMDS2-S3-FP</td><td>White / Anthracite / Brown / Black</td><td>₹</td></tr><tr><td>PMDS-G1-45-S3 </td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-50-S3 </td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-55-S3 </td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-60-S3 </td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS-S3-LED-50 </td><td>Anthracite</td><td>₹</td></tr><tr><td>PMDS-LP1-S3-AT </td><td>Anthracite</td><td>₹</td></tr></tbody></table>"
+       ]
+      },
+      {
+        "id": "content-kitchen-cutlery-tray-4",
+        "prevContent": "selection-pmds-s3-cutlery-tray-drawer-built-in-bin",
+        "title": "Kitchen Cutlery Tray - 4",
+        "cardImg": "media-u-kitchen/kitchen-cutlery-tray-4-01.webp",
+        "carouselId": "carousel-kitchen-cutlery-tray-4",
+        "images": [
+          "media-u-kitchen/kitchen-cutlery-tray-4-01.webp",
+          "media-u-kitchen/kitchen-cutlery-tray-4-02.webp"
+        ],
+        "features": [
+          "Diagonal stripes pattern surface for better hold.",
+          "Available in 6 different cut able width to fit any drawer.",
+          "Extension tray available works as an add-on with the Kitchen Cutlery Tray 4 or as a standalone organizer for flexible use.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KCT4-40</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT4-45</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT4-70</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT4-15E-AT</td><td>Anthracite</td><td>₹</td></tr></tbody></table>"
+       ]
+      },
+      {
+        "id": "content-pro-motion-drawer-system-203-s3",
+        "prevContent": "selection-pmds-s3-cutlery-tray-drawer-built-in-bin",
+        "title": "Pro-motion Drawer System 203 - S3",
+        "cardImg": "media-u-kitchen/pro-motion-drawer-system-203-s3-01.jpg",
+        "carouselId": "carousel-pro-motion-drawer-system-203-s3",
+        "images": [
+          "media-u-kitchen/pro-motion-drawer-system-203-s3-01.jpg"
+        ],
+        "features": [
+          "Drawer width can be designed freely with automatic error adujustment.",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Load capacity: 50kg",
+
+
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS4-45-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS4-50-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS4-55-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS-G1-45-S3</td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-50-S3</td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-55-S3</td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-60-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS-S3-LED-50</td><td>Anthracite</td><td>₹</td></tr><tr><td>PMDS-LP1-S3-AT</td><td>Antracite</td><td>₹</td></tr></tbody></table>"
+       ]
+      },
+      {
+        "id": "content-kitchen-drawer-bin",
+        "prevContent": "selection-pmds-s3-cutlery-tray-drawer-built-in-bin",
+        "title": "Kitchen Drawer Bin",
+        "cardImg": "media-u-kitchen/kitchen-drawer-bin-01.jpg",
+        "carouselId": "carousel-kitchen-drawer-bin",
+        "images": [
+          "media-u-kitchen/kitchen-drawer-bin-01.jpg",
+          "media-u-kitchen/kitchen-drawer-bin-02.jpg",
+          "media-u-kitchen/kitchen-drawer-bin-03.jpg",
+          "media-u-kitchen/kitchen-drawer-bin-04.jpg"
+        ],
+        "features": [
+          "Suitable for drawer width 600mm/900mm",
+          "Capacity: 35L (15L+20L), 55L (15L+20L+20L)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KDB60-35-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KDB90-55-AT</td><td>Anthracite</td><td>₹</td></tr></tbody></table>"
+       ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "sceneConfig": {
+    "panorama": "media/3d-image/Kitchen-Area-Render-20251220-1415-2560x1280.png",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "hotspot-kitchen-overhead",
+      "targetContent": "selection-kitchen-content",
+      "position": "-2.1 3.4 -8.87",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "hotspot-wicker-basket",
+      "targetContent": "selection-wicker-content",
+      "position": "-6.1 -1.56  -10.80",
+      "rotation": "0 -25 0"
+    },
+    {
+      "id": "hotspot-midway-systems",
+      "targetContent": "selection-midway-systems",
+      "position": "2.45 2.13 -8.87",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "hotspot-mixer-lift-up",
+      "targetContent": "selection-mixer-lift-up",
+      "position": "4.71 -0.85 -6.9",
+      "rotation": "0 75 0"
+    }
+  ],
+  "selection-kitchen-content": {
+    "title": "Select the Product from this Cabinet",
+    "products": [
+      {
+        "id": "eurolifts-content",
+        "prevContent": "selection-kitchen-content",
+        "title": "Eurolifts Flap Door System",
+        "cardImg": "media/kitchen-overhead/eurolifts-flap-door-system/2.jpg",
+        "carouselId": "carousel-eurolifts",
+        "images": [
+          "media/kitchen-overhead/eurolifts-flap-door-system/2.jpg",
+          "media/kitchen-overhead/eurolifts-flap-door-system/eurolift-flap-door.jpg"
+        ],
+        "features": [
+          "Ideal for overhead hanging cabinets.",
+          "Flap type fully openable door for easy assessibility.",
+          "The kit consists of Mechanism with Cover, Hinge Clip on Bracket, Allen Key and Self Tapping Screws."
+        ]
+      },
+      {
+        "id": "kpds-glass-content",
+        "prevContent": "selection-kitchen-content",
+        "title": "Kitchen Pulldown System - Glass",
+        "cardImg": "media/kitchen-overhead/kitchen-pulldown-system-glass/Kitchen-Pulldown-System-Glass-01.jpg",
+        "carouselId": "carousel-kpds",
+        "images": [
+          "media/kitchen-overhead/kitchen-pulldown-system-glass/Kitchen-Pulldown-System-Glass-01.jpg",
+          "media/kitchen-overhead/kitchen-pulldown-system-glass/Kitchen-Pulldown-System-Glass-02.jpg"
+        ],
+        "features": [
+          "Overhead Storage is now accessible.",
+          "Soft pulldown & Soft lift up feature.",
+          "Ability to adjust the load as per requirement.",
+          "Glass Baskets can easily be removed for cleaning and clipped back."
+        ]
+      },
+      {
+        "id": "kpds-shutter-lift-heavy",
+        "prevContent": "selection-kitchen-content",
+        "title": "Shutter Lift Heavy",
+        "cardImg": "media/kitchen-overhead/shutter-lift-heavy/dp-img-1.jpg",
+        "carouselId": "carousel-shutter-lift",
+        "images": [
+          "media/kitchen-overhead/shutter-lift-heavy/dp-img-1.jpg",
+          "media/kitchen-overhead/shutter-lift-heavy/Shutter-Lift-Heavy-2-scaled.jpg"
+        ],
+        "features": [
+          "Shutter opening angle 100°",
+          "Door thickness: 16-28mm",
+          "Suitable for wooden and framed glass doors",
+          "Soft close Lift - up with and close, silent motion, easy to use fitting.",
+          "Suitable for Kitchen, Living Room, Office, bathroom"
+        ]
+      }
+    ]
+  },
+  "selection-wicker-content": {
+    "title": "Select the Product from this Cabinet",
+    "products": [
+      {
+        "id": "wicker-basket-content",
+        "prevContent": "selection-wicker-content",
+        "title": "Plastic Wicker Basket Soft Close",
+        "cardImg": "media/wicker-basket/plastic-wicker-basket-soft-close/dp-img-1.jpg",
+        "carouselId": "carousel-wicker",
+        "images": [
+          "media/wicker-basket/plastic-wicker-basket-soft-close/dp-img-1.jpg",
+          "media/wicker-basket/plastic-wicker-basket-soft-close/plastic-wicker-basket-img-02.JPG"
+        ],
+        "features": [
+          "Modern Design: Sleek and contemporary design enhances the aesthetic appeal of your kitchen while adding functionality",
+          "Premium Material: Crafted with durable plastic wicker, featuring a sturdy wooden frame and slide, ensuring longevity and stability",
+          "Soft Close Mechanism: Equipped with a soft-close feature for gentle and noiseless closing"
+        ]
+      },
+      {
+        "id": "shoerack-product-content",
+        "prevContent": "selection-wicker-content",
+        "title": "Wardrobe Pullout 2 - Shoe Rack (Soft Close)",
+        "cardImg": "media/wicker-basket/wardrobe-pullout-2-shoe-rack-soft-close/dp-img-01.jpg",
+        "carouselId": "carousel-shoerack",
+        "images": [
+          "media/wicker-basket/wardrobe-pullout-2-shoe-rack-soft-close/dp-img-01.jpg",
+          "media/wicker-basket/wardrobe-pullout-2-shoe-rack-soft-close/WPSR-Economical-A-Square.png"
+        ],
+        "features": [
+          "Organise your footwears in a better way with these pull-out shoe racks.",
+          "Ready to use product that can be installed easily in any type of wardrobe.",
+          "Easy pullout ensures clear overview of stored item.",
+          "In-built soft closing ensures effortless functioning.",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>WP2SR-60-SC-AT</td> <td>Anthracite</td><td>₹10862.00</td>  </tr> <tr> <td>WP2SR-90-SC-AT</td> <td>Anthracite</td> <td>₹13847.00</td> </tr> </tbody> </table>"
+        ]
+      }
+    ]
+  },
+  "selection-midway-systems": {
+    "title": "Select the Product from Midway Systems",
+    "products": [
+      {
+        "id": "kitchen-midway-systems-content",
+        "prevContent": "selection-midway-systems",
+        "title": "Kitchen Midway Systems",
+        "cardImg": "media/kitchen-midway-system/kitchen-midway-system/dp-img-1.jpg",
+        "carouselId": "carousel-midway-systems",
+        "images": [
+          "media/kitchen-midway-system/kitchen-midway-system/dp-img-2.jpg",
+          "media/kitchen-midway-system/kitchen-midway-system/dp-img-1.jpg",
+          "media/kitchen-midway-system/kitchen-midway-system/dp-img-3.jpg",
+          "media/kitchen-midway-system/kitchen-midway-system/dp-img-6.jpg"
+        ],
+        "features": [
+          "Maximise your kitchen space and get easy access to your daily kitchen tools",
+          "Easy to clip on shelves/racks that can be added / removed or repositioned as per your work convenience",
+          "Made of MS and Natural Wood which adds aesthetic appeal to your countertop"
+        ]
+      },
+      {
+        "id": "cup-hanger-content",
+        "prevContent": "selection-midway-systems",
+        "title": "Cup Hanger",
+        "cardImg": "media/kitchen-midway-system/cup-hanger/dp-img-1-1.jpg",
+        "carouselId": "carousel-cup-hanger",
+        "images": [
+          "media/kitchen-midway-system/cup-hanger/dp-img-1-1.jpg",
+          "media/kitchen-midway-system/cup-hanger/dp-img-2.jpg"
+        ],
+        "features": [
+          "Manufactured out of SS 304.",
+          "Ideal for Hanging 6 cups.",
+          "Easy to fit on to the Ceiling of Cabinets.",
+          "Elegant & Cost effective design."
+        ]
+      }
+    ]
+  },
+  "selection-mixer-lift-up": {
+    "title": "Select the Product : Mixer Lift Up Stand",
+    "products": [
+      {
+        "id": "mixer-lift-up-stand",
+        "prevContent": "selection-mixer-lift-up",
+        "title": "Mixer Lift Up Stand",
+        "cardImg": "media/mixer-lift-up/mixer-lift-up/0000-0462-ezgif.com-speed.gif",
+        "carouselId": "carousel-mixer-lift-up",
+        "images": [
+          "media/mixer-lift-up/mixer-lift-up/Mixer-Lift-Up-Stand-2.jpg",
+          "media/mixer-lift-up/mixer-lift-up/dp-img-1.jpg-1.webp",
+          "media/mixer-lift-up/mixer-lift-up/0000-0462-ezgif.com-speed.gif"
+        ],
+        "features": [
+          "Stores appliances inside the cabinet, reducing countertop clutter.",
+          "Secure locking mechanism for safety.",
+          "Effortlessly smooth lifting and lowering."
+        ]
+      }
+    ]
+  }
+}
