@@ -79,7 +79,7 @@ body {
 }
 
 #content-master-container {
-    background: url('media/icon/brand-element-right-bottom.png') no-repeat right bottom 0 / 50% auto, linear-gradient(180deg, #deceb1 0%, #ffffff 100%);
+    background: url('../media/icon/brand-element-right-bottom.png') no-repeat right bottom 0 / 50% auto, linear-gradient(180deg, #deceb1 0%, #ffffff 100%);
     position: absolute;
     top: 50%;
     left: 50%;
