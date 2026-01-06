@@ -129,6 +129,12 @@
       "targetContent": "selection-23",
       "position": "6.63 -2.12 -6.10",
       "rotation": "0 75 0"
+    },
+    {
+      "id": "24",
+      "targetContent": "selection-24",
+      "position": "2.50 2.16 -9.16",
+      "rotation": "0 75 0"
     }
   ],
   "selection-pantry-max": {
@@ -762,6 +768,76 @@
           "Comes with a 4 set of screws & nuts",
           "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>LH-18-4-15</td> <td>Stainless Steel</td> <td>1157/Each</td> </tr> </tbody> </table>"          
         ]
+      },
+      {
+        "id": "content-23-03",
+        "prevContent": "selection-23",
+        "title": "Hinge for Aluminium Profile 3D - With Linear Mounting Plate",
+        "cardImg": "media-u-kitchen/HAP-hinge-and-profile-01.jpg",
+        "carouselId": "carousel-23-03",
+        "images": [
+          "media-u-kitchen/HAP-hinge-and-profile-01.jpg",
+          "media-u-kitchen/HAP-hinge-and-profile-02.jpg",
+          "media-u-kitchen/HAP-hinge-and-profile-03.jpg"
+        ],
+        "features": [
+          "Specially designed hinge with linear mounting plate for the Glass shutter Al. profiles.",
+          "Available in Overlay & Half Overlay",
+          "Hinge opening angle: 105˚",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>HAP1-TN</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAP2-TN</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAPL1-TN</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAPL2-TN</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAPL-C-TN</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAP-4-22-2</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HAP-4-22H-2</td> <td>Titanium</td> <td>₹</td> </tr> <tr> <td>HHAP-T</td> <td>Titanium</td> <td>₹</td> </tr> </tbody> </table>"
+        ]
+      },
+      {
+        "id": "content-23-04",
+        "prevContent": "selection-23",
+        "title": "Side Pullout Organizer - 2 Tier",
+        "cardImg": "media-u-kitchen/23-04-01.jpg",
+        "carouselId": "carousel-23-04",
+        "images": [
+          "media-u-kitchen/23-04-01.jpg",
+          "media-u-kitchen/23-04-02.jpg",
+          "media-u-kitchen/23-04-03.jpg"
+        ],
+        "features": [
+          "This side pullout has multiple applications - in kitchens, wardrobes and other utility cabinets where small and different things can be stored in an organized manner.",
+          "Allows you easy access by a smooth pullout slide system.",
+          "Soft close ensures smooth functioning.",
+          "Convenient to use & easy to fit.",
+          "Fits easily anywhere on side of cabinet and in narrow space.",
+          "Built in soft close mechanism.",
+          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr><td>SPO2</td><td>Anthracite</td><td>15,603/Set</td></tr> </tbody> </table>"          
+        ]
+      }
+    ]
+  },
+  "selection-24": {
+    "title": "Select the Product",
+    "products": [
+      {
+        "id": "content-24",
+        "prevContent": "selection-24",
+        "title": "Kitchen Midway Systems",
+        "cardImg": "media-u-kitchen/24-01.jpg",
+        "carouselId": "carousel-24",
+        "images": [
+          "media-u-kitchen/24-01.jpg",
+          "media-u-kitchen/24-02.jpg",
+          "media-u-kitchen/24-03.jpg",
+          "media-u-kitchen/24-04.jpg",
+          "media-u-kitchen/24-05.jpg",
+          "media-u-kitchen/24-06.jpg",
+          "media-u-kitchen/24-07.jpg",
+          "media-u-kitchen/24-08.jpg",
+          "media-u-kitchen/24-09.jpg"
+        ],
+        "features": [
+          "Maximise your kitchen space and get easy access to your daily kitchen tools",
+          "Easy to clip on shelves/racks that can be added / removed or repositioned as per your work convenience.",
+          "Made of MS and Natural Wood which adds aesthetic appeal to your countertop",
+          "Optional LED lighting in Aluminium track.",
+          "Safety Bumpers provided for additional stability and grip.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KMS-L-AT</td><td>Anthracite</td><td>2915/Each</td></tr><tr><td>KMS-AT</td><td>Anthracite</td><td>1341/Each</td></tr><tr><td>KMS-L120-AT</td><td>Anthracite</td><td>3490/Each</td></tr><tr><td>KMS-120-AT</td><td>Anthracite</td><td>1676/Each</td></tr><tr><td>KMS-S</td><td>Anthracite (with Wood)</td><td>1037/Each</td></tr><tr><td>KMS-S-SR-R</td><td>Anthracite (with Wood)</td><td>1504/Each</td></tr><tr><td>KMS-WGH</td><td>Anthracite</td><td>539/Each</td></tr><tr><td>KMS-ST</td><td>Anthracite (with Wood)</td><td>1174/Each</td></tr><tr><td>KMS-LR</td><td>Anthracite</td><td>296/Each</td></tr><tr><td>KMS-TR</td><td>Anthracite (with Wood)</td><td>1183/Each</td></tr><tr><td>KMS-S-G</td><td>Anthracite</td><td>1084/Each</td></tr><tr><td>KMS-ST-G</td><td>Anthracite</td><td>1200/Each</td></tr></tbody></table>"
+        ]
       }
     ]
   },
@@ -782,7 +858,7 @@
           "1",
           "2",
           "3",
-          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>0</td> <td>0</td> <td>0</td> </tr> </tbody> </table>"          
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>0</td><td>0</td><td>0</td></tr></tbody></table>"          
         ]
       }
     ]
