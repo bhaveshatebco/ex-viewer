@@ -285,7 +285,6 @@ function generateInitialHTML(data) {
 
         htmlContent += `
             <div id="${selectionKey}" class="modal-content-block selection-view">
-                <span class="close-button" onclick="hideAllModals()">&times;</span>
                 <p class="card-heading">${selectionTitle}</p>
                 <div class="product-selection-grid">${selectionGrid}</div>
             </div>
@@ -311,7 +310,6 @@ function generateInitialHTML(data) {
                     </div>
                 </div>
                 <div class="modal-right-column">
-                    <span class="close-button" onclick="hideAllModals()">&times;</span>
                     <span class="back-button" onclick="handleBackButtonClick(this)">&#8592;</span>
                     <h3 style="font-weight: bold; margin-top: 10px; margin-bottom: 15px; font-size: 2rem;">${product.title}</h3>
                     <ul class="feature-list">${featuresHtml}</ul>                    
