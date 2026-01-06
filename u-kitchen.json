@@ -129,12 +129,6 @@
       "targetContent": "selection-23",
       "position": "6.63 -2.12 -6.10",
       "rotation": "0 75 0"
-    },
-    {
-      "id": "24",
-      "targetContent": "selection-24",
-      "position": "2.50 2.16 -9.16",
-      "rotation": "0 75 0"
     }
   ],
   "selection-pantry-max": {
@@ -751,7 +745,8 @@
           "Comes with slide length of 482mm for smooth operation.",
           "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>PHR48-SC</td> <td>Anthracite</td> <td>3219/Each</td> </tr> </tbody> </table>"          
         ]
-      },{
+      },
+      {
         "id": "content-23-02",
         "prevContent": "selection-23",
         "title": "Lid Holder For Pan Hanger",
@@ -766,38 +761,6 @@
           "Compatible with Sleek Telescopic Drawer Slides 500mm",
           "Comes with a 4 set of screws & nuts",
           "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>LH-18-4-15</td> <td>Stainless Steel</td> <td>1157/Each</td> </tr> </tbody> </table>"          
-        ]
-      },{
-        "id": "content-23-03",
-        "prevContent": "selection-23",
-        "title": "TITLE",
-        "cardImg": "media-u-kitchen/23-03-01.jpg",
-        "carouselId": "carousel-23-03",
-        "images": [
-          "media-u-kitchen/23-03-01.jpg",
-          "media-u-kitchen/23-03-02.jpg"
-        ],
-        "features": [
-          "1",
-          "2",
-          "3",
-          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>0</td> <td>0</td> <td>0</td> </tr> </tbody> </table>"          
-        ]
-      },{
-        "id": "content-23-04",
-        "prevContent": "selection-23",
-        "title": "TITLE",
-        "cardImg": "media-u-kitchen/23-04-01.jpg",
-        "carouselId": "carousel-23-04",
-        "images": [
-          "media-u-kitchen/23-04-01.jpg",
-          "media-u-kitchen/23-04-02.jpg"
-        ],
-        "features": [
-          "1",
-          "2",
-          "3",
-          "<table> <thead> <tr> <th>Item Code</th> <th>Finish</th> <th>Price</th> </tr> </thead> <tbody> <tr> <td>0</td> <td>0</td> <td>0</td> </tr> </tbody> </table>"          
         ]
       }
     ]
