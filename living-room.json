@@ -59,7 +59,7 @@
       {
         "id": "content-01",
         "prevContent": "selection-01",
-        "title": "Spin-360",
+        "title": "Spinova 360",
         "cardImg": "media-u-kitchen/01-01.jpg",
         "carouselId": "carousel-01",
         "images": [
@@ -256,4 +256,5 @@
       }
     ]
   }
+
 }
