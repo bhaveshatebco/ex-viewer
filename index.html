@@ -26,10 +26,9 @@
 
     <a-scene id="my-scene" embedded vr-mode-ui="enabled: false" cursor="rayOrigin: mouse"
         raycaster="objects: .collidable; interval: 100;">
-        <!-- <a-sky id="main-environment-asset" src="media/3d-image/Kitchen-Area-Render-20251220-1415-2560x1280.png" rotation="0 -90 0"></a-sky> -->
         <a-sky id="main-environment-asset" src="" rotation="0 0 0"></a-sky>
         <a-entity id="camera-wrapper">
-            <a-camera camera="fov: 75;"
+            <a-camera camera="fov: 100;"
                 look-controls="mouseEnabled: true; reverseMouseDrag: true; magicWindowTrackingEnabled: false;"
                 custom-touch-override pinch-to-zoom raycaster="objects: .collidable"></a-camera>
         </a-entity>
@@ -37,11 +36,11 @@
 
     <div id="modal-overlay">
         <div id="content-master-container" class="modal-content-container">
+            <span class="close-button global-close" onclick="hideAllModals()">&times;</span>
             <div id="dynamic-content-area"></div>
         </div>
     </div>
     <script src="code/script.js"></script>
 </body>
-
 
 </html>
