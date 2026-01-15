@@ -1,0 +1,42 @@
+{
+  "sceneConfig": {
+    "panorama": "media-u-kitchen/kitchen-area-render-20251220-1415-2560x1280.png",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "1",
+      "targetContent": "selection-1",
+      "position": "4.00 4.46 -11.706",
+      "rotation": "0 75 0"
+    },
+    {
+      "id": "20",
+      "targetContent": "selection-20",
+      "position": "2.50 2.16 -9.16",
+      "rotation": "0 75 0"
+    }
+  ],
+  "selection-EMPTY": {
+    "title": "TITLE",
+    "products": [
+      {
+        "id": "content-EMPTY",
+        "prevContent": "selection-EMPTY",
+        "title": "TITLE",
+        "cardImg": "media-foldername/EMPTY-01.jpg",
+        "carouselId": "carousel-EMPTY",
+        "images": [
+          "media-foldername/EMPTY-01.jpg",
+          "media-foldername/EMPTY-02.jpg"
+        ],
+        "features": [
+          "1",
+          "2",
+          "3",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}
