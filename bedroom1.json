@@ -43,7 +43,7 @@
     {
       "id": "11",
       "targetContent": "selection-11",
-      "position": "5.50 3.00 -5.20",
+      "position": "6.50 3.00 -6.00",
       "rotation": "0 0 0"
     },    
     {
@@ -54,7 +54,7 @@
     }
   ],
   "selection-09-01": {
-    "title": "BEDROOM-1",
+    "title": "Bedroom 1",
     "products": [
       {
         "id": "content-09-01",
@@ -75,7 +75,7 @@
     ]
   },
   "selection-09-02": {
-    "title": "BEDROOM-1",
+    "title": "Bedroom 1",
     "products": [
       {
         "id": "content-09-02",
@@ -96,7 +96,7 @@
     ]
   },
   "selection-10-01": {
-    "title": "BEDROOM-1",
+    "title": "Bedroom 1",
     "products": [
       {
         "id": "content-10-01",
@@ -117,7 +117,7 @@
     ]
   },
   "selection-10-02": {
-    "title": "BEDROOM-1",
+    "title": "Bedroom 1",
     "products": [
       {
         "id": "content-10-02",
@@ -138,7 +138,7 @@
     ]
   },
   "selection-10-03": {
-    "title": "BEDROOM-1",
+    "title": "Bedroom 1",
     "products": [
       {
         "id": "content-10-03",
@@ -160,7 +160,7 @@
     ]
   },
   "selection-10-04": {
-    "title": "BEDROOM-1",
+    "title": "Bedroom 1",
     "products": [
       {
         "id": "content-10-04",
@@ -182,7 +182,7 @@
     ]
   },
   "selection-11": {
-    "title": "BEDROOM-1",
+    "title": "Bedroom 1",
     "products": [
       {
         "id": "content-11-05",
@@ -221,7 +221,7 @@
     ]
   },
   "selection-12": {
-    "title": "BEDROOM-1",
+    "title": "Bedroom 1",
     "products": [
       {
         "id": "content-12-01",
