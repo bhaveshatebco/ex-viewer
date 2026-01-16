@@ -345,7 +345,7 @@
         "cardImg": "media-u-kitchen/10-01-01.jpg",
         "carouselId": "carousel-10-01",
         "images": [
-          "media-u-kitchen/10-01-01.jpg",
+          "media-u-kitchen/10-01-01.jpg", 
           "media-u-kitchen/10-01-02.jpg"
         ],
         "features": [
@@ -355,7 +355,7 @@
           "Fascia panel system for internal drawers",
           "Side panel height: 90mm",
           "Load capacity: 50kg",
-          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS1-30-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS1-35-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS1-40-S3</td><td>White / Anthracite / Black</td><td>₹</td></tr><tr><td>PMDS1-45-S3</td><td>White / Anthracite/ Brown /Black/ Oak</td><td>₹</td></tr><tr><td>PMDS1-50-S3</td><td>White / Anthracite/ Brown / Black / Oak</td><td>₹</td></tr><tr><td>PMDS1-55-S3</td><td>White / Anthracite/ Brown / Black / Oak</td><td>₹</td></tr><tr><td>PMDS1-60-S3</td><td>White/ Anthracite / Black</td><td>₹</td></tr><tr><td>PMDS1-S3-FC</td><td>White / Anthracite / Brown / Black</td><td>₹</td></tr><tr><td>PMDS-G1-45-S3</td><td>White/Anthracite/Brown</td><td>₹</td></tr><tr><td>PMDS-G1-50-S3</td><td>White/Anthracite/Brown</td><td>₹</td></tr><tr><td>PMDS-G1-55-S3</td><td>White/Anthracite/Brown</td><td>₹</td></tr><tr><td>PMDS-G1-60-S3</td><td>White/Anthracite</td><td>₹</td></tr><tr><td>PMDS-S3-LED-50</td><td>Anthracite</td><td>₹</td></tr><tr><td>PMDS-LP1-S3-AT</td><td>Anthracite</td><td>₹</td></tr></tbody></table>"
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS1-30-S3</td><td>White / Anthracite</td><td>3,226/Set</td></tr><tr><td>PMDS1-35-S3</td><td>White / Anthracite</td><td>3,251/Set</td></tr><tr><td>PMDS1-40-S3</td><td>White / Anthracite / Black</td><td>3,301/Set</td></tr><tr><td>PMDS1-45-S3</td><td>White / Anthracite / Black / Brown</td><td>3,477/Set</td></tr><tr><td>PMDS1-45-S3</td><td>Oak  </td><td>4,179/Set</td></tr><tr><td>PMDS1-50-S3</td><td>White / Anthracite / Black / Brown</td><td>3,522/Set</td></tr><tr><td>PMDS1-50-S3</td><td>Oak</td><td>4,326/Set</td></tr><tr><td>PMDS1-55-S3</td><td>White / Anthracite / Black / Brown</td><td>3,610/Set</td></tr><tr><td>PMDS1-55-S3</td><td>Oak</td><td>4,507/Set</td></tr><tr><td>PMDS1-60-S3</td><td>White / Anthracite / Black  </td><td>4,035/Set</td></tr><tr><td>PMDS1G-45-S3</td><td>White / Anthracite</td><td>4,148/Set</td></tr><tr><td>PMDS1G-50-S3</td><td>White / Anthracite</td><td>4,403/Set</td></tr><tr><td>PMDS1G-55-S3</td><td>White / Anthracite</td><td>4,568/Set</td></tr></tbody></table>"
         ]
       },
       {
@@ -373,7 +373,7 @@
           "Diagonal stripes pattern tray surface for better hold",
           "Diamond pattern top for an elegant look",
           "Available in 7 different cut-able widths to fit any drawer",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KCT5-40-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-45-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-50-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-60-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-70-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-80-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT5-90-AT</td><td>Anthracite</td><td>₹</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KCT5-40</td><td>Anthracite</td><td>801/Each</td><td></tr></td><td><tr></td><td>KCT5-45</td><td>Anthracite</td><td>878/Each</td><td></tr></td><td><tr></td><td>KCT5-50</td><td>Anthracite</td><td>920/Each</td><td></tr></td><td><tr></td><td>KCT5-60</td><td>Anthracite</td><td>1039/Each</td><td></tr></td><td><tr></td><td>KCT5-70</td><td>Anthracite</td><td>1227/Each</td><td></tr></td><td><tr></td><td>KCT5-80</td><td>Anthracite</td><td>1323/Each</td><td></tr></td><td><tr></td><td>KCT5-90</td><td>Anthracite</td><td>1399/Each</td><td></tr></td></tbody></table>"
        ]
       },
       {
@@ -392,7 +392,7 @@
           "Includes 2 lights (right & left, 500mm each) and 1 controller box for full drawer coverage",
           "Tool-free installation with strong adhesive backing.",
           "Runs on 6 AAA batteries with a built-in sensor that automatically turns on the light when the drawer opens and switches off when closed or after 20 seconds.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS-S3-LED-50</td><td>Anthracite</td><td>₹</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS-S3-LED-50</td><td>Anthracite</td><td>2711/Set</td></tr></tbody></table>"
        ]
       },
       {
@@ -411,7 +411,7 @@
           "Quick installation and dismantle.",
           "Facia panel system for internal drawers",
           "Load capacity: 50kg",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS2-30-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS2-35-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS2-40-S3</td><td>White / Anthracite / Black</td><td>₹</td></tr><tr><td>PMDS2-45-S3</td><td>White / Anthracite / Brown / Oak / Black</td><td>₹</td></tr><tr><td>PMDS2-50-S3</td><td>White / Anthracite / Brown / Oak / Black</td><td>₹</td></tr><tr><td>PMDS2-55-S3</td><td>White / Anthracite / Brown / Oak / Black</td><td>₹</td></tr><tr><td>PMDS2-60-S3</td><td>White / Anthracite / Brown / Black</td><td>₹</td></tr><tr><td>PMDS2-S3-FC</td><td>White / Anthracite / Brown / Black</td><td>₹</td></tr><tr><td>PMDS2-S3-FP</td><td>White / Anthracite / Brown / Black</td><td>₹</td></tr><tr><td>PMDS-G1-45-S3</td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-50-S3</td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-55-S3</td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-60-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS-S3-LED-50</td><td>Anthracite</td><td>₹</td></tr><tr><td>PMDS-LP1-S3-AT</td><td>Anthracite</td><td>₹</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS2-30-S3</td><td>White / Anthracite</td><td>3,427/Set</td></tr><tr><td>PMDS2-35-S3</td><td>White / Anthracite</td><td>3,452/Set</td></tr><tr><td>PMDS2-40-S3</td><td>White / Anthracite / Black</td><td>3,526/Set</td></tr><tr><td>PMDS2-45-S3</td><td>White / Anthracite / Brown / Black</td><td>3,707/Set</td></tr><tr><td>PMDS2-45-S3-OK</td><td>Oak</td><td>4,631/Set</td></tr><tr><td>PMDS2-50-S3</td><td>White / Anthracite / Brown / Black</td><td>3,775/Set</td></tr><tr><td>PMDS2-50-S3-OK</td><td>Oak</td><td>4,699/Set</td></tr><tr><td>PMDS2-55-S3</td><td>White / Anthracite / Brown / Black</td><td>3,843/Set</td></tr><tr><td>PMDS2-55-S3-OK</td><td>Oak</td><td>4,823/Set</td></tr><tr><td>PMDS2-60-S3</td><td>White / Anthracite / Black</td><td>4,392/Set</td></tr><tr><td>PMDS2G-45-S3</td><td>White / Anthracite</td><td>4,466/Set</td></tr><tr><td>PMDS2G-50-S3</td><td>White / Anthracite</td><td>4,746/Set</td></tr><tr><td>PMDS2G-55-S3</td><td>White / Anthracite</td><td>4,950/Set</td></tr></tbody></table>"
        ]
       },
       {
@@ -428,7 +428,7 @@
           "Diagonal stripes pattern surface for better hold.",
           "Available in 6 different cut able width to fit any drawer.",
           "Extension tray available works as an add-on with the Kitchen Cutlery Tray 4 or as a standalone organizer for flexible use.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KCT4-40</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT4-45</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT4-70</td><td>Anthracite</td><td>₹</td></tr><tr><td>KCT4-15E-AT</td><td>Anthracite</td><td>₹</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KCT4-40-AT</td><td>Anthracite</td><td>625/Each</td></tr><tr><td>KCT4-45-AT</td><td>Anthracite</td><td>687/Each</td></tr><tr><td>KCT4-50-AT</td><td>Anthracite</td><td>728/Each</td></tr><tr><td>KCT4-60-AT</td><td>Anthracite</td><td>830/Each</td></tr><tr><td>KCT4-70-AT</td><td>Anthracite</td><td>997/Each</td></tr><tr><td>KCT4-80-AT</td><td>Anthracite</td><td>1046/Each  </td></tr><tr><td>KCT4-90-AT</td><td>Anthracite</td><td>1107/Each</td></tr><tr><td>KCT4-15E-AT</td><td>Anthracite</td><td>377/Each</td></tr></tbody></table>"
        ]
       },
       {
@@ -446,9 +446,7 @@
           "Quick installation and dismantle.",
           "Facia panel system for internal drawers",
           "Load capacity: 50kg",
-
-
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS4-45-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS4-50-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS4-55-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS-G1-45-S3</td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-50-S3</td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-55-S3</td><td>White / Anthracite / Brown</td><td>₹</td></tr><tr><td>PMDS-G1-60-S3</td><td>White / Anthracite</td><td>₹</td></tr><tr><td>PMDS-S3-LED-50</td><td>Anthracite</td><td>₹</td></tr><tr><td>PMDS-LP1-S3-AT</td><td>Antracite</td><td>₹</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS4-45-S3</td><td>White / Anthracite</td><td>4,697/Set</td></tr><tr><td>PMDS4-50-S3</td><td>White / Anthracite</td><td>4,975/Set</td></tr><tr><td>PMDS4-55-S3</td><td>White / Anthracite</td><td>5,205/Set</td></tr></tbody></table>"
        ]
       },
       {
@@ -466,7 +464,7 @@
         "features": [
           "Suitable for drawer width 600mm/900mm",
           "Capacity: 35L (15L+20L), 55L (15L+20L+20L)",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KDB60-35-AT</td><td>Anthracite</td><td>₹</td></tr><tr><td>KDB90-55-AT</td><td>Anthracite</td><td>₹</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KDB60-35</td><td>Anthracite</td><td>7,705/Set</td></tr><tr><td>KDB90-55</td><td>Anthracite</td><td>9,304/Set</td></tr></tbody></table>"
        ]
       }
     ]
