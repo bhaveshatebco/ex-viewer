@@ -42,6 +42,8 @@ body {
     padding: 0;
     /* This removes the scrollbar for the whole screen */
     overflow: hidden !important; 
+    overscroll-behavior-x: none;
+    overscroll-behavior: none;
 }
 
 /* Full screen overlay to cover the scene */
@@ -80,6 +82,11 @@ body {
     100% { transform: rotate(360deg); }
 }
 
+/* @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+} */
+
 .hidden {
     opacity: 0;
     pointer-events: none;
@@ -102,11 +109,12 @@ body {
     background: url('../code/icon/brand-element-right-bottom.png') no-repeat right bottom 0 / 50% auto,
         linear-gradient(180deg, #deceb1 0%, #ffffff 100%);
     position: absolute;
-    padding-top: 60px !important; /* Creates clear space at the top so buttons don't overlap text */
+    /* padding-top: 60px !important; */ /* Creates clear space at the top so buttons don't overlap text */
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    padding: 3rem 2rem 2rem 2rem;
+    /* padding: 3rem 2rem 2rem 2rem; */
+    padding: 4rem 3rem !important;
     margin-top: auto;
     margin-bottom: auto;
 
@@ -115,28 +123,35 @@ body {
 
     /* display: inline-block; */
     /* width: auto; */
-    
-
-    min-height: 480px;      
-    min-width: 480px;          
-    width: max-content;
+    /* width: max-content; */
     /* width: 90vw; */
-    max-width: 900px;          
+    /* width: fit-content; */
+    /* max-width: 900px; */  
+    width: max-content;       
+    min-width: 480px;          
+    max-width: 90vw;  
+    
     height: auto;
+    min-height: 480px;      
     max-height: 90vh;
-
+    /* max-height: 95vh; */
+    
     overflow-y: auto; 
     box-sizing: border-box;
     border-radius: 1rem;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
-    transition: max-width 0.4s ease-in-out, transform 0.3s;
+    /* transition: max-width 0.4s ease-in-out, transform 0.3s; */
+    /* transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); */
+    /* overflow: hidden; */ /* Prevents content from 'popping' out during the grow animation */
 }
 
 /* MODIFIED: When Product Detail is open */
 #content-master-container.wide-mode {
-    width: 90vw;
+    /* width: 90vw; */
+    width: 90vw !important;
     height: 80vh;    
-    max-width: 90vw;
+    /* max-width: 90vw; */
+    max-width: 1100px;
     display: flex;   
     flex-direction: column; 
     /* Lock the outer container so it doesn't scroll */
@@ -147,6 +162,7 @@ body {
     display: none;
     /* Ensure content takes full height for the flex split */
     height: 100%; 
+    /* animation: fadeIn 0.5s ease; */
 }
 
 .product-selection-grid {
@@ -154,6 +170,7 @@ body {
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
+    max-width: 1200px;
 }
 
 .product-card {
@@ -188,7 +205,8 @@ body {
     font-size: 2rem;
     margin: 0;
     text-align: center;
-    margin: 1rem 0 2rem 0;
+    /* margin: 1rem 0 2rem 0; */
+    margin: 0rem 0 1.5rem 0;
 }
 
 .card-title {
@@ -209,21 +227,23 @@ body {
 
 /* MODIFIED: Left stays fixed */
 .modal-left-column {
-    flex: 0 0 50%;
-    max-width: 50%;
+    flex: 0 0 40%;
+    max-width: 40%;
     /* margin-top: 1rem; */
     overflow: hidden; /* Prevent this half from scrolling */
 }
 
 /* MODIFIED: Right scrolls */
 .modal-right-column {
-    flex: 0 0 50%;
-    max-width: 50%;
+    flex: 0 0 60%;
+    max-width: 60%;
     padding: 0 10px 0 0;
     /* This is the only part that scrolls in landscape */
-    max-height: 440px;
+    /* max-height: 440px; */
+    max-height: 62vh;
     overflow-y: auto !important; 
     box-sizing: border-box;
+    margin-top: 1.5rem;
 }
 
 .image-carousel {
@@ -232,7 +252,8 @@ body {
     padding-top: 100%;
     margin: 0;
     overflow: hidden;
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
+    margin-top: 1.5rem;
 }
 
 .slides-container {
@@ -310,8 +331,8 @@ body {
 
 .back-button {
     position: absolute !important;
-    top: 30px; 
-    left: 53px; /* Moves it from right to left */
+    top: 32px; 
+    left: 54px; /* Moves it from right to left */
     line-height: 1;
     z-index: 1001;
     display: inline;
@@ -349,7 +370,7 @@ body {
 }
 
 .feature-list li {
-    font-size: 1.1rem;
+    font-size: 1.25rem;
     white-space: normal;
     margin-bottom: 7px;
 }
@@ -430,4 +451,29 @@ body {
         padding: 5%;
         padding-bottom: 8%;
     }
+}
+
+
+
+/* 3. THE MOBILE FIX (Media Query) */
+@media (max-width: 800px) {
+    #content-master-container {
+        /* On mobile, max-content is dangerous. We switch to relative width. */
+        width: 90vw !important; 
+        max-width: 95vw;
+        /* Padding adjustment for smaller screens */
+        padding: 1.5rem; 
+    }
+
+    #content-master-container.wide-mode {
+        width: 95vw !important;
+        height: 90vh;
+    }
+
+    /* Ensure one card doesn't look weird on mobile */
+    .product-card {
+        width: 100%; /* Card fills the modal width on phones */
+        max-width: 15rem;
+        margin: 0 auto;
+    }   
 }
