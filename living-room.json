@@ -8,49 +8,55 @@
       "id": "01",
       "targetContent": "selection-01",
       "position": "-8.67 4.74 0.55",
-      "rotation": "0 75 0"
+      "rotation": "0 0 0"
     },
     {
       "id": "02",
       "targetContent": "selection-02",
       "position": "-8.67 4.24 -3.00",
-      "rotation": "0 75 0"
+      "rotation": "0 0 0"
     },
     {
       "id": "03",
       "targetContent": "selection-03",
       "position": "-8.67 -1.80 1.75",
-      "rotation": "0 75 0"
+      "rotation": "0 0 0"
     },
     {
       "id": "04",
       "targetContent": "selection-04",
       "position": "-7.50 -1.52 -3.12",
-      "rotation": "0 75 0"
+      "rotation": "0 0 0"
     },
     {
       "id": "04",
       "targetContent": "selection-04",
       "position": "-7.50 -1.52 -3.12",
-      "rotation": "0 75 0"
+      "rotation": "0 0 0"
     },
     {
       "id": "05",
       "targetContent": "selection-05",
       "position": "-7.50 -2.90 -1.76",
-      "rotation": "0 75 0"
+      "rotation": "0 0 0"
     },
     {
       "id": "06",
       "targetContent": "selection-06",
       "position": "-7.50 -4.90 -2.56",
-      "rotation": "0 75 0"
+      "rotation": "0 0 0"
     },
     {
       "id": "07",
       "targetContent": "selection-07",
       "position": "0.12 -3.19 -6.75",
-      "rotation": "0 75 0"
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "08",
+      "targetContent": "selection-08",
+      "position": "7.22 3.79 -1.05",
+      "rotation": "0 0 0"
     }
   ],
   "selection-01": {
@@ -112,7 +118,7 @@
           "Ideal for hanging wine glasses.",
           "Easy to fit on to the ceiling of cabinets.",
           "Elegant & cost effective design.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>WGHS-04-14-03</td><td>SS304</td><td>350/Each</td></tr><tr><td>WGHD-08-14-03</td><td>SS304</td><td>636/Each</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>WGHS-04-14-03</td><td>Stainless Steel 304</td><td>350/Each</td></tr><tr><td>WGHD-08-14-03</td><td>Stainless Steel 304</td><td>636/Each</td></tr></tbody></table>"
         ]
       }
     ]
@@ -205,7 +211,7 @@
           "Made out of polypropylene (PP).",
           "Skirting clip with bracket to attach skirting boards to the front of pedestal units.",
           "Provision of spanner for height adjustment.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PVCSE-08-BL-30</td><td>Black</td><td>₹ 409 / set of 3m</td></tr><tr><td>PVCSE-08-SL-30</td><td>Silver</td><td>₹ 509 / set of 3m</td></tr><tr><td>PVCSE-10-GR-30</td><td>Gray</td><td>₹ 480 / set of 3m</td></tr><tr><td>PVCSE-10-WD-30</td><td>Wood Finish</td><td>₹ 541 / set of 3m</td></tr><tr><td>PVCSE-10-BS-3</td><td>Brushed Silver</td><td>₹ 448 / set of 3.65m</td></tr><tr><td>PVCSE-10-BF-30</td><td>Brushed Special Finish</td> <td>₹ 555 / set of 3m</td></tr><tr><td>PVCSE-10-BG-30</td><td>Brushed Gold</td><td>₹ 555 / set of 3m</td></tr><tr><td>PVCSE-10-BL-30</td><td>Black</td><td>₹ 423 / set of 3m</td></tr><tr><td>PVCSE-10-SL-30</td><td>Silver</td><td>₹ 444 / set of 3m</td></tr><tr><td>PVCSE-10-AT-30</td><td>Anthracite</td><td>₹ 597 / set of 3m</td></tr><tr><td>PVCSE-10-WH-30</td><td>White</td><td>₹ 409 / set of 3m</td></tr><tr><td>PVCSE-10-GC-30</td><td>Glossy Chrome</td><td>₹ 922 / set of 3m</td></tr><tr><td>PVCSE-15-BL-30</td><td>Black</td><td>₹ 649 / set of 3m</td></tr><tr><td>PVCSE-15-SL-30</td><td>Silver</td><td>₹ 691 / set of 3m</td></tr><tr><td>CJ90-08-BL</td><td>Black</td><td>₹ 126 / each</td></tr><tr><td>CJ90-08-SL</td><td>Silver</td><td>₹ 130 / each</td></tr><tr><td>CJ90-10-SL</td><td>Silver</td><td>₹ 161 / each</td></tr><tr><td>CJ90-10-BL</td><td>Black</td><td>₹ 149 / each</td></tr><tr><td>CJ90-10-AT</td><td>Anthracite</td><td>₹ 153 / each</td></tr><tr><td>CJ90-10-GC</td><td>Glossy Chrome</td><td>₹ 199 / each</td></tr><tr><td>CJ90-10-WH</td><td>White</td><td>₹ 145 / each</td></tr><tr><td>CJ90-10-GR</td><td>Gray</td><td>₹ 149 / each</td></tr><tr><td>CJ90-10-BS</td><td>Brushed Silver</td><td>₹ 145 / each</td></tr><tr><td>CJ90-10-WD</td><td>Wood Finish</td><td>₹ 134 / each</td></tr><tr><td>CJ90-10-BF</td><td>Brushed Special Finish</td><td>₹ 157 / each</td></tr><tr><td>CJ90-10-BG</td><td>Brushed Gold</td><td>₹ 157 / each</td></tr><tr><td>CJ90-15-BL</td><td>Black</td><td>₹ 195 / each</td></tr><tr><td>CJ90-15-SL</td><td>Silver</td><td>₹ 210 / each</td></tr><tr><td>SJ-08-BL</td><td>Black</td><td>₹ 115 / each</td></tr><tr><td>SJ-08-SL</td><td>Silver</td><td>₹ 115 / each</td></tr><tr><td>SJ-10-BL</td><td>Black</td><td>₹ 119 / each</td></tr><tr><td>SJ-10-AT</td><td>Anthracite</td><td>₹ 126 / each</td></tr><tr><td>SJ-10-GC</td><td>Glossy Chrome</td><td>₹ 176 / each</td></tr><tr><td>SJ-10-SL</td><td>Silver</td><td>₹ 130 / each</td></tr><tr><td>SJ-10-WH</td><td>White</td><td>₹ 117 / each</td></tr><tr><td>SJ-10-GR</td><td>Gray</td><td>₹ 119 / each</td></tr><tr><td>SJ-10-BS</td><td>Brushed Silver</td><td>₹ 130 / each</td></tr><tr><td>SJ-10-BF</td><td>Brushed Special Finish</td><td>₹ 132 / each</td></tr><tr><td>SJ-10-BG</td><td>Brushed Gold</td><td>₹ 132 / each</td></tr><tr><td>SJ-10-WD</td><td>Wood Finish</td><td>₹ 109 / each</td></tr><tr><td>SJ-15-BL</td><td>Black</td><td>₹ 157 / each</td></tr><tr><td>SJ-15-SL</td><td>Silver</td><td>₹ 168 / each</td></tr><tr><td>FJ-08-BL</td><td>Black</td><td>₹ 153 / each</td></tr><tr><td>FJ-08-SL</td><td>Silver</td><td>₹ 161 / each</td></tr><tr><td>FJ-10-BL</td><td>Black</td><td>₹ 233 / each</td></tr><tr><td>FJ-10-SL</td><td>Silver</td><td>₹ 249 / each</td></tr><tr><td>FJ-10-BS</td><td>Brushed Silver</td><td>₹ 180 / each</td></tr><tr><td>FJ-15-BL</td><td>Black</td><td>₹ 306 / each</td></tr><tr><td>FJ-15-SL</td><td>Silver</td><td>₹ 337 / each</td></tr><tr><td>EJ-08-BL</td><td>Black</td><td>₹ 101 / each</td></tr><tr><td>EJ-08-SL</td><td>Silver</td><td>₹ 105 / each</td></tr><tr><td>EJ-10-BL</td><td>Black</td><td>₹ 101 / each</td></tr><tr><td>EJ-10-SL</td><td>Silver</td><td>₹ 101 / each</td></tr><tr><td>EJ-10-AT</td><td>Anthracite</td><td>₹ 101 / each</td></tr><tr><td>EJ-10-WH</td><td>White</td><td>₹ 101 / each</td></tr><tr><td>EJ-10-GR</td><td>Gray</td><td>₹ 101 / each</td></tr><tr><td>EJ-10-BS</td><td>Brushed Silver</td><td>₹ 105 / each</td></tr><tr><td>EJ-10-BF</td><td>Brushed Special Finish</td><td>₹ 116 / each</td></tr><tr><td>EJ-10-BG</td><td>Brushed Gold</td><td>₹ 116 / each</td></tr><tr><td>EJ-10-WD</td><td>Wood Finish</td><td>₹ 101 / each</td></tr><tr><td>EJ-15-BL</td><td>Black</td><td>₹ 122 / each</td></tr><tr><td>EJ-15-SL</td><td>Silver</td><td>₹ 126 / each</td></tr><tr><td>Q-PF-100-WO</td><td>Black</td><td>₹ 191 / set of 5 nos.</td></tr><tr><td>Q-PF-150-WO</td><td>Black</td><td>₹ 241 / set of 5 nos.</td></tr><tr><td>Q-PFSCB1</td><td>Black</td><td>₹ 911 / set of 100 nos.</td></tr></tbody></table>"
         ]
       }
     ]
@@ -236,24 +242,25 @@
       }
     ]
   },
-  "selection-EMPTY": {
+  "selection-08": {
     "title": "Living Room",
-    "products": [
+    "products": [ 
       {
-        "id": "content-EMPTY",
-        "prevContent": "selection-EMPTY",
-        "title": "TITLE",
-        "cardImg": "media-living-room/EMPTY-01.jpg",
-        "carouselId": "carousel-EMPTY",
+        "id": "content-08",
+        "prevContent": "selection-08",
+        "title": "Cube Shelving System",
+        "cardImg": "media-living-room/08-01.webp",
+        "carouselId": "carousel-08",
         "images": [
-          "media-living-room/EMPTY-01.jpg",
-          "media-living-room/EMPTY-02.jpg"
+          "media-living-room/08-01.webp",
+          "media-living-room/08-02.webp"
         ],
         "features": [
-          "1",
-          "2",
-          "3",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>0</td><td>0</td><td>0</td></tr></tbody></table>"
+          "Design for portable cube shelving with aluminium profiles.",
+          "Aluminium profile with extended support available for 6mm glass & 16mm board.",
+          "Built for Strength and durability.",
+          "Easy to fit & Use.",
+          "<table><thead><tr><th style='width: 30%;'>Item</th><th style='width: 10%;'>Image</th><th style='width: 18%;'>Code</th><th style='width: 12%;'>Finish</th><th style='width: 15%;'>Quantity</th><th style='width: 10%;'>Amount</th></tr></thead><tbody><tr><td>Cube - Aluminium Profile without Support</td><td><img style='width: 99%;' src='media-living-room/08-11.png' alt=''></td><td>CSPC-3M-AP-BL</td><td>Black</td><td>1 Nos</td><td>₹ 771</td></tr><tr><td>Cube - Aluminium Profile for 16mm Board Side Wall</td><td rowspan='2'><img style='width: 99%;' src='media-living-room/08-12.png' alt=''></td><td>CSPC-3M-APBS-BL</td><td>Black</td><td>4 Nos</td><td>₹ 3,453</td></tr><tr><td>Cube - Aluminium Profile for 16mm Board Side Wall</td><td>CSPC-3M-APBS-BL</td><td>Black</td><td>1 Nos</td><td>₹ 863</td></tr><tr><td>Cube Shelving Connector - Five Way</td><td><img style='width: 99%;' src='media-living-room/08-13.png' alt=''></td><td>CSPC-5W</td><td>Black</td><td>6 Nos</td><td>₹ 427</td></tr><tr><td>Cube Shelving Connector - Three Way Corner</td><td><img style='width: 99%;' src='media-living-room/08-14.png' alt=''></td><td>CSPC-3WC</td><td>Black</td><td>40 Nos</td><td>₹ 2,430</td></tr><tr><td>Cube Shelving Connector - Four Way Edge</td><td><img style='width: 99%;' src='media-living-room/08-15.png' alt=''></td><td>CSPC-4WE</td><td>Black</td><td>16 Nos</td><td>₹ 1,106</td></tr><tr><td>Spot Diffused (Surface mount)</td><td><img style='width: 99%;' src='media-living-room/08-16.png' alt=''></td><td>S-SDS-NW</td><td>Anodized Silver</td><td>3 Nos</td><td>₹ 1,634</td></tr><tr><td>Super Spot 1 (Surface Mount)</td><td><img style='width: 99%;' src='media-living-room/08-17.jpg' alt=''></td><td>S-SSS1-NW</td><td>Black</td><td>1 Nos</td><td>₹ 576</td></tr><tr><td>Power Supply Unit - Series 3</td><td rowspan='2'><img style='width: 99%;' src='media-living-room/08-18.png' alt=''></td><td>PSU3-2436</td><td>Black</td><td>2 Nos</td><td>₹ 6,201</td></tr><tr><td>Power Supply Unit - Series 3</td><td>PSU3-2465</td><td>Black</td><td>1 Nos</td><td>₹ 3,499</td></tr><tr><td>Extension Cord for Light Series 2 (24V)</td><td><img style='width: 99%;' src='media-living-room/08-19.png' alt=''></td><td>L-EC2</td><td>Black</td><td>4 Nos</td><td>₹ 913</td></tr><tr><td>Concealed Drawer Slides - Slim 2-Push Open (with Facia Bracket)</td><td><img style='width: 99%;' src='media-living-room/08-20.png' alt=''></td><td>CDSS230-PO</td><td>Zinc White</td><td>3 Nos</td><td>₹ 4,916</td></tr><tr><td colspan='5' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ 26,791</td></tr></tbody></table>"
         ]
       }
     ]
