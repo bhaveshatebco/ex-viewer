@@ -314,7 +314,7 @@ function generateInitialHTML(data) {
                     </div>
                 </div>
                 <div class="modal-right-column">
-                    <h3 style="font-weight: bold; margin-top: 10px; margin-bottom: 15px; font-size: 2rem;">${product.title}</h3>
+                    <h3 style="font-weight: bold; margin-top: 5px; font-size: 2rem;">${product.title}</h3>
                     <ul class="feature-list">${featuresHtml}</ul>                    
                 </div>
             </div>
@@ -388,6 +388,7 @@ function handleHotspotClick(hotspotElement) {
 }
 
 function handleProductSelect(cardElement) {
+    
     const targetContentId = cardElement.getAttribute('data-target-content');
 
     const currentContentBlock = document.getElementById(currentContentId);
