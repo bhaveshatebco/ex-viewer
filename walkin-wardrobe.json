@@ -12,7 +12,7 @@
     }
   ],
   "selection-01": {
-    "title": "TITLE",
+    "title": "Walk-in Wardrobe",
     "products": [
       {
         "id": "content-01-01",
@@ -75,12 +75,12 @@
     ]
   },
   "selection-EMPTY": {
-    "title": "TITLE",
+    "title": "Walk-in Wardrobe",
     "products": [
       {
         "id": "content-EMPTY",
         "prevContent": "selection-EMPTY", 
-        "title": "TITLE",
+        "title": "Walk-in Wardrobe",
         "cardImg": "media-walkin-wardrobe/EMPTY-01.jpg",
         "carouselId": "carousel-EMPTY",
         "images": [
