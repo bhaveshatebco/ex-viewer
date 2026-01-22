@@ -5,16 +5,10 @@
   },
   "hotspots": [
     {
-      "id": "1",
-      "targetContent": "selection-1",
+      "id": "01",
+      "targetContent": "selection-01",
       "position": "4.00 4.46 -11.706",
-      "rotation": "0 75 0"
-    },
-    {
-      "id": "20",
-      "targetContent": "selection-20",
-      "position": "2.50 2.16 -9.16",
-      "rotation": "0 75 0"
+      "rotation": "0 0 0"
     }
   ],
   "selection-EMPTY": {
@@ -32,8 +26,6 @@
         ],
         "features": [
           "1",
-          "2",
-          "3",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table>"
         ]
       }
