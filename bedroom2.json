@@ -1,0 +1,334 @@
+{
+  "sceneConfig": {
+    "panorama": "media-bedroom2/Bedroom Area-2-31012026-1-20mb.png",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01",
+      "targetContent": "selection-01",
+      "position": "-4.71 -2.20 -3.82",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02",
+      "targetContent": "selection-02",
+      "position": "-4.70 3.57 -5.77",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "03",
+      "targetContent": "selection-03",
+      "position": "-0.10 0.13 -5.70",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "04",
+      "targetContent": "selection-04",
+      "position": "7.87 1.66 -5.05",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01": {
+    "title": "Bedroom 2",
+    "products": [
+      {
+        "id": "content-01",
+        "prevContent": "selection-01",
+        "title": "Pro-Lift Electric Bed Fittings - Heavy Duty with Remote Control",
+        "cardImg": "media-bedroom2/01-01.jpg",
+        "carouselId": "carousel-01",
+        "images": [
+          "media-bedroom2/01-01.jpg",
+          "media-bedroom2/01-02.jpg"
+        ],
+        "features": [
+          "The electric bed lift with remote control is a smart and novel way to help with storage inside a bed.",
+          "Ideal for storage under bed",
+          "Opening angle in excess of 40° allows easy access.",
+          "Easy to install",
+          "Long brackets provided for better support to the bed platform",
+          "Electric motor easily meets the lifting requirements desired eliminating all manual effort.",
+          "Dead load range: 85-100 kgs. (Weight including 6-inch mattress & 18mm board cover)",
+          "Recommended minimum bottom thickness 18mm.",
+          "Motor capacity: 6000N",
+          "Available with a wireless remote controller.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PLBF-EMR3-HD</td><td>Anthracite</td><td>27,203/Set</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02": {
+    "title": "Bedroom 2",
+    "products": [
+      {
+        "id": "content-02",
+        "prevContent": "selection-02",
+        "title": "Cube Shelving System",
+        "cardImg": "media-bedroom2/02-01.webp",
+        "carouselId": "carousel-02",
+        "images": [
+          "media-bedroom2/02-01.webp",
+          "media-bedroom2/02-02.webp",
+          "media-bedroom2/02-03.webp"
+        ],
+        "features": [
+          "Design for portable cube shelving with aluminium profiles.",
+          "Aluminium profile with extended support available for 6mm glass & 16mm board.",
+          "Built for Strength and durability.",
+          "Easy to fit & Use.",
+          "Load Capacity for Plastic Connector: 10 kg max",
+          "Load Capacity for Aluminium Connector: 20 kg max",
+          "Compatible with Ebco Chipboard Screw (CBS-3012).",
+          "Aluminium Profile for Side Wall - Vertical sidewall profile designed for portability.",
+          "It holds glass/wood firmly in place, it is for 5mm glass or 16mm board.",
+          "Ensures structure stability by providing added support, rigidity and strength.",
+          "Connectors for cube shelving are now in die cast for extra strength and stability.",
+          "Perfect for modular cube shelving systems in homes, offices and retail spaces.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-03": {
+    "title": "Bedroom 2",
+    "products": [
+      {
+        "id": "content-03-01",
+        "prevContent": "selection-03",
+        "title": "Smart Lift Electric Basic 3",
+        "cardImg": "media-bedroom2/03-01-01.jpg",
+        "carouselId": "carousel-03-01",
+        "images": [
+          "media-bedroom2/03-01-01.jpg",
+          "media-bedroom2/03-01-02.jpg"
+        ],
+        "features": [
+          "Smart lift with single motor mechanism for smooth height transitions.",
+          "Digital panel with 4 memory settings for quick sit-stand adjustment.",
+          "Height adjustment: 695 to 1175mm, Width adjustment: 830 to 1320mm",
+          "Stroke: 480mm, Speed: 20mm/sec, Voltage: 100-240V",
+          "Load capacity: Dynamic: 60kg, Static: 70kg",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>SLTLB3-E</td><td>Anthracite</td><td>32537/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-02",
+        "prevContent": "selection-03",
+        "title": "5 Module Electric Box Top Mount",
+        "cardImg": "media-bedroom2/03-02-01.jpg",
+        "carouselId": "carousel-03-02",
+        "images": [
+          "media-bedroom2/03-02-01.jpg",
+          "media-bedroom2/03-02-02.png",
+          "media-bedroom2/03-02-03.gif",
+          "media-bedroom2/03-02-04.png",
+          "media-bedroom2/03-02-05.jpg",
+          "media-bedroom2/03-02-06.jpg"
+        ],
+        "features": [
+          "Compact Design With Safe Plastic Construction.",
+          "Perfect for workspaces, conference/meeting rooms, institutions and home appliances.",
+          "Available in 5 Module.",
+          "Easy For Wiring & Installation.",
+          "In-built LED light for on-off indication.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EB5-F</td><td>Black</td><td>1603/Each</td></tr><tr><td>EB5-FC</td><td>Black</td><td>1812/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-03",
+        "prevContent": "selection-03",
+        "title": "Electric Box",
+        "cardImg": "media-bedroom2/03-03-01.jpg",
+        "carouselId": "carousel-03-03",
+        "images": [
+          "media-bedroom2/03-03-01.jpg"
+        ],
+        "features": [
+          "An integrated workstation solution to add power connectivity to any desks, conference table for multi device charging, connecting projectors etc",
+          "Special lid provided to hide switches when not in use",
+          "Soft close optional",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EB-6M</td><td>Anthracite</td><td>1247/Each</td><tr><tr><td>EB-6MSC</td><td>Anthracite</td><td>1387/Each</td><tr><tr><td>EB-6MS</td><td>Anthracite</td><td>1439/Each</td></tr><tr><td>EB-6MSCS</td><td>Anthracite</td><td>1584/Each</td><tr><tr><td>EB-8M</td><td>Anthracite</td><td>1412/Each</td><tr><tr><td>EB-8MSC</td><td>Anthracite</td><td>1557/Each</td><tr><tr><td>EB-8MS</td><td>Anthracite</td><td>1632/Each</td><tr><tr><td>EB-8MSCS</td><td>Anthracite</td><td>1779/Each</td><tr><tr><td>EB-10M</td><td>Anthracite</td><td>1578/Each</td><tr><tr><td>EB-10MSC</td><td>Anthracite</td><td>1722/Each</td><tr><tr><td>EB-10MS</td><td>Anthracite</td><td>1833/Each</td><tr><tr><td>EB-10MSCS</td><td>Anthracite</td><td>1980/Each</td><tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-04",
+        "prevContent": "selection-03",
+        "title": "Cable Organizer",
+        "cardImg": "media-bedroom2/03-04-01.jpg",
+        "carouselId": "carousel-03-04",
+        "images": [
+          "media-bedroom2/03-04-01.jpg"
+        ],
+        "features": [
+          "Helps organize your cables that come through a desk.",
+          "Manufactured out of plastic.",
+          "Highly durable.",
+          "Unique design has 3 ports of different sizes to accommodate cables of different sizes.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CO60</td><td>Black / White / Grey</td><td>38/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-05",
+        "prevContent": "selection-03",
+        "title": "Cable Organiser - Zinc",
+        "cardImg": "media-bedroom2/03-05-01.png",
+        "carouselId": "carousel-03-05",
+        "images": [
+          "media-bedroom2/03-05-01.png",
+          "media-bedroom2/03-05-02.jpg",
+          "media-bedroom2/03-05-03.jpg"
+        ],
+        "features": [
+          "Helps organize your cables that come through a desk.",
+          "Die-cast and zinc plated.",
+          "Highly Durable.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CO60ZN1</td><td>Zinc White</td><td>218/Each</td></tr><tr><td>CO80ZN1</td><td>Zinc White</td><td>287/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-06",
+        "prevContent": "selection-03",
+        "title": "ESmart Digital Lock 2 - Horizontal",
+        "cardImg": "media-bedroom2/03-06-01.webp",
+        "carouselId": "carousel-03-06",
+        "images": [
+          "media-bedroom2/03-06-01.webp",
+          "media-bedroom2/03-06-02.webp"
+        ],
+        "features": [
+          "Enhance security with the ESmart digital locks, series 2",
+          "Automatically locks within 5 seconds.",
+          "Wood thickness 16-22mm.",
+          "Light signal to indicate lock status: locked, unlocked, or error.",
+          "NUMERIC CODE ACCESS : Can have a 4-8 digits pin code in length, Up to 2 admins & 98 users can be assigned",
+          "Supports fake pin code method of entering the pin code to prevent someone nearby from memorizing your pin code.",
+          "NFC ACCESS : Assign up to 2 admins and 98 users",
+          "FINGERPRINT ACCESS : Assign up to 2 admins and 48 users",
+          "Power : 6V DC for 4 AA (1.5V) batteries",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>ESDL2-HR-FNN</td><td>Black</td><td>-</td><tr><tr><td>ESDL2-HL-FNN</td><td>Black</td><td>3845/Each</td><tr><tr><td>ESDL2-NFC-AC1</td><td>-</td><td>101/Each</td></tr><tr><td>ESDL2-NFC-UC1</td><td>-</td><td>101/Each</td><tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-07",
+        "prevContent": "selection-03",
+        "title": "Electric Box with Cable Manager 3",
+        "cardImg": "media-bedroom2/03-07-01.jpg",
+        "carouselId": "carousel-03-07",
+        "images": [
+          "media-bedroom2/03-07-01.jpg",
+          "media-bedroom2/03-07-02.png",
+          "media-bedroom2/03-07-03.png"
+        ],
+        "features": [
+          "Ideal electric box for furniture in offices, conference/meeting rooms, institution, and home applications.",
+          "This has Dual USB Chargers (Type A & Type C), HDMI Socket, CAT 6 & 1 Universal power socket.",
+          "Input voltage: 110V - 250V",
+          "Power: Max. 2300W",
+          "This compact fitting comes with a special lid that hides the socket when not in use.",
+          "Keeps your cable organized thereby providing clear access to the data/power sockets.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EBCM3</td><td>Black / White</td><td>1418/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-08",
+        "prevContent": "selection-03",
+        "title": "Electric Box Slim",
+        "cardImg": "media-bedroom2/03-08-01.jpg",
+        "carouselId": "carousel-03-08",
+        "images": [
+          "media-bedroom2/03-08-01.jpg",
+          "media-bedroom2/03-08-02.jpg"
+        ],
+        "features": [
+          "A smart and elegant product that gives access to switches beneath a desk/table",
+          "Has a built-in smooth soft close mechanism that allows the lid to close softly and silently",
+          "This product can be easily installed",
+          "Available in 5 different sizes in each colour",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EBS11</td><td>White Texture / Anthracite / Black Texture</td><td>576/Each</td><tr><tr><td>EBS11</td><td>Air Force Blue / Sage Green</td><td>605/Each</td><tr><tr><td>EBS20</td><td>White Texture / Anthracite / Black Texture</td><td>861/Each</td></tr><tr><td>EBS20</td><td>Air Force Blue / Sage Green</td><td>906/Each</td><tr><tr><td>EBS25</td><td>White Texture / Anthracite / Black Texture</td><td>1020/Each</td><tr><tr><td>EBS25</td><td>Air Force Blue / Sage Green</td><td>1070/Each</td><tr><tr><td>EBS30</td><td>White Texture / Anthracite / Black Texture</td><td>1194/Each</td><tr><tr><td>EBS30</td><td>Air Force Blue / Sage Green</td><td>1255/Each</td><tr><tr><td>EBS35</td><td>White Texture / Anthracite / Black Texture</td><td>1356/Each</td><tr><tr><td>EBS35</td><td>Air Force Blue / Sage Green</td><td>1423/Each</td><tr><tr><td>EBS40</td><td>White Texture / Anthracite / Black Texture</td><td>1525/Each</td><tr><tr><td>EBS40</td><td>Air Force Blue / Sage Green</td><td>1601/Each</td><tr><tr><td>EBS45</td><td>White Texture / Anthracite / Black Texture</td><td>1689/Each</td><tr><tr><td>EBS45</td><td>Air Force Blue / Sage Green</td><td>1773/Each</td><tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-09",
+        "prevContent": "selection-03",
+        "title": "Electric Box Broad",
+        "cardImg": "media-bedroom2/03-09-01.jpg",
+        "carouselId": "carousel-03-09",
+        "images": [
+          "media-bedroom2/03-09-01.jpg"
+        ],
+        "features": [
+          "Smart Electric box that gives access to switches beneath a desk/ table.",
+          "Ideal for big adaptors of Laptop, TV, Projector and more.",
+          "Broad design with 3-way access makes it easier to reach the power sockets beneath the table.",
+          "It has a built-in soft close mechanism, which allows the lid to close silently.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EBB30-1</td><td>White</td><td>1550/Each</td><tr><tr><td>EBB45-1</td><td>White</td><td>1687/Each</td><tr><tr><td>EBB60-1</td><td>White</td><td>2095/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-10",
+        "prevContent": "selection-03",
+        "title": "Electric Box Wide",
+        "cardImg": "media-bedroom2/03-10-01.jpg",
+        "carouselId": "carousel-03-10",
+        "images": [
+          "media-bedroom2/03-10-01.jpg",
+          "media-bedroom2/03-10-02.jpg"
+        ],
+        "features": [
+          "Smart - Electric box that gives access to switches beneath a desk/ table.",
+          "Ideal for big adaptors of Laptop, TV, Projector and more.",
+          "Broad design makes it easier to reach the power sockets beneath the table.",
+          "It has a built-in soft close mechanism, which allows the lid to close silently.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EBW30</td><td>White Texture / Anthracite / Black Texture</td><td>1341/Each</td><tr><tr><td>EBW35</td><td>White Texture / Anthracite / Black Texture</td><td>1519/Each</td><tr><tr><td>EBW40</td><td>White Texture / Anthracite / Black Texture</td><td>1697/Each</td></tr><tr><td>EBW45</td><td>White Texture / Anthracite / Black Texture</td><td>1875/Each</td><tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-11",
+        "prevContent": "selection-03",
+        "title": "Multi-Screen Monitor Arm 2 - Edge Mount",
+        "cardImg": "media-bedroom2/03-11-01.jpg",
+        "carouselId": "carousel-03-11",
+        "images": [
+          "media-bedroom2/03-11-01.jpg"
+        ],
+        "features": [
+          "Mount your screen seamlessly with edge mount application",
+          "Tilt your screen effortlessly within a range of +60° to -85°",
+          "Swivel your screen with a range of -90° to +90° for versatile positioning",
+          "Rotate your screen a full 360° for optimal viewing angles",
+          "Extend your screen reach from 385mm to 560mm as needed",
+          "Supports VESA compatibility with 75x75 & 100x100 configurations",
+          "Concealed wire management ensures tidy cable organization",
+          "Each arm boasts a load capacity of up to 6 kgs",
+          "Suitable for screen sizes ranging from 15 inches to 27 inches",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>MSMA2-EM</td><td>Black</td><td>3405/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-04": {
+    "title": "Bedroom 2",
+    "products": [
+      {
+        "id": "content-04",
+        "prevContent": "selection-04",
+        "title": "Hi Slide Walk-In Sliding System",
+        "cardImg": "media-bedroom2/04-01.jpg",
+        "carouselId": "carousel-04",
+        "images": [
+          "media-bedroom2/04-01.jpg",
+          "media-bedroom2/04-02.jpg",
+          "media-bedroom2/04-03.jpg"
+        ],
+        "features": [
+          "Floor to ceiling sliding system which are light (to use build 9mm panels), effortless silent sliding has soft close, soft open feature.",
+          "Modular and highly flexible in terms of design, to use multiple panels of wood or glass to suit the décor.",
+          "Superior design with 2 way soft close ensures high strength & smooth functioning.",
+          "Quick & hassle free installation.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

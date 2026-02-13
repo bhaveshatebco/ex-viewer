@@ -1,0 +1,40 @@
+{
+  "sceneConfig": {
+    "panorama": "media-u-kitchen/kitchen-area-render-20251220-1415-2560x1280.png",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01",
+      "targetContent": "selection-01",
+      "position": "4.00 4.46 -11.706",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-EMPTY": {
+    "title": "TITLE",
+    "products": [
+      {
+        "id": "content-EMPTY",
+        "prevContent": "selection-EMPTY",
+        "title": "TITLE",
+        "cardImg": "media-foldername/EMPTY-01.jpg",
+        "carouselId": "carousel-EMPTY",
+        "images": [
+          "media-foldername/EMPTY-01.jpg",
+          "media-foldername/EMPTY-02.jpg"
+        ],
+        "features": [
+          "1",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table>"
+        ],
+        "featuresBOM": [
+          "With Images in BOM table: <table><thead><tr><th style='width: 30%;'>Item</th><th style='width: 20%;'>Image</th><th style='width: 17%;'>Code</th><th style='width: 14%;'>Finish</th><th style='width: 08%;'>Qty</th><th style='width: 11%;'>Amount</th></tr></thead><tbody><tr><td>-</td><td><img style='width: 99%;' src='media-foldername/filename' alt='filename'></td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan='5' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ 0,000</td></tr><tr><td colspan='6' style='text-align: end; border: 0px;'>NOTE: The above BOM covers hardware cost only.</td></tr></tbody></table>",
+          "Without Images in BOM table: <table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 21%;'>Code</th><th style='width: 18%;'>Finish</th><th style='width: 12%;'>Qty</th><th style='width: 15%;'>Amount</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan='4' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ 0,000</td></tr><tr><td colspan='5' style='text-align: end; border: 0px;'>NOTE: The above BOM covers hardware cost only.</td></tr></tbody></table>",
+          "Both QR: <table><tbody><tr><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download BOM: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-foldername/filename' alt='QR-1'></td><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download Brochure: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-foldername/filename' alt='QR-2'></td></tr></tbody></table>",
+          "Only BOM QR: <table><tbody><tr><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download BOM: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-foldername/filename' alt='QR-1'></td><td style='visibility: hidden; border: 0px; width: 35%; text-align: center; border-right: 0px;'>Scan to Download Brochure: </td><td style='visibility: hidden; border: 0px; width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-foldername/filename' alt='QR-2'></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

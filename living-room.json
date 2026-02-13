@@ -1,0 +1,356 @@
+{
+  "sceneConfig": {
+    "panorama": "media-living-room/Living Room-31012026-1-9mb.png",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01",
+      "targetContent": "selection-01",
+      "position": "-8.67 4.74 0.55",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02",
+      "targetContent": "selection-02",
+      "position": "-8.67 4.24 -3.00",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "03",
+      "targetContent": "selection-03",
+      "position": "-8.67 -1.80 1.75",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "04",
+      "targetContent": "selection-04",
+      "position": "-7.50 -1.52 -3.12",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "04",
+      "targetContent": "selection-04",
+      "position": "-7.50 -1.52 -3.12",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "05",
+      "targetContent": "selection-05",
+      "position": "-7.50 -2.90 -1.76",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "06",
+      "targetContent": "selection-06",
+      "position": "-7.50 -4.90 -2.56",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "07",
+      "targetContent": "selection-07",
+      "position": "0.12 -3.19 -6.75",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "08",
+      "targetContent": "selection-08",
+      "position": "7.22 3.79 -1.05",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01": {
+    "title": "Living Room",
+    "products": [
+      {
+        "id": "content-01",
+        "prevContent": "selection-01",
+        "title": "Spinova 360",
+        "cardImg": "media-living-room/01-01.jpg",
+        "carouselId": "carousel-01",
+        "images": [
+          "media-living-room/01-01.jpg",
+          "media-living-room/01-02.jpg",
+          "media-living-room/01-03.jpg",
+          "media-living-room/01-04.jpg"
+        ],
+        "features": [
+          "Make the cabinet more concealed, maximize space utilization.",
+          "Simple and convenient installation and removal.",
+          "Ensures precise positioning of accessories, smooth rotation.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>SPN-360</td><td>Zinc White</td><td>50,000/Set</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02": {
+    "title": "Living Room",
+    "products": [
+      {
+        "id": "content-02-01",
+        "prevContent": "selection-02",
+        "title": "Luminor 15 Decorative Profile 1",
+        "cardImg": "media-living-room/02-01-01.jpg",
+        "carouselId": "carousel-02-01",
+        "images": [
+          "media-living-room/02-01-01.jpg",
+          "media-living-room/02-01-02.jpg"
+        ],
+        "features": [
+          "This decorative profile would have a slim and sleek design, allowing it to seamlessly blend into walls, ceilings, or other surfaces when recessed.",
+          "Recommended to use with LED Strip light 5mm.",
+          "Suitable for residence, commercial offices, retail outlets, etc.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LUM15-DP1</td><td>Opaline</td><td>555/1pc. of 3 mtr.</td></tr></tbody></table>"          
+        ]
+      },
+      {
+        "id": "content-02-02",
+        "prevContent": "selection-02",
+        "title": "Wine Bottle Holder",
+        "cardImg": "media-living-room/02-02-01.jpg",
+        "carouselId": "carousel-02-02",
+        "images": [
+          "media-living-room/02-02-01.jpg",
+          "media-living-room/02-02-02.jpg"
+        ],
+        "features": [
+          "Manufactured out of SS 304.",
+          "Ideal for hanging wine glasses.",
+          "Easy to fit on to the ceiling of cabinets.",
+          "Elegant & cost effective design.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>WGHS-04-14-03</td><td>Stainless Steel 304</td><td>350/Each</td></tr><tr><td>WGHD-08-14-03</td><td>Stainless Steel 304</td><td>636/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-03",
+        "prevContent": "selection-02",
+        "title": "Cabinet / Glass Shelf Support",
+        "cardImg": "media-living-room/02-03-01.jpg",
+        "carouselId": "carousel-02-03",
+        "images": [
+          "media-living-room/02-03-01.jpg",
+          "media-living-room/02-03-02.jpg"
+        ],
+        "features": [
+          "Easy to use with elegant looks for wood or glass shelves.",
+          "Requires ø5mm drill to fix.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>GSS2-NP</td><td>Nickel Plated</td><td>11628 / 1000pc</td></tr><tr><td>GSS2-TN</td><td>Titanium</td><td>11900 / 1000pc</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-03": {
+    "title": "Living Room",
+    "products": [
+      {
+        "id": "content-03",
+        "prevContent": "selection-03",
+        "title": "Recessed Hinge 25 - Soft Close",
+        "cardImg": "media-living-room/03-01.jpg",
+        "carouselId": "carousel-03",
+        "images": [
+          "media-living-room/03-01.jpg",
+          "media-living-room/03-02.jpg",
+          "media-living-room/03-03.jpg"
+        ],
+        "features": [
+          "Recessed hinge for Wooden and Al. frame doors.",
+          "3D adjustment",
+          "105° opening angle",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>RH25-SC-TN</td><td>Titanium</td><td>5184/Set of 2 Pcs.</td></tr><tr><td>RH25-HW-TN</td><td>Titanium</td><td>1107/Set of 2 Pcs.</td></tr><tr><td>RH25-LC1-ZW</td><td>Zinc White </td><td>495/Set of 2 Pcs.</td></tr><tr><td>RH25-AGP-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>2827/3mtr.</td></tr><tr><td>RH25-AGP-AN</td><td>Anodized Brown</td><td>2951/3mtr.</td></tr><tr><td>RH25-AGP-BG</td><td>Brushed Gold</td><td>3187/3mtr.</td></tr><tr><td>RH25-AGP-H-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>3432/3mtr.</td></tr><tr><td>RH25-AGP-H-AN</td><td>Anodized Brown</td><td>3573/3mtr.</td></tr><tr><td>RH25-AGP-H-BG</td><td>Brushed Gold</td><td>3885/3mtr.</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-04": {
+    "title": "Living Room",
+    "products": [
+      {
+        "id": "content-04",
+        "prevContent": "selection-04",
+        "title": "Concealed Dining Table",
+        "cardImg": "media-living-room/04-01.jpg",
+        "carouselId": "carousel-04",
+        "images": [
+          "media-living-room/04-01.jpg"
+        ],
+        "features": [
+          "All aluminium alloy metal material, shining finishes",
+          "Used in various scenarios, such as desk, dining table, etc.",
+          "Hidden slide, single extension, soft closing and mute",
+          "Easy to install and uninstall.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CDTS1-5474</td><td>Champagne Gold</td><td>20981/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-04-02",
+        "prevContent": "selection-04",
+        "title": "Euro Slow Motion Hinge (2-4 Hole Mounting Plate)",
+        "cardImg": "media-living-room/04-02-01.jpg",
+        "carouselId": "carousel-04-02",
+        "images": [
+          "media-living-room/04-02-01.jpg",
+          "media-living-room/04-02-02.jpg"
+        ],
+        "features": [
+          "Unique built in damping system allows the shutter to close in slow motion without banging.",
+          "Available in Full overlay, Half overlay & Full Inset.",
+          "Max opening 105°",
+          "Max shutter size: 34 inch x 22 inch (850mm x 550mm) for 2 hinges.",
+          "Shutter Thickness: 14mm to 22mm.",
+          "Shutter cavity: Ø35mm, 12mm deep, cavity 4mm from edge.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>E-HSM1-M1-NP</td><td>Nickel Plated</td><td>199/Set of 2 Pcs.</td></tr><tr><td>E-HSM2-M1-NP</td><td>Nickel Plated</td><td>212/ Set of 2 Pcs.</td></tr><tr><td>E-HSM3-M1-NP</td><td>Nickel Plated</td><td>216/Set of 2 Pcs.</td></tr><tr><td>E-HSM1-M1-GM</td><td>Gun Metal</td><td>214/Set of 2 Pcs.</td></tr><tr><td>E-HSM2-M1-GM</td><td>Gun Metal</td><td>226/Set of 2 Pcs.</td></tr><tr><td>E-HSM3-M1-GM</td><td>Gun Metal</td><td>230/Set of 2 Pcs.</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-05": {
+    "title": "Living Room",
+    "products": [
+      {
+        "id": "content-05-01",
+        "prevContent": "selection-05",
+        "title": "Pro-motion Drawer System 172 - S3",
+        "cardImg": "media-living-room/05-01-01.jpg",
+        "carouselId": "carousel-05-01",
+        "images": [
+          "media-living-room/05-01-01.jpg",
+          "media-living-room/05-01-02.jpg"
+        ],
+        "features": [
+          "Full extension of drawer with soft close feature",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 50kg",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 172mm",
+          "Finish: White (WH), Anthracite (AT), Brown (BR), Oak (OK)",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS3-30-S3</td><td>White / Anthracite</td><td>4021 / Set</td></tr><tr><td>PMDS3-35-S3</td><td>White / Anthracite</td><td>4044 / Set</td></tr><tr><td>PMDS3-40-S3</td><td>White / Anthracite / Black</td><td>4062 / Set</td></tr><tr><td>PMDS3-45-S3</td><td>White / Anthracite / Brown / Black</td><td>4195 / Set</td></tr><tr><td>PMDS3-45-S3-OK</td><td>Oak</td><td>5420 / Set</td></tr><tr><td>PMDS3-50-S3</td><td>White / Anthracite / Brown / Black</td><td>4265 / Set</td></tr><tr><td>PMDS3-50-S3-OK</td><td>Oak</td><td>5546 / Set</td></tr><tr><td>PMDS3-55-S3</td><td>White / Anthracite / Brown / Black</td><td>4347 / Set</td></tr><tr><td>PMDS3-55-S3-OK</td><td>Oak</td><td>5716 / Set</td></tr><tr><td>PMDS3-60-S3</td><td>White / Anthracite / Black</td><td>4746 / Set</td></tr><tr><td>PMDS3G-45-S3</td><td>White / Anthracite</td><td>5076 / Set</td></tr><tr><td>PMDS3G-50-S3</td><td>White / Anthracite</td><td>5397 / Set</td></tr><tr><td>PMDS3G-55-S3</td><td>White / Anthracite</td><td>5634 / Set</td></tr><tr><td>PMDS2-S3-FP</td><td>White / Anthracite / Brown / Black</td><td>3971 / Each</td></tr><tr><td>PMDS3-S3-FP</td><td>White / Anthracite / Brown / Black</td><td>4100 / Each</td></tr><tr><td>PMDS3-S3-FR</td><td>White / Anthracite / Brown / Black</td><td>1441 / Each</td></tr><tr><td>PMDS1-S3-FC</td><td>White / Anthracite / Brown / Black</td><td>422 / Set</td></tr><tr><td>PMDS2-S3-FC</td><td>White / Anthracite / Brown / Black</td><td>685 / Set</td></tr><tr><td>PMDS3-S3-FC-R</td><td>White / Anthracite / Brown / Black</td><td>689 / Set</td></tr><tr><td>PMDS3S3-FC-GP</td><td>Brown / White / Anthracite</td><td>689 / Set</td></tr><tr><td>PMDS3-S3-FG-45</td><td>-</td><td>506 / Each</td></tr><tr><td>PMDS3-S3-FG-60</td><td>-</td><td>696 / Each</td></tr><tr><td>PMDS3-S3-FG-90</td><td>-</td><td>1064 / Each</td></tr><tr><td>PMDS3-FR</td><td>Anthracite / White</td><td>1441 / Each</td></tr><tr><td>PMDS-S3-LED-50</td><td>Anthracite</td><td>2711 / Set</td></tr><tr><td>PMDS-LP1-S3-AT</td><td>Anthracite</td><td>21 / Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-05-02",
+        "prevContent": "selection-05",
+        "title": "Anti Skid Mat",
+        "cardImg": "media-living-room/05-02-01.jpg",
+        "carouselId": "carousel-05-02",
+        "images": [
+          "media-living-room/05-02-01.jpg",
+          "media-living-room/05-02-02.jpg"
+        ],
+        "features": [
+          "Safeguard cutlery from sliding out with these Anti skid mats.",
+          "Ideal for kitchen drawers, cabinet/ wardrobe shelves, working table, etc.",
+          "Dotted and lined upper surface for better hold and superior anti skid coating at the bottom.",
+          "For use in kitchen drawers and shelves - protects furniture from water dripping and the anti skid feature keeps the cutlery and utensils in place.",
+          "For use in wardrobe and shelves - protects clothes from wood coating stain.",
+          "Easy to clean and reuse.",
+          "Available in various finish.",
+          "Comes in rolls, each of which are 510 mm wide x 5 meters long.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>ASM8-AT</td><td>Anthracite</td><td>1288/1 roll of 5m </td></tr><tr><td>ASM8-BL</td><td>Black</td><td>1288/1 roll of 5m </td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-06": {
+    "title": "Living Room",
+    "products": [
+      {
+        "id": "content-06",
+        "prevContent": "selection-06",
+        "title": "Kitchen Skirting",
+        "cardImg": "media-living-room/06-01.jpg",
+        "carouselId": "carousel-06",
+        "images": [
+          "media-living-room/06-01.jpg",
+          "media-living-room/06-02.jpg",
+          "media-living-room/06-03.jpg"
+        ],
+        "features": [
+          "These PVC Skirting protects kitchen base from dust and water",
+          "Made out of polypropylene (PP).",
+          "Skirting clip with bracket to attach skirting boards to the front of pedestal units.",
+          "Provision of spanner for height adjustment.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PVCSE-08-BL-30</td><td>Black</td><td>₹ 409 / set of 3m</td></tr><tr><td>PVCSE-08-SL-30</td><td>Silver</td><td>₹ 509 / set of 3m</td></tr><tr><td>PVCSE-10-GR-30</td><td>Gray</td><td>₹ 480 / set of 3m</td></tr><tr><td>PVCSE-10-WD-30</td><td>Wood Finish</td><td>₹ 541 / set of 3m</td></tr><tr><td>PVCSE-10-BS-3</td><td>Brushed Silver</td><td>₹ 448 / set of 3.65m</td></tr><tr><td>PVCSE-10-BF-30</td><td>Brushed Special Finish</td> <td>₹ 555 / set of 3m</td></tr><tr><td>PVCSE-10-BG-30</td><td>Brushed Gold</td><td>₹ 555 / set of 3m</td></tr><tr><td>PVCSE-10-BL-30</td><td>Black</td><td>₹ 423 / set of 3m</td></tr><tr><td>PVCSE-10-SL-30</td><td>Silver</td><td>₹ 444 / set of 3m</td></tr><tr><td>PVCSE-10-AT-30</td><td>Anthracite</td><td>₹ 597 / set of 3m</td></tr><tr><td>PVCSE-10-WH-30</td><td>White</td><td>₹ 409 / set of 3m</td></tr><tr><td>PVCSE-10-GC-30</td><td>Glossy Chrome</td><td>₹ 922 / set of 3m</td></tr><tr><td>PVCSE-15-BL-30</td><td>Black</td><td>₹ 649 / set of 3m</td></tr><tr><td>PVCSE-15-SL-30</td><td>Silver</td><td>₹ 691 / set of 3m</td></tr><tr><td>CJ90-08-BL</td><td>Black</td><td>₹ 126 / each</td></tr><tr><td>CJ90-08-SL</td><td>Silver</td><td>₹ 130 / each</td></tr><tr><td>CJ90-10-SL</td><td>Silver</td><td>₹ 161 / each</td></tr><tr><td>CJ90-10-BL</td><td>Black</td><td>₹ 149 / each</td></tr><tr><td>CJ90-10-AT</td><td>Anthracite</td><td>₹ 153 / each</td></tr><tr><td>CJ90-10-GC</td><td>Glossy Chrome</td><td>₹ 199 / each</td></tr><tr><td>CJ90-10-WH</td><td>White</td><td>₹ 145 / each</td></tr><tr><td>CJ90-10-GR</td><td>Gray</td><td>₹ 149 / each</td></tr><tr><td>CJ90-10-BS</td><td>Brushed Silver</td><td>₹ 145 / each</td></tr><tr><td>CJ90-10-WD</td><td>Wood Finish</td><td>₹ 134 / each</td></tr><tr><td>CJ90-10-BF</td><td>Brushed Special Finish</td><td>₹ 157 / each</td></tr><tr><td>CJ90-10-BG</td><td>Brushed Gold</td><td>₹ 157 / each</td></tr><tr><td>CJ90-15-BL</td><td>Black</td><td>₹ 195 / each</td></tr><tr><td>CJ90-15-SL</td><td>Silver</td><td>₹ 210 / each</td></tr><tr><td>SJ-08-BL</td><td>Black</td><td>₹ 115 / each</td></tr><tr><td>SJ-08-SL</td><td>Silver</td><td>₹ 115 / each</td></tr><tr><td>SJ-10-BL</td><td>Black</td><td>₹ 119 / each</td></tr><tr><td>SJ-10-AT</td><td>Anthracite</td><td>₹ 126 / each</td></tr><tr><td>SJ-10-GC</td><td>Glossy Chrome</td><td>₹ 176 / each</td></tr><tr><td>SJ-10-SL</td><td>Silver</td><td>₹ 130 / each</td></tr><tr><td>SJ-10-WH</td><td>White</td><td>₹ 117 / each</td></tr><tr><td>SJ-10-GR</td><td>Gray</td><td>₹ 119 / each</td></tr><tr><td>SJ-10-BS</td><td>Brushed Silver</td><td>₹ 130 / each</td></tr><tr><td>SJ-10-BF</td><td>Brushed Special Finish</td><td>₹ 132 / each</td></tr><tr><td>SJ-10-BG</td><td>Brushed Gold</td><td>₹ 132 / each</td></tr><tr><td>SJ-10-WD</td><td>Wood Finish</td><td>₹ 109 / each</td></tr><tr><td>SJ-15-BL</td><td>Black</td><td>₹ 157 / each</td></tr><tr><td>SJ-15-SL</td><td>Silver</td><td>₹ 168 / each</td></tr><tr><td>FJ-08-BL</td><td>Black</td><td>₹ 153 / each</td></tr><tr><td>FJ-08-SL</td><td>Silver</td><td>₹ 161 / each</td></tr><tr><td>FJ-10-BL</td><td>Black</td><td>₹ 233 / each</td></tr><tr><td>FJ-10-SL</td><td>Silver</td><td>₹ 249 / each</td></tr><tr><td>FJ-10-BS</td><td>Brushed Silver</td><td>₹ 180 / each</td></tr><tr><td>FJ-15-BL</td><td>Black</td><td>₹ 306 / each</td></tr><tr><td>FJ-15-SL</td><td>Silver</td><td>₹ 337 / each</td></tr><tr><td>EJ-08-BL</td><td>Black</td><td>₹ 101 / each</td></tr><tr><td>EJ-08-SL</td><td>Silver</td><td>₹ 105 / each</td></tr><tr><td>EJ-10-BL</td><td>Black</td><td>₹ 101 / each</td></tr><tr><td>EJ-10-SL</td><td>Silver</td><td>₹ 101 / each</td></tr><tr><td>EJ-10-AT</td><td>Anthracite</td><td>₹ 101 / each</td></tr><tr><td>EJ-10-WH</td><td>White</td><td>₹ 101 / each</td></tr><tr><td>EJ-10-GR</td><td>Gray</td><td>₹ 101 / each</td></tr><tr><td>EJ-10-BS</td><td>Brushed Silver</td><td>₹ 105 / each</td></tr><tr><td>EJ-10-BF</td><td>Brushed Special Finish</td><td>₹ 116 / each</td></tr><tr><td>EJ-10-BG</td><td>Brushed Gold</td><td>₹ 116 / each</td></tr><tr><td>EJ-10-WD</td><td>Wood Finish</td><td>₹ 101 / each</td></tr><tr><td>EJ-15-BL</td><td>Black</td><td>₹ 122 / each</td></tr><tr><td>EJ-15-SL</td><td>Silver</td><td>₹ 126 / each</td></tr><tr><td>Q-PF-100-WO</td><td>Black</td><td>₹ 191 / set of 5 nos.</td></tr><tr><td>Q-PF-150-WO</td><td>Black</td><td>₹ 241 / set of 5 nos.</td></tr><tr><td>Q-PFSCB1</td><td>Black</td><td>₹ 911 / set of 100 nos.</td></tr><tr><td>PF75-110</td><td>Black</td><td>1123 / 20 Nos.</td></tr><tr><td>PF100-135</td><td>Black</td><td>1173 / 20 Nos.</td></tr><tr><td>PF115-150</td><td>Black</td><td>1230 / 20 Nos.</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-07": {
+    "title": "Living Room",
+    "products": [
+      {
+        "id": "content-07",
+        "prevContent": "selection-07",
+        "title": "Sofa Quick Bed 2",
+        "cardImg": "media-living-room/07-01.jpg",
+        "carouselId": "carousel-07",
+        "images": [
+          "media-living-room/07-01.jpg",
+          "media-living-room/07-02.jpg",
+          "media-living-room/07-03.jpg",
+          "media-living-room/07-04.jpg"
+        ],
+        "features": [
+          "A 3-fold mechanism that quickly converts a sofa into a bed.",
+          "Sturdy and easy to operate.",
+          "Easy conversion from sofa to bed to sofa.",
+          "The backrest stays in the same position whether it's used as a sofa or bed.",
+          "Includes stabilizer bar and utility shelf brackets for sturdy and easy operation.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>SQB2-K-AT</td><td>Anthracite</td><td>10056/Set</td></tr><tr><td>SQB2-Q-AT</td><td>Anthracite</td><td>9847/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-07-02",
+        "prevContent": "selection-07",
+        "title": "Sofa Base",
+        "cardImg": "media-living-room/07-02-01.jpg",
+        "carouselId": "carousel-07-02",
+        "images": [
+          "media-living-room/07-02-01.jpg",
+          "media-living-room/07-02-02.jpg"
+        ],
+        "features": [
+          "Easy to mount foot base for sofas and cabinets",
+          "Available in two design - Square & Rectangular",
+          "Finish - Brown & Chrome Plated",
+          "Comes in Pack of 20pcs",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>SB332-BR</td><td>Brown</td><td>59/Each</td></tr><tr><td>SB333-BR</td><td>Brown</td><td>86/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-08": {
+    "title": "Living Room",
+    "products": [ 
+      {
+        "id": "content-08",
+        "prevContent": "selection-08",
+        "title": "Cube Shelving System",
+        "cardImg": "media-living-room/08-01-01.jpg",
+        "carouselId": "carousel-08",
+        "images": [
+          "media-living-room/08-01-01.jpg",
+          "media-living-room/08-01-02.png",
+          "media-living-room/08-01-03.jpg",
+          "media-living-room/08-01-04.jpg",
+          "media-living-room/08-01.webp",
+          "media-living-room/08-02.webp"
+        ],
+        "features": [
+          "Design for portable cube shelving with aluminium profiles.",
+          "Aluminium profile with extended support available for 5mm and 6mm glass & 16mm board.",
+          "Built for Strength and durability.",
+          "Easy to fit & Use.",
+          "Load Capacity for Plastic Connector: 10 kg max",
+          "Load Capacity for Aluminium Connector: 20 kg max",
+          "Compatible with Ebco Chipboard Screw (CBS-3012).",
+          "Perfect for modular cube shelving systems in homes, offices and retail spaces.",
+          "<table><thead><tr><th style='width: 30%;'>Item</th><th style='width: 20%;'>Image</th><th style='width: 17%;'>Code</th><th style='width: 14%;'>Finish</th><th style='width: 8%;'>Qty</th><th style='width: 11%;'>Amount</th></tr></thead><tbody><tr><td>Cube - Aluminium Profile without Support</td><td><img style='width: 99%;' src='media-living-room/08-11.png' alt=''></td><td>CSPC-3M-AP-BL</td><td>Black</td><td>1 Nos</td><td>₹ 771</td></tr><tr><td>Cube - Aluminium Profile for 16mm Board Side Wall</td><td rowspan='2'><img style='width: 99%;' src='media-living-room/08-12.png' alt=''></td><td>CSPC-3M-APBS-BL</td><td>Black</td><td>4 Nos</td><td>₹ 3,453</td></tr><tr><td>Cube - Aluminium Profile for 16mm Board Side Wall</td><td>CSPC-3M-APBS-BL</td><td>Black</td><td>1 Nos</td><td>₹ 863</td></tr><tr><td>Cube Shelving Connector - Five Way</td><td><img style='width: 99%;' src='media-living-room/08-13.png' alt=''></td><td>CSPC-5W</td><td>Black</td><td>6 Nos</td><td>₹ 427</td></tr><tr><td>Cube Shelving Connector - Three Way Corner</td><td><img style='width: 99%;' src='media-living-room/08-14.png' alt=''></td><td>CSPC-3WC</td><td>Black</td><td>40 Nos</td><td>₹ 2,430</td></tr><tr><td>Cube Shelving Connector - Four Way Edge</td><td><img style='width: 99%;' src='media-living-room/08-15.png' alt=''></td><td>CSPC-4WE</td><td>Black</td><td>16 Nos</td><td>₹ 1,106</td></tr><tr><td>Spot Diffused (Surface mount)</td><td><img style='width: 99%;' src='media-living-room/08-16.png' alt=''></td><td>S-SDS-NW</td><td>Anodized Silver</td><td>3 Nos</td><td>₹ 1,634</td></tr><tr><td>Super Spot 1 (Surface Mount)</td><td><img style='width: 99%;' src='media-living-room/08-17.png' alt=''></td><td>S-SSS1-NW</td><td>Black</td><td>1 Nos</td><td>₹ 576</td></tr><tr><td>Power Supply Unit - Series 3</td><td rowspan='2'><img style='width: 99%;' src='media-living-room/08-18.png' alt=''></td><td>PSU3-2436</td><td>Black</td><td>2 Nos</td><td>₹ 6,201</td></tr><tr><td>Power Supply Unit - Series 3</td><td>PSU3-2465</td><td>Black</td><td>1 Nos</td><td>₹ 3,499</td></tr><tr><td>Extension Cord for Light Series 2 (24V)</td><td><img style='width: 99%;' src='media-living-room/08-19.png' alt=''></td><td>L-EC2</td><td>Black</td><td>4 Nos</td><td>₹ 913</td></tr><tr><td>Concealed Drawer Slides - Slim 2-Push Open (with Facia Bracket)</td><td><img style='width: 99%;' src='media-living-room/08-20.png' alt=''></td><td>CDSS230-PO</td><td>Zinc White</td><td>3 Nos</td><td>₹ 4,916</td></tr><tr><td colspan='5' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ 26,791</td></tr><tr><td colspan='6' style='text-align: end; border: 0px;'>NOTE: The above BOM covers hardware cost only.</td></tr></tbody></table>",
+          "<table><tbody><tr><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download BOM: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-living-room/08-01-QR1.png' alt='QR-1'></td><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download Brochure: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-living-room/08-01-QR2.png' alt='QR-2'></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

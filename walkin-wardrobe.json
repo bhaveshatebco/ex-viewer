@@ -1,0 +1,194 @@
+{
+  "sceneConfig": {
+    "panorama": "media-walkin-wardrobe/Walkin wardrobe Poleshelving-31012026-1-9mb.png",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01",
+      "targetContent": "selection-01",
+      "position": "-7.09 0.16 4.42",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-01",
+      "targetContent": "selection-02-01",
+      "position": "-0.10 2.50 -4.85",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-02",
+      "targetContent": "selection-02-02",
+      "position": "-1.60 -0.37 -4.85",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-03",
+      "targetContent": "selection-02-03",
+      "position": "-2.90 -0.07 -4.85",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-05",
+      "targetContent": "selection-02-05",
+      "position": "1.50 4.00 -4.85",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01": {
+    "title": "Walk-in Wardrobe",
+    "products": [
+      {
+        "id": "content-01-01",
+        "prevContent": "selection-01",
+        "title": "Wardrobe Pullout Drawer Organiser (Soft Close)",
+        "cardImg": "media-walkin-wardrobe/01-01-01.jpg",
+        "carouselId": "carousel-01-01",
+        "images": [
+          "media-walkin-wardrobe/01-01-01.jpg",
+          "media-walkin-wardrobe/01-01-02.jpg"
+        ],
+        "features": [
+          "Thoughtfully designed to organize your accessories for convenient access and easy pull-out",
+          "Ready to use product that can be installed easily in any type of wardrobe",
+          "Soft velvet material at bottom protects your accessories from any type of dirt & damage",
+          "Ideal for storing variety of jewellery such as necklaces, rings, earrings or more.",
+          "in built soft close feature for silent & effortless closing",
+          "Design for 450, 600, 800 and 900mm wide cabinets, with soft close feature",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>WPDO-45-SC-BR</td><td>Brown</td><td>10061/Each</td><tr><tr><td>WPDO-60-SC-BR</td><td>Brown</td><td>12023/Each</td><tr><tr><td>WPDO-80-SC-BR</td><td>Brown</td><td>15571/Each</td></tr><tr><td>WPDO-90-SC-BR</td><td>Brown</td><td>15888/Each</td><tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02",
+        "prevContent": "selection-01",
+        "title": "Cabinet Glass Shelf LED Profiles",
+        "cardImg": "media-walkin-wardrobe/01-02-01.jpg",
+        "carouselId": "carousel-01-02",
+        "images": [
+          "media-walkin-wardrobe/01-02-01.jpg",
+          "media-walkin-wardrobe/01-02-02.jpg",
+          "media-walkin-wardrobe/01-02-03.jpg",
+          "media-walkin-wardrobe/01-02-04.jpg",
+          "media-walkin-wardrobe/01-02-05.jpg"
+        ],
+        "features": [
+          "Ideal to make glass shelf with LED for wardrobes and cabinets",
+          "Width can be customized as per the requirement with 5mm thick glass",
+          "To be used with below items Mounting Bracket Kit (code: CGSL2K), Livsmart LED strip light-8mm (code: LED-801-NW) & Pin Shelf Support (PSS1) *Above items to be purchased separately",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CGSL-4-AN</td><td>Anodized Brown</td><td>2090/3mtr.</td><tr><tr><td>CGSS-4-AN</td><td>Anodized Brown</td><td>1341/3mtr.</td><tr><tr><td>CGSL2K-ZW</td><td>Zinc White</td><td>111/Set of 4</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-03",
+        "prevContent": "selection-01",
+        "title": "Cove Light Profile with Diffusor",
+        "cardImg": "media-walkin-wardrobe/01-03-01.jpg",
+        "carouselId": "carousel-01-03",
+        "images": [
+          "media-walkin-wardrobe/01-03-01.jpg",
+          "media-walkin-wardrobe/01-03-02.jpg",
+          "media-walkin-wardrobe/01-03-03.jpg"
+        ],
+        "features": [
+          "Indirect linear lighting for furniture",
+          "Recessed installation in wooden panel",
+          "Customizable length as per requirement",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CLPD1</td><td>Brown / Silver</td><td>3216/Each</td><tr><tr><td>LED-501-NW</td><td>Neutral White</td><td>329/1 pc of 3 mtr.</td><tr><tr><td>CLPD1-EC</td><td>Brown / Silver</td><td>39/Pair</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-01": {
+    "title": "Walk-in Wardrobe",
+    "products": [
+      {
+        "id": "content-02-01",
+        "prevContent": "selection-02-01",
+        "title": "Pole Shelving System",
+        "cardImg": "media-walkin-wardrobe/02-01-01.jpg",
+        "carouselId": "carousel-02-01",
+        "images": [
+          "media-walkin-wardrobe/02-01-01.jpg",
+          "media-walkin-wardrobe/02-01-02.jpg"
+        ],
+        "features": [
+          "This versatile Display System is equally suited for brand retail stores (Clothing, Apparels, Department) as well as walk in wardrobes at home",
+          "It's highly flexible design enables to change the combination / layout of display without actually removing the pole systems installed",
+          "Multiple Adaptor brackets can be chosen for Hangers, Shelves, Cabinets, Tilting Shelves, etc as per your desired application",
+          "Aluminium sections and die cast parts ensures strength and stability",
+          "Flexibility to mount the pole from floor to wall / ceiling as per the design requirement",
+          "<table><thead><tr><th style='width: 30%;'>Item</th><th style='width: 20%;'>Image</th><th style='width: 17%;'>Code</th><th style='width: 14%;'>Finish</th><th style='width: 8%;'>Qty</th><th style='width: 11%;'>Amount</th></tr></thead><tbody><tr><td>Aluminium Section with Luminor (5mm LED to be used)</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-11.png' alt=''></td><td>PPDS-ALS-L-3M</td><td>Champagne</td><td>5 Nos</td><td>22480</td></tr><tr><td>Height Adjustable Plinth</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-12.png' alt=''></td><td>PPDS-HAP</td><td>Champagne</td><td>5 Nos</td><td>922</td></tr><tr><td>End Connector Set</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-13.png' alt=''></td><td>PPDS-ECS</td><td>Champagne</td><td>5 Nos</td><td>524</td></tr><tr><td>Right Angle Connector</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-14.png' alt=''></td><td>PPDS-RAC</td><td>Champagne</td><td>5 Nos</td><td>356</td></tr><tr><td>Small Shelf Support </td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-15.png' alt=''></td><td>PPDS-SSS</td><td>Champagne</td><td>3 Sets</td><td>377</td></tr><tr><td>Big Shelf Support</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-16.png' alt=''></td><td>PPDS-BSS</td><td>Champagne</td><td>4 Sets</td><td>1014</td></tr><tr><td>Tilting Shelf Bracket</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-17.png' alt=''></td><td>PPDS-TSB</td><td>Champagne</td><td>2 Nos</td><td>997</td></tr><tr><td>Adjustable Glass Shelf Support For Pole Shelving System</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-18.png' alt=''></td><td>PPDS-AGS</td><td>Champagne</td><td>4 Nos</td><td>1232</td></tr><tr><td>Concealed SlideAdaptorFor Pole Shelving System</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-19.png' alt=''></td><td>PPDS-CSA</td><td>Champagne</td><td>1 Set</td><td>482</td></tr><tr><td>Rectangular Rail Support For Pole Shelving System</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-20.png' alt=''></td><td>PPDS-RRS</td><td>Champagne</td><td>2 Set</td><td>318</td></tr><tr><td>Pro-motion Drawer System 90 - S3</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-21.png' alt=''></td><td>PMDS1-45-S3</td><td>Brown</td><td>5 Set</td><td>17384</td></tr><tr><td>Wardrobe Pullout Drawer Organiser (Soft Close)</td><td rowspan='2'><img style='width: 99%;' src='media-walkin-wardrobe/02-01-22.png' alt=''></td><td>WPDO-90-SC-BR</td><td>Brown</td><td>1 Set</td><td>15888</td></tr><tr><td>Wardrobe Pullout Drawer Organiser (Soft Close)</td><td>WPDO-60-SC-BR</td><td>Brown</td><td>1 Set</td><td>12023</td></tr><tr><td>Wardrobe Rail Fittings - Rectangular Rail</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-23.png' alt=''></td><td>WRF-RR-2-AN</td><td>Anodized Brown</td><td>1 Nos</td><td>1434</td></tr><tr><td>Safe Drawer Mini - Single (with felt mat)</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-24.png' alt=''></td><td>SMD-SM1</td><td>Anthracite</td><td>1 Nos</td><td>1726</td></tr><tr><td>Spot Diffused (Surface mount)</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-25.png' alt=''></td><td>S-SDS-NW</td><td>Anodized Silver</td><td>1 Nos</td><td>545</td></tr><tr><td>LED Strip Light - 5mm (24v)</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-31.png' alt=''></td><td>LED-501-NW</td><td>Neutral White</td><td>10 Nos</td><td>3289</td></tr><tr><td>Power Supply Unit - Series 3</td><td rowspan='2'><img style='width: 99%;' src='media-walkin-wardrobe/02-01-32.png' alt=''></td><td>PSU3-24120</td><td>Black</td><td>2 Nos</td><td>11816</td></tr><tr><td>Power Supply Unit - Series 3</td><td>PSU3-2465</td><td>Black</td><td>2 Nos</td><td>6998</td></tr><tr><td>Extension Cord for Light Series 2 (24V)</td><td><img style='width: 99%;' src='media-walkin-wardrobe/02-01-33.png' alt=''></td><td>L-EC2</td><td>Black</td><td>5 Nos</td><td>1142</td></tr><tr><td colspan='5' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ 100,948</td></tr><tr><td colspan='6' style='text-align: end; border: 0px;'>NOTE: The above BOM covers hardware cost only.</td></tr></tbody></table>",
+          "<table><tbody><tr><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download BOM: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-walkin-wardrobe/02-01-QR1.png' alt='QR-1'></td><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download Brochure: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-walkin-wardrobe/02-01-QR2.png' alt='QR-2'></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-02": {
+    "title": "Walk-in Wardrobe",
+    "products": [
+      {
+        "id": "content-02-02",
+        "prevContent": "selection-02-02",
+        "title": "Wardrobe Pullout 2 - Drawer Organiser (Soft Close)",
+        "cardImg": "media-walkin-wardrobe/02-02-01.jpg",
+        "carouselId": "carousel-02-02",
+        "images": [
+          "media-walkin-wardrobe/02-02-01.jpg"
+        ],
+        "features": [
+          "Thoughtfully designed to organize your accessories for convenient access and easy pull-out",
+          "Ready to use product that can be installed easily in any type of wardrobe",
+          "Soft velvet material at bottom protects your accessories from any type of dirt & damage",
+          "Ideal for storing variety of jewellery such as necklaces, rings, earrings or more.",
+          "in built soft close feature for silent & effortless closing",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-03": {
+    "title": "Walk-in Wardrobe",
+    "products": [
+      {
+        "id": "content-02-03",
+        "prevContent": "selection-02-03",
+        "title": "Cabinet Glass Shelf LED Profiles",
+        "cardImg": "media-walkin-wardrobe/02-03-01.jpg",
+        "carouselId": "carousel-02-03",
+        "images": [
+          "media-walkin-wardrobe/02-03-01.jpg",
+          "media-walkin-wardrobe/02-03-02.jpg",
+          "media-walkin-wardrobe/02-03-03.jpg",
+          "media-walkin-wardrobe/02-03-04.jpg",
+          "media-walkin-wardrobe/02-03-05.jpg"
+        ],
+        "features": [
+          "Ideal to make glass shelf with LED for wardrobes and cabinets",
+          "Width can be customized as per the requirement with 5mm thick glass",
+          "To be used with below items Mounting Bracket Kit (code: CGSL2K), Livsmart LED strip light-8mm (code: LED-801-NW) & Pin Shelf Support (PSS1) *Above items to be purchased separately",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CGSL-4-AN</td><td>Anodized Brown</td><td>2090/3mtr.</td><tr><tr><td>CGSS-4-AN</td><td>Anodized Brown</td><td>1341/3mtr.</td><tr><tr><td>CGSL2K-ZW</td><td>Zinc White</td><td>111/Set of 4</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-05": {
+    "title": "Walk-in Wardrobe",
+    "products": [
+      {
+        "id": "content-02-05",
+        "prevContent": "selection-02-05",
+        "title": "Wardrobe Rail Fittings (Rectangular)",
+        "cardImg": "media-walkin-wardrobe/02-05-01.jpg",
+        "carouselId": "carousel-02-05",
+        "images": [
+          "media-walkin-wardrobe/02-05-01.jpg"
+        ],
+        "features": [
+          "Rectangular wardrobe rail support are die cast for strength and long life.",
+          "Easy to fit and compatible with a special Ebco aluminium rectangular rail.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>WRF-RR-2-AN</td><td>Anodized Brown</td><td>1434/2.44mtr</td><tr><tr><td>WRF-RR-3M-AN</td><td>Anodized Brown</td><td>1764/3mtr</td><tr><tr><td>WRF-RR-3-AN</td><td>Anodized Brown</td><td>2150/3.66mtr</td></tr><tr><td>WRF-RR-3-BA</td><td>Brushed Aluminium</td><td>2238/3.66mtr</td><tr><tr><td>WRF-RRC-BR/BA</td><td>Brown / Brushed Aluminium</td><td>86/Set of 2 pcs.</td><tr><tr><td>WRF-BR1-BR/AC</td><td>Brown / Anodized Champagne</td><td>73/Each</td><tr><tr><td>WRF-BR2-BR/BA</td><td>Brown / Brushed Aluminium</td><td>24/Each</td><tr><tr><td>WRF-RRL-3M-AN</td><td>Anodized Brown</td><td>2758/3mtr</td><tr><tr><td>WRF-RRL-3M-BA</td><td>Brushed Aluminium</td><td>2854/3mtr</td><tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

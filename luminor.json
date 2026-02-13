@@ -1,0 +1,415 @@
+{
+  "sceneConfig": {
+    "panorama": "media-luminor/LED Demo-31012026-1-17mb.png",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01",
+      "targetContent": "selection-01",
+      "position": "-5.62 5.90 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02",
+      "targetContent": "selection-02",
+      "position": "-5.62 4.10 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "03",
+      "targetContent": "selection-03",
+      "position": "-5.62 2.30 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "04",
+      "targetContent": "selection-04",
+      "position": "-5.62 0.50 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "05",
+      "targetContent": "selection-05",
+      "position": "-5.62 -1.10 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "06",
+      "targetContent": "selection-06",
+      "position": "-5.62 -2.50 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "07",
+      "targetContent": "selection-07",
+      "position": "0.22 -2.50 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "08",
+      "targetContent": "selection-08",
+      "position": "5.32 -2.50 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "08-1",
+      "targetContent": "selection-08-1",
+      "position": "5.32 -1.10 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "09",
+      "targetContent": "selection-09",
+      "position": "5.32 0.50 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "10",
+      "targetContent": "selection-10",
+      "position": "5.32 2.30 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "11",
+      "targetContent": "selection-11",
+      "position": "5.32 4.10 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "12",
+      "targetContent": "selection-12",
+      "position": "5.32 5.90 -8.43",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "13",
+      "targetContent": "selection-13",
+      "position": "3.10 1.45 -7.85",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-01",
+        "prevContent": "selection-01",
+        "title": "Linear Recessed 9mm",
+        "cardImg": "media-luminor/01-01.jpg",
+        "carouselId": "carousel-01",
+        "images": [
+          "media-luminor/01-01.jpg",
+          "media-luminor/01-02.jpeg"
+        ],
+        "features": [
+          "Wooden shelf RECESSED MOUNT application.",
+          "Suitable for residences, commercial offices, Retail outlets & showrooms, etc.",
+          "Color temperature: 4000K (NW)",
+          "LED type: CRI 80+.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LR9-412</td><td>Anodized Silver</td><td>687/Each</td><tr><tr><td>L-LR9-562</td><td>Anodized Silver</td><td>939/Each</td><tr><tr><td>L-LR9-862</td><td>Anodized Silver</td><td>1435/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-02",
+        "prevContent": "selection-02",
+        "title": "Linear Shelf Edge (Edge Mount)",
+        "cardImg": "media-luminor/02-01.jpg",
+        "carouselId": "carousel-02",
+        "images": [
+          "media-luminor/02-01.jpg",
+          "media-luminor/02-02.jpg"
+        ],
+        "features": [
+          "Specially designed linear lights for wooden shelf edge mount application.",
+          "Wooden thickness: 18mm",
+          "Suitable for Residences, commercial offices, retail outlets, etc.",
+          "Input: 24V DC",
+          "CCT: 4000K",
+          "CRI: Ra 80+",
+          "Watt: 11.52w/mtr.",
+          "Led: 144L/mtr.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LSE18-412-NW</td><td>Anodized Silver / Anodized Brown</td><td>1404/Each</td><tr><tr><td>L-LSE18-562-NW </td><td>Anodized Silver / Anodized Brown</td><td>1907/Each</td><tr><tr><td>L-LSE18-862-NW</td><td>Anodized Silver / Anodized Brown</td><td>2923/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-03": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-03",
+        "prevContent": "selection-03",
+        "title": "Linear Two Way Glass 8mm",
+        "cardImg": "media-luminor/03-01.jpeg",
+        "carouselId": "carousel-03",
+        "images": [
+          "media-luminor/03-01.jpeg"
+        ],
+        "features": [
+          "Specially designed two-way linear lights for glass shelf edge mount application.",
+          "Glass thickness: 8mm",
+          "Suitable for Residences, commercial offices, retail outlets, etc.",
+          "Input: 24V DC",
+          "CCT: 4000K",
+          "CRI: Ra 80+",
+          "Watt: 14.4w/mtr",
+          "Led: 120L/mtr.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-L2G8-412</td><td>Anodized Silver</td><td>999/Each</td><tr><tr><td>L-L2G8-562</td><td>Anodized Silver</td><td>1362/Each</td><tr><tr><td>L-L2G8-862</td><td>Anodized Silver</td><td>2091/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-04": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-04",
+        "prevContent": "selection-04",
+        "title": "Linear 2 Way Angular 18mm",
+        "cardImg": "media-luminor/04-01.jpg",
+        "carouselId": "carousel-04",
+        "images": [
+          "media-luminor/04-01.jpg",
+          "media-luminor/04-02.jpg"
+        ],
+        "features": [
+          "Specially designed two-way linear lights for wooden shelf edge mount applications.",
+          "Wooden thickness: 18mm",
+          "Suitable for Residence, commercial offices, retail outlets, etc.",
+          "Multi-functional neutral white LED lighting for simultaneously used for niches and shelves.",
+          "Door trigger two-part sensor to achieve automatic power control with the movement of furniture shutters.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-L218A-412</td><td>Anodized Silver</td><td>1938/Each</td><tr><tr><td>L-L218A-562</td><td>Anodized Silver</td><td>2661/Each</td><tr><tr><td>L-L218A-862</td><td>Anodized Silver</td><td>4100/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-05": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-05",
+        "prevContent": "selection-05",
+        "title": "Invisible Touch Dimmer Switch",
+        "cardImg": "media-luminor/05-01.jpg",
+        "carouselId": "carousel-05",
+        "images": [
+          "media-luminor/05-01.jpg",
+          "media-luminor/05-02.jpg"
+        ],
+        "features": [
+          "Invisible, concealed, touch-capacitive sensor that transforms furniture surfaces into smart, dimmable light controls.",
+          "Control mode : Dimming / ON / OFF",
+          "Capacity : 60W",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS5IRS-412-NW</td><td>Neutral White</td><td>1980/Each</td><tr><tr><td>L-LS5IRS-562-NW</td><td>Neutral White</td><td>2692/Each</td><tr><tr><td>L-LS5IRS-862-NW</td><td>Neutral White</td><td>4138/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-06": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-06",
+        "prevContent": "selection-06",
+        "title": "Linear Slim 5 For Drawer - Door Trigger IR Sensor",
+        "cardImg": "media-luminor/06-01.jpg",
+        "carouselId": "carousel-06",
+        "images": [
+          "media-luminor/06-01.jpg",
+          "media-luminor/06-02.jpg",
+          "media-luminor/06-03.jpg"
+        ],
+        "features": [
+          "Specially designed linear lights for wooden shelf surface mount application.",
+          "Wooden thickness: 18mm",
+          "Suitable for Residences, commercial offices, retail outlets, etc.",
+          "The in-built IR sensor detects motion and activates the light and cuts off after seconds",
+          "Input:  24V DC",
+          "CCT: 4000K",
+          "CRI: Ra 80+",
+          "Watt: 14.4w/mtr",
+          "Led: 120L/mtr",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS5IRS-412-NW</td><td>Anodized Silver</td><td>1980/Each</td><tr><tr><td>L-LS5IRS-562-NW</td><td>Anodized Silver</td><td>2692/Each</td><tr><tr><td>L-LS5IRS-862-NW</td><td>Anodized Silver</td><td>4138/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-07": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-07",
+        "prevContent": "selection-07",
+        "title": "Linear Slim 6 For Cabinet - (Surface Mount)",
+        "cardImg": "media-luminor/07-01.jpg",
+        "carouselId": "carousel-07",
+        "images": [
+          "media-luminor/07-01.jpg",
+          "media-luminor/07-02.jpg"
+        ],
+        "features": [
+          "Specially designed linear lights for wooden shelf surface mount application.",
+          "Wooden thickness: 18mm",
+          "Suitable for Residences, commercial offices, retail outlets, etc.",
+          "Input:  24V DC",
+          "CCT: 4000K",
+          "CRI: Ra 80+",
+          "Watt: 14.4w/mtr",
+          "Led: 120L/mtr",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS6S-412-NW</td><td>Anodized Silver / Anodized Brown</td><td>796/Each</td><tr><tr><td>L-LS6S-562-NW</td><td>Anodized Silver / Anodized Brown</td><td>1079/Each</td><tr><tr><td>L-LS6S-762-NW</td><td>Anodized Silver / Anodized Brown</td><td>1446/Each</td></tr><tr><td>L-LS6S-862-NW</td><td>Anodized Silver / Anodized Brown</td><td>1655/Each</td><tr><tr><td>L-LS6S-962-NW</td><td>Anodized Silver / Anodized Brown</td><td>1844/Each</td><tr><tr><td>L-LS6S-1162-NW</td><td>Anodized Silver / Anodized Brown</td><td>2231/Each</td><tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-08": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-08",
+        "prevContent": "selection-08",
+        "title": "Linear Slim 7mm",
+        "cardImg": "media-luminor/08-01.jpg",
+        "carouselId": "carousel-08",
+        "images": [
+          "media-luminor/08-01.jpg",
+          "media-luminor/08-02.jpg"
+        ],
+        "features": [
+          "Ideal for indirect, cove lighting, etc",
+          "Suitable to fit in any under cabinet kitchen lighting, commercial offices, retail outlets, etc",
+          "Available in various lengths: 462, 562, 862 & 2000,",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS7-462-NW</td><td>Anodized Silver</td><td>356/Each</td><tr><tr><td>L-LS7-562-NW</td><td>Anodized Silver</td><td>440/Each</td><tr><tr><td>L-LS7-862-NW</td><td>Anodized Silver</td><td>670/Each</td></tr><tr><td>L-LS7-2000-NW</td><td>Anodized Silver</td><td>1540/Each</td><tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-09": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-09",
+        "prevContent": "selection-09",
+        "title": "Luminor 13 - Wood",
+        "cardImg": "media-luminor/09-01.jpg",
+        "carouselId": "carousel-09",
+        "images": [
+          "media-luminor/09-01.jpg",
+          "media-luminor/09-02.jpg"
+        ],
+        "features": [
+          "Easy edge mounting.",
+          "PVC with UV stabiliser for durability.",
+          "Suitable for 18 mm thick wood.",
+          "Comes in a 3 meter length for ample coverage.",
+          "LED strip to be purchased separately.",
+          "Opaline Finish.",
+          "Two way light",
+          "Ideal for shelfs, 5-year warranty",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LUM13W</td><td>Opaline</td><td>834/1 pc. of 3 mtr.</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-10": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-10",
+        "prevContent": "selection-10",
+        "title": "Luminor 12 - Glass",
+        "cardImg": "media-luminor/10-01.jpg",
+        "carouselId": "carousel-10",
+        "images": [
+          "media-luminor/10-01.jpg",
+          "media-luminor/10-02.jpg"
+        ],
+        "features": [
+          "Edge mountable for 6 mm and 8 mm thick glass",
+          "Made from durable PVC with special UV Stabiliser",
+          "Comes in a 3 meter length for ample coverage",
+          "Opaline Finish",
+          "Two way light.",
+          "Led strip to be purchased separately.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LUM12G</td><td>Opaline</td><td>834/1 pc. of 3 mtr.</td><tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-11": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-11",
+        "prevContent": "selection-11",
+        "title": "Linear Wood Shelf Edge LED Profile",
+        "cardImg": "media-luminor/11-01.jpg",
+        "carouselId": "carousel-11",
+        "images": [
+          "media-luminor/11-01.jpg",
+          "media-luminor/11-02.jpg"
+        ],
+        "features": [
+          "For 18mm thick wooden shelf edge mount application",
+          "Length of the light can be customized as per the requirement",
+          "Recommended to be used with Livsmart LED strip light-8mm (code: LED-801-NW) - to be purchased separately",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LWSEL-18-AN</td><td>Anodized Brown</td><td>1631/3mtr.</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-12": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-12",
+        "prevContent": "selection-12",
+        "title": "Linear Recessed 9mm",
+        "cardImg": "media-luminor/12-01.jpg",
+        "carouselId": "carousel-12",
+        "images": [
+          "media-luminor/12-01.jpg",
+          "media-luminor/12-02.jpeg"
+        ],
+        "features": [
+          "Wooden shelf RECESSED MOUNT application.",
+          "Suitable for residences, commercial offices, Retail outlets & showrooms, etc.",
+          "Lengths (Power):  412mm(4.8Watt), 562mm(6.5Watt), 862mm(10Watt)",
+          "Color temperature: 4000K (NW)",
+          "LED type: CRI 80+.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LR9-412</td><td>Anodized Silver</td><td>687/Each</td><tr><tr><td>L-LR9-562</td><td>Anodized Silver</td><td>939/Each</td><tr><tr><td>L-LR9-862</td><td>Anodized Silver</td><td>1435/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-13": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-13",
+        "prevContent": "selection-13",
+        "title": "Cove Light Profile with Diffusor",
+        "cardImg": "media-luminor/13-01.jpg",
+        "carouselId": "carousel-13",
+        "images": [
+          "media-luminor/13-01.jpg",
+          "media-luminor/13-02.jpg",
+          "media-luminor/13-03.jpg",
+          "media-luminor/13-04.jpg"
+        ],
+        "features": [
+          "Indirect linear lighting for furniture",
+          "Recessed installation in wooden panel",
+          "Customizable length as per requirement",
+          "To be used with Livsmart LED strip light-5mm (24v) (code: LED-501-NW)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CLPD1</td><td>Brown / Silver</td><td>3216/Each</td><tr><tr><td>LED-501-NW</td><td>Brown / Silver</td><td>329/1 pc of 3 mtr.</td><tr><tr><td>CLPD1-EC</td><td>Brown / Silver</td><td>39/Pair</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "sceneConfig": {
+    "panorama": "media-bedroom1/Bedroom-1-31012026-01-22mb.png",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "09-01",
+      "targetContent": "selection-09-01",
+      "position": "-8.05 1.58 -1.7",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "09-02",
+      "targetContent": "selection-09-02",
+      "position": "-7.60 1.70 -5.7",
+      "rotation": "0 0 0"
+    },    
+    {
+      "id": "10-01",
+      "targetContent": "selection-10-01",
+      "position": "-1.30 -0.35 -6.58",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "10-02",
+      "targetContent": "selection-10-02",
+      "position": "-0.10 -1.00 -6.58",
+      "rotation": "0 0 0"
+    },    
+    {
+      "id": "10-03",
+      "targetContent": "selection-10-03",
+      "position": "-0.10 -1.60 -6.58",
+      "rotation": "0 0 0"
+    },    
+    {
+      "id": "10-04",
+      "targetContent": "selection-10-04",
+      "position": "-0.10 -2.20 -6.58",
+      "rotation": "0 0 0"
+    },    
+    {
+      "id": "10-05",
+      "targetContent": "selection-10-05",
+      "position": "-2.85 -1.90 -6.58",
+      "rotation": "0 0 0"
+    },    
+    {
+      "id": "11",
+      "targetContent": "selection-11",
+      "position": "6.50 3.00 -6.00",
+      "rotation": "0 0 0"
+    },    
+    {
+      "id": "12",
+      "targetContent": "selection-12",
+      "position": "5.50 3.00 2.00",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-09-01": {
+    "title": "Bedroom 1",
+    "products": [
+      {
+        "id": "content-09-01",
+        "prevContent": "selection-09-01",
+        "title": "Premium Wall Bed System",
+        "cardImg": "media-bedroom1/09-01-01.webp",
+        "carouselId": "carousel-09-01",
+        "images": [
+          "media-bedroom1/09-01-01.webp"
+        ],
+        "features": [
+          "Enjoy easy operation with a smooth, fuss-free lifting system with auto soft closing at 15-20°",
+          "Recommended cabinet panel THK: 25mm.",
+          "Auto Stopping at 15-20° auto open, soft landing.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 21%;'>Code</th><th style='width: 18%;'>Finish</th><th style='width: 12%;'>Qty</th><th style='width: 15%;'>Amount</th></tr></thead><tbody><tr><td>Premium Wall Bed System 1520 (Complete Fittings with Frame, Slats & Folding Leg Transmission)</td><td>P-WBS-1520</td><td>-</td><td>1 Nos</td><td>₹ 152563</td></tr><tr><td>Premium Sofa Synchro Frame (for Premium Wall Bed System 1520)</td><td>P-WBS-SSF1</td><td>-</td><td>1 Nos</td><td>₹ 82296</td></tr><tr><td>Push Release Fitting (for Premium Wall Bed System 1520)</td><td>P-WBS-PRF</td><td>-</td><td>1 Nos</td><td>₹ 20658</td></tr><tr><td>Door Stopper (for Premium Wall Bed System 1520)</td><td>P-WBS-DS</td><td>-</td><td>1 Nos</td><td>₹ 2074</td></tr><tr><td>Glass Shelf Support (Screw)</td><td>GSS2</td><td>Nickel Plated</td><td>16 Nos</td><td>₹ 186045</td></tr><tr><td>Linear 2 way Glass 8mm </td><td>L-L2G8-562</td><td>Anodized Silver</td><td>4 Nos</td><td>₹ 5447</td></tr><tr><td>Concealed Drawer Slide - Slim 3(with Facia Bracket)</td><td>CDSS340-SC-ZW</td><td>Zinc White</td><td>4 Sets</td><td>₹ 5029</td></tr><tr><td>Al. Profile for Wardrobe Sliding Partition -19mm - Special Finish /Anodized Gold</td><td>WSP-19-3M-SF</td><td>Special Finish</td><td>1 Nos</td><td>₹ 1080</td></tr><tr><td>Aluminium Handle - T</td><td>TAH-224</td><td>Brushed Gold</td><td>4 Nos</td><td>₹ 1532</td></tr><tr><td>Plinth Fitting (Without Screw)</td><td>PF75-110</td><td>Black</td><td>8 Nos</td><td>₹ 8984</td></tr><tr><td>Skirting Clip with Bracket (For Wood)</td><td>PFSCB1</td><td>Black</td><td>4 Nos</td><td>₹ 4643</td></tr><tr><td>Power Supply Unit - Series 3</td><td>PSU3-24120</td><td>Black</td><td>2 Nos</td><td>₹ 11816</td></tr><tr><td>Extension Cord for Light Series 2 (24V)</td><td>L-EC2</td><td>Black</td><td>3 Nos</td><td>₹ 684</td></tr><tr><td>Touch Dimmer Switch</td><td>TDS-2</td><td>-</td><td>2 Nos</td><td>₹ 2200</td></tr><tr><td colspan='4' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ 4,85,050</td></tr><tr><td colspan='5' style='text-align: end; border: 0px;'>NOTE: The above BOM covers hardware cost only.</td></tr></tbody></table>",
+          "<table><tbody><tr><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download BOM: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-bedroom1/QR1.png' alt='QR-1'></td><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download Brochure: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-bedroom1/QR2.png' alt='QR-2'></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-09-02": {
+    "title": "Bedroom 1",
+    "products": [
+      {
+        "id": "content-09-02-01",
+        "prevContent": "selection-09-02",
+        "title": "Linear Two Way Glass 8mm",
+        "cardImg": "media-bedroom1/09-02-01-01.jpeg",
+        "carouselId": "carousel-09-02-01",
+        "images": [
+          "media-bedroom1/09-02-01-01.jpeg"
+        ],
+        "features": [
+          "Specially designed two-way linear lights for glass shelf edge mount application.",
+          "Glass thickness: 8mm",
+          "Suitable for Residences, commercial offices, retail outlets, etc.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-L2G8-412</td><td>Anodized Silver</td><td>999/Each</td></tr><tr><td>L-L2G8-562</td><td>Anodized Silver</td><td>1362/Each</td></tr><tr><td>L-L2G8-862</td><td>Anodized Silver</td><td>2091/Each</td></tr></tbody></table>"          
+        ]
+      },
+      {
+        "id": "content-09-02-02",
+        "prevContent": "selection-09-02-02",
+        "title": "Glass Shelf Support",
+        "cardImg": "media-bedroom1/09-02-02-01.jpg",
+        "carouselId": "carousel-09-02-02",
+        "images": [
+          "media-bedroom1/09-02-02-01.jpg",
+          "media-bedroom1/09-02-02-02.jpg"
+        ],
+        "features": [
+          "Easy to use with elegant looks for wood or glass shelves.",
+          "Requires ø5mm drill to fix.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>GSS2-NP</td><td>Nickel Plated</td><td>11628/1000pc</td></tr><tr><td>GSS2-TN</td><td>Titanium</td><td>11900/1000pc</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-09-02-03",
+        "prevContent": "selection-09-02-03",
+        "title": "Concealed Drawer Slide Slim 3 (With Facia Brackets)",
+        "cardImg": "media-bedroom1/09-02-03-01.webp",
+        "carouselId": "carousel-09-02-03",
+        "images": [
+          "media-bedroom1/09-02-03-01.webp",
+          "media-bedroom1/09-02-03-02.webp"
+        ],
+        "features": [
+          "Perfect for modern furniture drawers, this concealed slide gives a sleek appearance without visible hardware.",
+          "Uses minimal space below the drawer (27mm clearance).",
+          "Drawer 3D adjustment:",
+          "Height adjustment: 0 ~ +3mm.",
+          "Depth adjustment: 0 ~ +5mm.",
+          "Width adjustment: ±1.5 mm",
+          "Length: 300 - 600mm",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CDSS330-SC-ZW</td><td>Zinc White</td><td>1143/Set</td></tr><tr><td>CDSS335-SC-ZW</td><td>Zinc White</td><td>1199/Set</td></tr><tr><td>CDSS340-SC-ZW</td><td>Zinc White</td><td>1257/Set</td></tr><tr><td>CDSS345-SC-ZW</td><td>Zinc White</td><td>1334/Set</td></tr><tr><td>CDSS350-SC-ZW</td><td>Zinc White</td><td>1427/Set</td></tr><tr><td>CDSS355-SC-ZW</td><td>Zinc White</td><td>1465/Set</td></tr><tr><td>CDSS360-SC-ZW</td><td>Zinc White</td><td>1532/Set</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-10-01": {
+    "title": "Bedroom 1",
+    "products": [
+      {
+        "id": "content-10-01",
+        "prevContent": "selection-10-01",
+        "title": "Concealed Drawer Slide - Slim 2 - Smart Push (with Fascia Bracket)",
+        "cardImg": "media-bedroom1/10-01-01-01.jpg",
+        "carouselId": "carousel-10-01",
+        "images": [
+          "media-bedroom1/10-01-01-01.jpg"
+        ],
+        "features": [
+          "Concealed drawer slides slim 2 with smart push mechanism for handle less drawers.",
+          "Load capacity: 35kg",
+          "Comes with stabilizer bar for the wide drawers to improve the stability of drawer and reduce the drawer seg.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><tr><td>CDSS235-SP</td><td>Zinc White</td><td>3739/Set</td></tr><tr><td>CDSS240-SP</td><td>Zinc White</td><td>3885/Set</td></tr><tr><td>CDSS245-SP</td><td>Zinc White</td><td>4022/Set</td></tr><tr><td>CDSS250-SP</td><td>Zinc White</td><td>4223/Set</td></tr><tr><td>CDSS2-SB900</td><td>-</td><td>317/Set</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-10-02": {
+    "title": "Bedroom 1",
+    "products": [
+      {
+        "id": "content-10-02",
+        "prevContent": "selection-10-02",
+        "title": "Concealed Drawer Slide Slim – 2 Push Open (with Fascia Bracket)",
+        "cardImg": "media-bedroom1/10-02-01-01.png",
+        "carouselId": "carousel-10-02",
+        "images": [
+          "media-bedroom1/10-02-01-01.png"
+        ],
+        "features": [
+          "Concealed drawer slide slim 2 with facia brackets has in-built PUSH OPEN mechanism.",
+          "This compact model uses minimal space (27mm) below the drawer.",
+          "Flexible 3D adjustment allow facia brackets to be adjusted in 3 directions.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CDSS230-PO</td><td>Zinc White</td><td>1639/Set</td></tr><tr><td>CDSS235-PO</td><td>Zinc White</td><td>1679/Set</td></tr><tr><td>CDSS240-PO</td><td>Zinc White</td><td>1816/Set</td></tr><tr><td>CDSS245-PO</td><td>Zinc White</td><td>1938/Set</td></tr><tr><td>CDSS250-PO</td><td>Zinc White</td><td>2088/Set</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-10-03": {
+    "title": "Bedroom 1",
+    "products": [
+      {
+        "id": "content-10-03",
+        "prevContent": "selection-10-03",
+        "title": "EcoGlide Concealed Drawer Slide (with Facia Bracket)",
+        "cardImg": "media-bedroom1/10-03-01-01.jpg",
+        "carouselId": "carousel-10-03",
+        "images": [
+          "media-bedroom1/10-03-01-01.jpg"
+        ],
+        "features": [
+          "Load Capacity : 35Kg",
+          "Length : 300-550mm",
+          "Height Adjustment : 0~+3mm",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CDSEG30-SC-ZW</td><td>Zinc White</td><td>911/Set</td></tr><tr><td>CDSEG35-SC-ZW</td><td>Zinc White</td><td>932/Set</td></tr><tr><td>CDSEG40-SC-ZW</td><td>Zinc White</td><td>1032/Set</td></tr><tr><td>CDSEG45-SC-ZW</td><td>Zinc White</td><td>1114/Set</td></tr><tr><td>CDSEG50-SC-ZW</td><td>Zinc White</td><td>1195/Set</td></tr><tr><td>CDSEG55-SC-ZW</td><td>Zinc White</td><td>1345/Set</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-10-04": {
+    "title": "Bedroom 1",
+    "products": [
+      {
+        "id": "content-10-04",
+        "prevContent": "selection-10-04",
+        "title": "Concealed Drawer Slide Slim 3 (With Facia Brackets)",
+        "cardImg": "media-bedroom1/10-04-01.webp",
+        "carouselId": "carousel-10-04",
+        "images": [
+          "media-bedroom1/10-04-01.webp",
+          "media-bedroom1/10-04-02.webp"
+        ],
+        "features": [
+          "Perfect for modern furniture drawers, this concealed slide gives a sleek appearance without visible hardware.",
+          "Uses minimal space below the drawer (27mm clearance).",
+          "Drawer 3D adjustment.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CDSS330-SC-ZW</td><td>Zinc White</td><td>1143/Set</td></tr><tr><td>CDSS335-SC-ZW</td><td>Zinc White</td><td>1199/Set</td></tr><tr><td>CDSS340-SC-ZW</td><td>Zinc White</td><td>1257/Set</td></tr><tr><td>CDSS345-SC-ZW</td><td>Zinc White</td><td>1334/Set</td></tr><tr><td>CDSS350-SC-ZW</td><td>Zinc White</td><td>1427/Set</td></tr><tr><td>CDSS355-SC-ZW</td><td>Zinc White</td><td>1465/Set</td></tr><tr><td>CDSS360-SC-ZW</td><td>Zinc White</td><td>1532/Set</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-10-05": {
+    "title": "Bedroom 1",
+    "products": [
+      {
+        "id": "content-10-05-01",
+        "prevContent": "selection-10-05",
+        "title": "Hinge Push Open (with magnetic push open fittings)",
+        "cardImg": "media-bedroom1/10-05-01-01.jpg",
+        "carouselId": "carousel-10-05-01",
+        "images": [
+          "media-bedroom1/10-05-01-01.jpg"
+        ],
+        "features": [
+          "This new hinge with special reverse spring enables automatic opening of door by exerting small amount of pressure to the door.",
+          "Available in Full Overlay, Half Overlay and Inset.",
+          "For shutter thickness of 16mm to 19mm.",
+          "Designed to use with Ebco Push Open Fitting.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>HPO1-POM-NP</td><td>Nickel Plated</td><td>214/Set</td></tr><tr><td>HPO2-POM-NP</td><td>Nickel Plated</td><td>214/Set</td></tr><tr><td>HPO3-POM-NP</td><td>Nickel Plated</td><td>214/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-10-05-02",
+        "prevContent": "selection-10-05",
+        "title": "Concealed Shelf Support",
+        "cardImg": "media-bedroom1/10-05-02-01.jpg",
+        "carouselId": "carousel-10-05-02",
+        "images": [
+          "media-bedroom1/10-05-02-01.jpg",
+          "media-bedroom1/10-05-02-02.jpg"
+        ],
+        "features": [
+          "These are easy to use fittings and are used for connecting shelves and sides of cabinets",
+          "This saves on assembly time as the shelves can be fitted easily from the front or from above into the carcass of the cabinet",
+          "The Housing sits inside a Ø 15mm cavity, 10.5mm deep",
+          "The screw is fitted on the side wall of the cabinet, & the shelf with the Housing is pushed from the top",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CCSS1-FW</td><td>Frosty White</td><td>581/40pc</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-11": {
+    "title": "Bedroom 1",
+    "products": [
+      {
+        "id": "content-11-01-01",
+        "prevContent": "selection-11",
+        "title": "Pocket Door Wardrobe",
+        "cardImg": "media-bedroom1/11-01-01-01.jpg",
+        "carouselId": "carousel-11-01-01",
+        "images": [
+          "media-bedroom1/11-01-01-01.jpg"
+        ],
+        "features": [
+          "Pocket Door Wardrobe",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 21%;'>Code</th><th style='width: 18%;'>Finish</th><th style='width: 12%;'>Qty</th><th style='width: 15%;'>Amount</th></tr></thead><tbody><tr><td>Wardrobe Pocket Door System - 35 Left</td><td>WPDS35L-ZW</td><td>Zinc White</td><td>1 Nos</td><td>-</td></tr><tr><td>Wardrobe Pocket Door System - 35 RIGHT</td><td>WPDS35R-ZW</td><td>Zinc White</td><td>1 Nos</td><td>-</td></tr><tr><td>Concealed Shelf Support </td><td>CCSS1</td><td>Frosty White</td><td>6 Set</td><td>240</td></tr><tr><td>Wardrobe Rail Fittings - Rectangular Rail with Luminor 16</td><td>WRF-RRL-3M-AN</td><td>Anodized Brown</td><td>1 Nos</td><td>2757</td></tr><tr><td>Wardrobe Rail Fittings - Rectangular Bracket</td><td>WRF-BR2</td><td>Brown</td><td>2 Set</td><td>48</td></tr><tr><td>Wardrobe Mirror Pivot</td><td>WMP-6030-BR</td><td>Brown</td><td>1 Nos</td><td>3810</td></tr><tr><td>Safe Drawer -Top Mount -  Single</td><td>SD-TM1</td><td>Anthracite</td><td>1 Nos</td><td>1867</td></tr><tr><td>Plinth Fitting (Without Screw)</td><td>PF75-110</td><td>Black</td><td>6 Nos</td><td>6738</td></tr><tr><td>Skirting Clip with Bracket  (For Wood)</td><td>PFSCB1</td><td>Black</td><td>6 Nos</td><td>6966</td></tr><tr><td>Door Stiffner HD</td><td>DSTF2-HD</td><td>Grey</td><td>4 Nos</td><td>4088</td></tr><tr><td>Luminor 15 Decorative Profile 1</td><td>LUM15-DP1</td><td>Opaline</td><td>3 Nos</td><td>1665</td></tr><tr><td>LED Strip Light - 5mm (24v)</td><td>LED-501-NW</td><td>Neutral White</td><td>3 Nos</td><td>987</td></tr><tr><td>Power Supply Unit - Series 3</td><td>PSU3-24120</td><td>Black</td><td>1 Nos</td><td>5908</td></tr><tr><td>Power Supply Unit - Series 3</td><td>PSU3-2465</td><td>Black</td><td>1 Nos</td><td>3499</td></tr><tr><td>Extension Cord for Light Series 2 (24V)</td><td>L-EC2</td><td>Black</td><td>5 Nos</td><td>1140</td></tr><tr><td>Door Trigger Sensor 4 - Double</td><td>DTS4D</td><td>-</td><td>1 Nos</td><td>1268</td></tr><tr><td colspan='4' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ 40,982</td></tr><tr><td colspan='5' style='text-align: end; border: 0px;'>NOTE: The above BOM covers hardware cost only.</td></tr></tbody></table>",
+          "<table><tbody><tr><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download BOM: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-bedroom1/QR1.png' alt='QR-1'></td><td style='visibility: hidden; border: 0px; width: 35%; text-align: center; border-right: 0px;'>Scan to Download Brochure: </td><td style='visibility: hidden; border: 0px; width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-bedroom1/QR2.png' alt='QR-2'></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-11-01-02",
+        "prevContent": "selection-11",
+        "title": "Door Stiffener HD",
+        "cardImg": "media-bedroom1/11-01-02-01.png",
+        "carouselId": "carousel-11-01-02", 
+        "images": [
+          "media-bedroom1/11-01-02-01.png"
+        ],
+        "features": [
+          "Door stiffener HD helps to prevent warpage of thin long shutters.",
+          "Symmetrical working processes",
+          "Can be used in multiples for wider shutters",
+          "Use two sets when door width is more than 600mm",
+          "For door thickness 15mm and more",
+          "For door height 1000mm ~ 2700mm",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>DSTF2-HD-GR</td><td>-</td><td>1022/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-11-05-01",
+        "prevContent": "selection-11",
+        "title": "Wardrobe Mirror Pivot",
+        "cardImg": "media-bedroom1/11-05-01-01.png",
+        "carouselId": "carousel-11-05-01",
+        "images": [
+          "media-bedroom1/11-05-01-01.png",
+          "media-bedroom1/11-05-01-02.png"
+        ],
+        "features": [
+          "Low profile design that fits into wardrobe interiors (side mount).",
+          "Saves space and maximizes wardrobe use.",
+          "Rotates 180° for easy viewing.",
+          "Minimum cabinet depth: 320mm",
+          "Inner cabinet height: ≥940mm (WMP-9030), ≥640mm (WMP-6030)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>WMP-6030-BR</td><td>Brown</td><td>3810/Each</td></tr><tr><td>WMP-9030-BR</td><td>Brown</td><td>4282/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-11-05-02",
+        "prevContent": "selection-11",
+        "title": "Safe Drawer - Top Mount - Single",
+        "cardImg": "media-bedroom1/11-05-02-01.jpg",
+        "carouselId": "carousel-11-05-02",
+        "images": [
+          "media-bedroom1/11-05-02-01.jpg",
+          "media-bedroom1/11-05-02-02.jpg",
+          "media-bedroom1/11-05-02-03.jpg",
+          "media-bedroom1/11-05-02-04.jpg"
+        ],
+        "features": [
+          "A useful product made especially for office tables",
+          "Conveniently designed for storage of laptop etc.",
+          "Maximum laptop size: 390 x 270 x 40mm",
+          "Comes with a cam lock and key",
+          "Fitted on ball bearing slides",
+          "Full extension of drawer is 300mm",
+          "System 32 compatible",
+          "Easy to fit and use",
+          "Weight capacity: 12 kilograms",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>SD-TM1-AT</td><td>Anthracite</td><td>1867/Each</td></tr><tr><td>SDM-TM1-AT</td><td>Anthracite</td><td>2131/Each</td></tr><tr><td>SDM-TMCL-AT</td><td>Anthracite</td><td>3055/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-11-05-03",
+        "prevContent": "selection-11",
+        "title": "Wardrobe Rail Fittings – Rectangular With Luminor 16",
+        "cardImg": "media-bedroom1/11-05-03-01.webp",
+        "carouselId": "carousel-11-05-03",
+        "images": [
+          "media-bedroom1/11-05-03-01.webp",
+          "media-bedroom1/11-05-03-02.webp",
+          "media-bedroom1/11-05-03-03.png"
+        ],
+        "features": [
+          "Specially designed wardrobe rail rectangular with integrated luminor 16, offering ambient illumination for the closet or wardrobe space.",
+          "Recommended to use with Ebco’s LED Strip light 5mm (LED to be purchased separately)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>WRF-RRL-3M-AN</td><td>Anodized Brown</td><td>2758/Each (3mtr.)</td></tr><tr><td>WRF-RRL-3M-BA</td><td>Brushed Aluminium</td><td>2854/Each (3mtr.)</td></tr><tr><td>WRF-BR1</td><td>Brown / Anodized Champagne</td><td>73/Each</td></tr><tr><td>WRF-BR2</td><td>Brown / Brushed Aluminium</td><td>24/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-11-08-01",
+        "prevContent": "selection-11",
+        "title": "Cabinet Glass Shelf LED Profiles",
+        "cardImg": "media-bedroom1/11-08-01-01.jpg",
+        "carouselId": "carousel-11-08-01",
+        "images": [
+          "media-bedroom1/11-08-01-01.jpg",
+          "media-bedroom1/11-08-01-02.jpg"
+        ],
+        "features": [
+          "Ideal to make glass shelf with LED for wardrobes and cabinets.",
+          "Width can be customized as per the requirement with 5mm thick glass.",
+          "To be used with below items Mounting Bracket Kit (code: CGSL2K), Livsmart LED strip light-8mm (code: LED-801-NW) & Pin Shelf Support (PSS1) *Above items to be purchased separately.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CGSL-4-AN</td><td>Anodized Brown</td><td>2090/3mtr.</td></tr><tr><td>CGSS-4-AN</td><td>Anodized Brown</td><td>1341/3mtr.</td></tr><tr><td>CGSL2K-ZW</td><td>Zinc White</td><td>111/Set of 4</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-11-08-02",
+        "prevContent": "selection-11",
+        "title": "Concealed Shelf Support",
+        "cardImg": "media-bedroom1/11-08-02-01.jpg",
+        "carouselId": "carousel-11-08-02",
+        "images": [
+          "media-bedroom1/11-08-02-01.jpg",
+          "media-bedroom1/11-08-02-02.jpg"
+        ],
+        "features": [
+          "These are easy to use fittings and are used for connecting shelves and sides of cabinets",
+          "This saves on assembly time as the shelves can be fitted easily from the front or from above into the carcass of the cabinet",
+          "The Housing sits inside a Ø 15mm cavity, 10.5mm deep",
+          "The screw is fitted on the side wall of the cabinet, & the shelf with the Housing is pushed from the top",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CCSS1-FW</td><td>Frosty White</td><td>581/40pc</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-12": {
+    "title": "Bedroom 1",
+    "products": [
+      {
+        "id": "content-12-01",
+        "prevContent": "selection-12",
+        "title": "Hi Slide Inline Euro Electric - 80",
+        "cardImg": "media-bedroom1/12-01-01.webp",
+        "carouselId": "carousel-12-01",
+        "images": [
+          "media-bedroom1/12-01-01.webp"
+        ],
+        "features": [
+          "Specially designed Motorized Hi slide inline Euro 80 for effortless opening and closing With Remote control operation.",
+          "Accessibility for people with mobility issues.",
+          "Soft-open and soft-close technology for smooth operation.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 21%;'>Code</th><th style='width: 18%;'>Finish</th><th style='width: 12%;'>Qty</th><th style='width: 15%;'>Amount</th></tr></thead><tbody><tr><td>Hi Slide Inline Euro Electric – 80(2 door mechanism + Al. Tracks – Top & Bottom + Soft Close + Soft Open fittings + Remote)</td><td>HSIEE80-66-82</td><td>Silver</td><td>1 Nos</td><td>203214</td></tr><tr><td>Wardrobe Rail Fittings - Rectangular Rail</td><td>WRF-RR-2-AN</td><td>Anodized Brown</td><td>1 Nos</td><td>1434</td></tr><tr><td>Wardrobe Rail Fittings - Rectangular Bracket</td><td>WRF-BR1</td><td>Brown</td><td>1 Nos</td><td>73</td></tr><tr><td>Wardrobe Rail Fittings - Rectangular Bracket</td><td>WRF-BR2</td><td>Brown</td><td>1 Nos</td><td>24</td></tr><tr><td>Iron Rack</td><td>IR1-6-5-10</td><td>SS304</td><td>1 Nos</td><td>499</td></tr><tr><td>Wardrobe Pullout Ironing Board</td><td>WPIB-4360-AT</td><td>Anthracite</td><td>1 Nos</td><td>10706</td></tr><tr><td>Sleek Telescopic Drawer  Slide</td><td>STDS45-35-SC</td><td>Zinc White</td><td>2 Sets</td><td>1888</td></tr><tr><td>ESmart Digital Lock 2 - Horizontal Left - Fingerprint + Numeric + NFC</td><td>ESDL2-HL-FNN-BL</td><td>Black</td><td>2 Nos</td><td>7689</td></tr><tr><td>Pro-motion Drawer System 172 - S3</td><td>PMDS3-50-S3</td><td>Brown</td><td>2 Set</td><td>8530</td></tr><tr><td>Glass Fascia Panel for PMDS3 'S3' Series - 90</td><td>PMDS3-S3-FG-90</td><td>-</td><td>1 Nos</td><td>1064</td></tr><tr><td>Aluminium Fascia Rail for PMDS3 'S3' Series</td><td>PMDS3-S3-FR</td><td>Brown</td><td>1 Nos</td><td>1441</td></tr><tr><td>Fascia Connector for PMDS3 'S3' Series for Rail</td><td>PMDS3-S3-FC-R</td><td>Brown</td><td>1 Nos</td><td>689</td></tr><tr><td>Concealed Shelf Support </td><td>CCSS1</td><td>Frosty White</td><td>2 Sets</td><td>1162</td></tr><tr><td>Aluminium Fascia Panel for PMDS2 'S3' Series</td><td>PMDS2-S3-FP</td><td>Brown</td><td>1 Nos</td><td>3971</td></tr><tr><td>Fascia Connector for PMDS3 'S3' Series for Glass/Aluminium Panel</td><td>PMDS3S3-FC-GP</td><td>Brown</td><td>1 Nos</td><td>689</td></tr><tr><td>Wardrobe Lift Electric - 15 (with remote)</td><td>P-WLE-15-AT</td><td>Anthracite</td><td>1 Nos</td><td>38099</td></tr><tr><td>Wardrobe Pullout Drawer Organiser (Soft Close)</td><td>WPDO-90-SC-BR</td><td>Brown</td><td>1 Nos</td><td>15888</td></tr><tr><td>Wardrobe Pullout-Trouser / Saree (Soft Close) (with 13 Hangers)</td><td>WPTS-90-SC-BR</td><td>Brown</td><td>1 Nos</td><td>8102</td></tr><tr><td>Luminor 15 Decorative Profile 1</td><td>LUM15-DP1</td><td>Opaline</td><td>3 Nos</td><td>1665</td></tr><tr><td>LED Strip Light - 5mm (24v)</td><td>LED-501-NW</td><td>Neutral White</td><td>1 Nos</td><td>329</td></tr><tr><td>Power Supply Unit - Series 3</td><td>PSU3-24120</td><td>Black</td><td>1 Nos</td><td>5908</td></tr><tr><td>Luminor 10C (Set of Diffusor Profile with Base Profile)</td><td>LUM10C1</td><td>Black</td><td>1 Nos</td><td>3082</td></tr><tr><td>End Cap for LUM10C1</td><td>LUM10C1-EC</td><td>Black</td><td>2 Set</td><td>108</td></tr><tr><td>Extension Cord for Light Series 2 (24V)</td><td>L-EC2</td><td>Black</td><td>2 Nos</td><td>456</td></tr><tr><td>Door Stiffner HD</td><td>DSTF2-HD</td><td>Grey</td><td>4 Sets</td><td>4090</td></tr><tr><td>Plinth Fitting (Without Screw)</td><td>PF75-110</td><td>Black</td><td>8 Nos</td><td>8984</td></tr><tr><td>Plinth Screw with Cap</td><td>PFSC-1032</td><td>White</td><td>6 Nos</td><td>1559</td></tr><tr><td>Al.Handle C4-2</td><td>C4AH2-1088-AB</td><td>Anodized Black</td><td>2 Nos</td><td>3604</td></tr><tr><td>Door Trigger Sensor 4 - Double</td><td>DTS4D</td><td>-</td><td>3 Nos</td><td>3803</td></tr><td colspan='4' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ 3,38,750</td></tr><tr><td colspan='5' style='text-align: end; border: 0px;'>NOTE: The above BOM covers hardware cost only.</td></tr></tbody></table>",
+          "<table><tbody><tr><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download BOM: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-bedroom1/QR1.png' alt='QR-1'></td><td style='visibility: hidden; border: 0px; width: 35%; text-align: center; border-right: 0px;'>Scan to Download Brochure: </td><td style='visibility: hidden; border: 0px; width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-bedroom1/QR2.png' alt='QR-2'></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-02",
+        "prevContent": "selection-12",
+        "title": "Luminor 10C",
+        "cardImg": "media-bedroom1/12-02-01-01.jpg",
+        "carouselId": "carousel-12-02",
+        "images": [
+          "media-bedroom1/12-02-01-01.jpg",
+          "media-bedroom1/12-02-01-02.jpg"
+        ],
+        "features": [
+          "Mounting: Surface",
+          "Interior Lighting - Passageways, Illuminating mirror edges, Floors, etc.",
+          "Cove lighting.",
+          "Ceiling and wall lighting.",
+          "Exhibition and Shelf lighting.",
+          "Recessed under kitchen cabinets or retail shelves and display cabinets.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LUM10C1</td><td>Black</td><td>3082/3mtr.</td></tr><tr><td>LUM10C1-EC</td><td>Black</td><td>54/Pair</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-02-02",
+        "prevContent": "selection-12",
+        "title": "ESmart Digital Lock 2 - Horizontal",
+        "cardImg": "media-bedroom1/12-02-02-01.webp",
+        "carouselId": "carousel-12-02-02",
+        "images": [
+          "media-bedroom1/12-02-02-01.webp",
+          "media-bedroom1/12-02-02-02.webp"
+        ],
+        "features": [
+          "Enhance security with the ESmart digital locks, series 2",
+          "Automatically locks within 5 seconds.",
+          "Wood thickness 16-22mm.",
+          "Light signal to indicate lock status: locked, unlocked, or error.",
+          "NUMERIC CODE ACCESS : Can have a 4-8 digits pin code in length, Up to 2 admins & 98 users can be assigned",
+          "Supports fake pin code method of entering the pin code to prevent someone nearby from memorizing your pin code.",
+          "NFC ACCESS : Assign up to 2 admins and 98 users",
+          "FINGERPRINT ACCESS : Assign up to 2 admins and 48 users",
+          "Power : 6V DC for 4 AA (1.5V) batteries",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>ESDL2-HR-FNN-BL</td><td>Black</td><td>3845/Each</td></tr><tr><td>ESDL2-HL-FNN-BL</td><td>Black</td><td>3845/Each</td></tr><tr><td>ESDL2-V-FNN-BL</td><td>Black</td><td>3845/Each</td></tr><tr><td>ESDL2-NFC-AC1</td><td>-</td><td>101/Each</td></tr><tr><td>ESDL2-NFC-UC1</td><td>-</td><td>101/Each</td></tr><tr><td>ESDL-EBPC1</td><td>-</td><td>788/Each</td></tr><tr><td>ESDL-EPC1</td><td>-</td><td>472/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-02-03",
+        "prevContent": "selection-12",
+        "title": "Pro-motion Drawer System 172 - S3",
+        "cardImg": "media-bedroom1/12-02-03-01.jpg",
+        "carouselId": "carousel-12-02-03",
+        "images": [
+          "media-bedroom1/12-02-03-01.jpg",
+          "media-bedroom1/12-02-03-02.jpg"
+        ],
+        "features": [
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Load capacity: 50kg",
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 172mm",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS3-30-S3</td><td>White / Anthracite</td><td>4021/Set</td></tr><tr><td>PMDS3-35-S3</td><td>White / Anthracite</td><td>4044/Set</td></tr><tr><td>PMDS3-40-S3</td><td>White / Anthracite / Black</td><td>4062/Set</td></tr><tr><td>PMDS3-45-S3</td><td>White / Anthracite / Brown / Black</td><td>4195/Set</td></tr><tr><td>PMDS3-45-S3-OK</td><td>Oak</td><td>5420/Set</td></tr><tr><td>PMDS3-50-S3</td><td>White / Anthracite / Brown / Black</td><td>4265/Set</td></tr><tr><td>PMDS3-50-S3-OK</td><td>Oak</td><td>5546/Set</td></tr><tr><td>PMDS3-55-S3</td><td>White / Anthracite / Brown / Black</td><td>4347/Set</td></tr><tr><td>PMDS3-55-S3-OK</td><td>Oak</td><td>5716/set</td></tr><tr><td>PMDS3-60-S3</td><td>White / Anthracite / Black</td><td>4746/Set</td></tr><tr><td>PMDS3G-45-S3</td><td>White / Anthracite</td><td>5076/Set</td></tr><tr><td>PMDS3G-50-S3</td><td>White / Anthracite</td><td>5397/Set</td></tr><tr><td>PMDS3G-55-S3</td><td>White / Anthracite</td><td>5634/Set</td></tr><tr><td>PMDS2-S3-FP</td><td>White / Anthracite / Brown / Black</td><td>3971/Each</td></tr><tr><td>PMDS3-S3-FP</td><td>White / Anthracite / Brown / Black</td><td>4100/Each</td></tr><tr><td>PMDS3-S3-FR</td><td>White / Anthracite / Brown / Black</td><td>1441/Each</td></tr><tr><td>PMDS1-S3-FC</td><td>White / Anthracite / Brown / Black</td><td>422/Set</td></tr><tr><td>PMDS2-S3-FC</td><td>White / Anthracite / Brown / Black</td><td>685/Set</td></tr><tr><td>PMDS3-S3-FC-R</td><td>White / Anthracite / Brown / Black</td><td>689/Set</td></tr><tr><td>PMDS3S3-FC-GP</td><td>Brown / White / Anthracite</td><td>689/Set</td></tr><tr><td>PMDS-G1-45-S3</td><td>White / Anthracite / Brown</td><td>465/Pair</td></tr><tr><td>PMDS-G1-50-S3</td><td>White / Anthracite / Brown</td><td>513/Pair</td></tr><tr><td>PMDS-G1-55-S3</td><td>White / Anthracite / Brown</td><td>553/Pair</td></tr><tr><td>PMDS-G1-60-S3</td><td>White / Anthracite</td><td>581/Pair</td></tr><tr><td>PMDS3-S3-FG-45</td><td>-</td><td>506/Each</td></tr><tr><td>PMDS3-S3-FG-45</td><td>-</td><td>506/Each</td></tr><tr><td>PMDS3-S3-FG-45</td><td>-</td><td>506/Each</td></tr><tr><td>PMDS3-S3-FG-45</td><td>-</td><td>506/Each</td></tr><tr><td>PMDS3-S3-FG-45</td><td>-</td><td>506/Each</td></tr><tr><td>PMDS3-S3-FG-45</td><td>-</td><td>506/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-03",
+        "prevContent": "selection-12",
+        "title": "Wardrobe Rail Fittings (Rectangular)",
+        "cardImg": "media-bedroom1/12-03-01.jpg",
+        "carouselId": "carousel-12-03",
+        "images": [
+          "media-bedroom1/12-03-01.jpg"
+        ],
+        "features": [
+          "Rectangular wardrobe rail support are die cast for strength and long life.",
+          "Easy to fit and compatible with a special Ebco aluminium rectangular rail.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>WRF-RR-2-AN</td><td>2.44m</td><td>1434/Pc</td></tr><tr><td>WRF-RR-3M-AN</td><td>3m</td><td>1764/Pc</td></tr><tr><td>WRF-RR-3-AN</td><td>3.66 m</td><td>2150/ Pc</td></tr><tr><td>WRF-RR-3-BA</td><td>3.66 m</td><td>2238/ Pc</td></tr><tr><td>WRF-RRC</td><td>BR/BA</td><td>86/Set of 2 pcs.</td></tr><tr><td>WRF-BR1</td><td>BR/AC</td><td>73/Each</td></tr><tr><td>WRF-BR2</td><td>BR/BA</td><td>24/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-05",
+        "prevContent": "selection-12",
+        "title": "Iron Rack",
+        "cardImg": "media-bedroom1/12-05-01.jpg",
+        "carouselId": "carousel-12-05",
+        "images": [
+          "media-bedroom1/12-05-01.jpg",
+          "media-bedroom1/12-05-02.jpg"
+        ],
+        "features": [
+          "Simple and elegant in appearance.",
+          "Ideal for storing Iron Box on Wall.",
+          "Cables can be winded up in the lower compartment.",
+          "Easy to Fit.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>IR1-6-5-10</td><td>SS304</td><td>499/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-06",
+        "prevContent": "selection-12",
+        "title": "Wardrobe Pullout Ironing Board",
+        "cardImg": "media-bedroom1/12-06-01.jpg",
+        "carouselId": "carousel-12-06",
+        "images": [
+          "media-bedroom1/12-06-01.jpg",
+          "media-bedroom1/12-06-02.jpg"
+        ],
+        "features": [
+          "Aesthetically designed, space saving ironing board which slides in the wardrobe easily.",
+          "Easy to use in standing position as the board can be easily rotated to 180° for left and right hand side positions.",
+          "Practical in use and can be fitted on any shelf.",
+          "Folds in half and slides in for easy storage.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>WPIB-4360-AT</td><td>Anthracite</td><td>10,706/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-07",
+        "prevContent": "selection-12",
+        "title": "Wardrobe Lift Electric - 15 (With Remote)",
+        "cardImg": "media-bedroom1/12-07-01.jpg",
+        "carouselId": "carousel-12-07",
+        "images": [
+          "media-bedroom1/12-07-01.jpg",
+          "media-bedroom1/12-07-02.jpg",
+          "media-bedroom1/12-07-03.jpg"
+        ],
+        "features": [
+          "A remote controlled clothes hanging rack that can be lowered, paused in place to load or unload garments, and then silently returned into the wardrobe.",
+          "Elevate a stacked lift with ease by just one touch! when the remote goes missing or the controls are beyond your reach.",
+          "Suited to wardrobe interiors from 764mm to 964mm wide.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>P-WLE-15-AT</td><td>Anthracite</td><td>38,099/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-08",
+        "prevContent": "selection-12",
+        "title": "Sleek Telescopic Drawer Slide 35 - Soft Close",
+        "cardImg": "media-bedroom1/12-08-01.jpg",
+        "carouselId": "carousel-12-08",
+        "images": [
+          "media-bedroom1/12-08-01.jpg"
+        ],
+        "features": [
+          "Precision telescopic slides",
+          "Soft closing function built in slide, easy for installation.",
+          "Full extension of drawer",
+          "Load capacity : 35 Kgs",
+          "Direct fitting from the front",
+          "Removable drawer with Latch",
+          "System 32 Installation",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>STDS30-35-SC-ZW</td><td>Zinc White</td><td>718/Set of 2 Pcs.</td></tr><tr><td>STDS35-35-SC-ZW</td><td>Zinc White</td><td>792/Set of 2 Pcs.</td></tr><tr><td>STDS40-35-SC-ZW</td><td>Zinc White</td><td>866/Set of 2 Pcs.</td></tr><tr><td>STDS45-35-SC-ZW</td><td>Zinc White</td><td>944/Set of 2 Pcs.</td></tr><tr><td>STDS50-35-SC-ZW</td><td>Zinc White</td><td>1018/Set of 2 Pcs.</td></tr><tr><td>STDS55-35-SC-ZW</td><td>Zinc White</td><td>1109/Set of 2 Pcs.</td></tr><tr><td>STDS60-35-SC-ZW</td><td>Zinc White</td><td>1182/Set of 2 Pcs.</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-09",
+        "prevContent": "selection-12",
+        "title": "Wardrobe Pullout Drawer Organiser (Soft Close)",
+        "cardImg": "media-bedroom1/12-09-01.jpg",
+        "carouselId": "carousel-12-09",
+        "images": [
+          "media-bedroom1/12-09-01.jpg",
+          "media-bedroom1/12-09-02.jpg"
+        ],
+        "features": [
+          "Thoughtfully designed to organize your accessories for convenient access and easy pull-out",
+          "Ready to use product that can be installed easily in any type of wardrobe.",
+          "Soft velvet material at bottom protects your accessories from any type of dirt & damage.",
+          "Ideal for storing variety of jewellery such as necklaces, rings, earrings or more.",
+          "in built soft close feature for silent & effortless closing.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>WPDO-45-SC-BR</td><td>Brown</td><td>10061/Each</td></tr><tr><td>WPDO-60-SC-BR</td><td>Brown</td><td>12023/Each</td></tr><tr><td>WPDO-80-SC-BR</td><td>Brown</td><td>15571/Each</td></tr><tr><td>WPDO-90-SC-BR</td><td>Brown</td><td>15888/Each</td></tr><tr><td>WP2DO-60-SC-AT</td><td>Anthracite</td><td>8295/Each</td></tr><tr><td>WP2DO-90-SC-AT</td><td>Anthracite</td><td>10216/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-10",
+        "prevContent": "selection-12",
+        "title": "Wardrobe Pullout - Trouser - Saree (Soft Close)",
+        "cardImg": "media-bedroom1/12-10-01.jpg",
+        "carouselId": "carousel-12-10",
+        "images": [
+          "media-bedroom1/12-10-01.jpg",
+          "media-bedroom1/12-10-02.jpg"
+        ],
+        "features": [
+          "Store trousers/ sarees without creasing them with this innovative pull-out wardrobe rack.",
+          "Easy pullout providing clear access to your outfits.",
+          "The nonslip PVC lining on removable hangers hold pants/ sarees fabric firmly.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>WPTS-45-SC</td><td>Brown</td><td>5453/Each</td></tr><tr><td>WPTS-60-SC</td><td>Brown</td><td>6140/Each</td></tr><tr><td>WPTS-80-SC</td><td>Brown</td><td>7887/Each</td></tr><tr><td>WPTS-90-SC</td><td>Brown</td><td>8102/Each</td></tr><tr><td>WP2TS-60-SC</td><td>Anthracite</td><td>5645/Each</td></tr><tr><td>WP2TS-90-SC</td><td>Anthracite</td><td>7619/Each</td></tr><tr><td>WP2TS-EH4</td><td>Anthracite</td><td>1202/Each</td></tr><tr><td>WPTS-EH4</td><td>Brown</td><td>1253/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-11-01",
+        "prevContent": "selection-12",
+        "title": "Cabinet Glass Shelf LED Profiles",
+        "cardImg": "media-bedroom1/12-11-01-01.jpg",
+        "carouselId": "carousel-12-11-01",
+        "images": [
+          "media-bedroom1/12-11-01-01.jpg",
+          "media-bedroom1/12-11-01-02.jpg"
+        ],
+        "features": [
+          "Ideal to make glass shelf with LED for wardrobes and cabinets.",
+          "Width can be customized as per the requirement with 5mm thick glass.",
+          "To be used with below items Mounting Bracket Kit (code: CGSL2K), Livsmart LED strip light-8mm (code: LED-801-NW) & Pin Shelf Support (PSS1) *Above items to be purchased separately.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CGSL-4-AN</td><td>Anodized Brown</td><td>2090/3mtr.</td></tr><tr><td>CGSS-4-AN</td><td>Anodized Brown</td><td>1341/3mtr.</td></tr><tr><td>CGSL2K-ZW</td><td>Zinc White</td><td>111/Set of 4</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-12-11-02",
+        "prevContent": "selection-12",
+        "title": "Concealed Shelf Support",
+        "cardImg": "media-bedroom1/12-11-02-01.jpg",
+        "carouselId": "carousel-12-11-02",
+        "images": [
+          "media-bedroom1/12-11-02-01.jpg",
+          "media-bedroom1/12-11-02-02.jpg"
+        ],
+        "features": [
+          "These are easy to use fittings and are used for connecting shelves and sides of cabinets",
+          "This saves on assembly time as the shelves can be fitted easily from the front or from above into the carcass of the cabinet",
+          "The Housing sits inside a Ø 15mm cavity, 10.5mm deep",
+          "The screw is fitted on the side wall of the cabinet, & the shelf with the Housing is pushed from the top",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CCSS1-FW</td><td>Frosty White</td><td>581/40pc</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

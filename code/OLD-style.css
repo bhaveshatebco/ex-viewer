@@ -1,0 +1,521 @@
+html,
+body {
+    font-family: system-ui, sans-serif !important;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/* Full screen overlay to cover the scene */
+#scene-loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+    /* Dark background */
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    /* Ensure it's above everything else */
+    transition: opacity 0.5s ease-in-out;
+    /* Smooth fade-out */
+}
+
+/* Loader content alignment */
+.loader-content {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+/* Spinner CSS (Creating a simple rotating circle) */
+.spinner {
+    border: 8px solid #f3f3f3;
+    /* Light grey base */
+    border-top: 8px solid #007bff;
+    /* Blue top for animation */
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 1.5s linear infinite;
+    /* Apply the animation */
+    margin: 0 auto 15px auto;
+}
+
+/* Keyframe definition for the spinner animation */
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Class to hide the loader with a smooth fade */
+.hidden {
+    opacity: 0;
+    pointer-events: none;
+    /* Crucial: ensures clicks pass through after fade */
+}
+
+#modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 999;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+#content-master-container1 {
+    /* background: url('../media/icon/brand-element-right-bottom.png') no-repeat right bottom 0 / 50% auto, linear-gradient(180deg, #deceb1 0%, #ffffff 100%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2rem; */
+
+    /* width: 900px;
+    max-width: 80vw !important;
+    max-height: 80vh !important; */
+
+    /* width: auto; */
+    /* Remove fixed 900px */
+    /* height: auto; */
+    /* Shrinks to height of content */
+
+    /*  min-width: 50vw;
+    min-height: 30vh;
+
+    min-width: 820px; */
+    /* Minimum size for one card */
+    /* max-width: 90vw; */
+    /* Maximum for selection modal */
+    /* max-height: 90vh; */
+    /* Limit to 90% of screen */
+    /* height: auto; */
+    /* Shrink to fit content */
+
+    /* width: max-content;
+    height: max-content; */
+
+
+    /* Use 90% of the viewport height for better responsiveness */
+    /* overflow-y: auto !important; */
+    /* Show scrollbar if vertical content overflows */
+    /* border-radius: 1rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25); */
+    /* Lifted appearance */
+    /* transition: all 0.3s ease-in-out; */
+    /* Smooth transitions */
+}
+
+#content-master-container {
+    background: url('../media/icon/brand-element-right-bottom.png') no-repeat right bottom 0 / 50% auto,
+        linear-gradient(180deg, #deceb1 0%, #ffffff 100%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 3rem 2rem 2rem 2rem;
+    /* Ensure the modal stays within bounds on short screens */
+    margin-top: auto;
+    margin-bottom: auto;
+
+    /* --- SHRINK TO FIT LOGIC --- */
+    display: inline-block;
+    /* display: flex; 
+    justify-content: center; */
+    /* Forces the width to shrink to the content size */
+    width: auto;
+    height: auto;
+
+    min-height: 480px;      
+    min-width: 480px;          /* Minimum width (use px, not vh) */
+    max-width: 900px;          /* Selection Modal limit */
+
+    /* min-width: 30vh;
+    max-width: 90vw; */
+    /* Default limit for Selection Modal */
+    max-height: 90vh;
+    /* Limit height to 90% of screen */
+    /* --------------------------- */
+
+    overflow-y: auto !important;
+    box-sizing: border-box;
+    border-radius: 1rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+    transition: max-width 0.4s ease-in-out, transform 0.3s;
+}
+
+/* When the Product Detail/Carousel is open */
+#content-master-container.wide-mode {
+    max-width: 90vw;
+    /* Allows it to grow up to 90% width if content needs it */
+    /* display: table; */
+    /* Ensures it still shrinks if content is small */
+    width: 90vw;
+    height: 80vh;    /* Fixed height is necessary for internal scrolling */
+    display: flex;   /* Changed from table to flex to align columns */
+    overflow: hidden;
+}
+
+.modal-content-block {
+    display: none;
+}
+
+.close-button {
+    color: #565454;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: -15px !important;
+}
+
+.product-selection-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.product-card {
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 1rem;
+    padding: 10px;
+    width: 15rem;
+    text-align: center;
+    transition: box-shadow 0.3s, transform 0.3s;
+    box-shadow: 0 24px 48px rgba(0, 0, 0, 0.50);
+    background-color: white;
+}
+
+.product-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    transform: translateY(5px);
+}
+
+.product-card:active {
+    transform: translateY(0);
+    /* 4. The press down effect (resets to original position) */
+}
+
+.card-image {
+    width: 100%;
+    height: auto;
+    border-radius: 1rem;
+    margin-bottom: 5px;
+}
+
+.card-heading {
+    font-size: 2rem;
+    margin: 0;
+    text-align: center;
+    margin: 1rem 0 2rem 0;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+.modal-flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+    padding-top: 0px;
+}
+
+.modal-left-column {
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-top: 1rem;
+    /* width: 75% !important;
+    align-self: center; */
+}
+
+.modal-right-column {
+    flex: 1;
+    padding: 0;
+}
+
+.image-carousel {
+    position: relative;
+    width: 100%;
+    padding-top: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+.slides-container {
+    border-radius: 1rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* Remove display: flex; and transition: transform... */
+    overflow: hidden;
+    /* Good practice */
+}
+
+.carousel-slide {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    flex-shrink: 0;
+    border-radius: 1rem;
+    /* --- CRITICAL FADE PROPERTIES --- */
+    position: absolute;
+    /* Allows slides to overlap */
+    top: 0;
+    left: 0;
+    opacity: 0;
+    /* Starts hidden */
+    z-index: 5;
+    /* Base layer */
+    transition: opacity 0.4s ease-in-out;
+    /* The fade transition */
+}
+
+/* New class to make the current slide visible */
+.carousel-slide.active {
+    opacity: 1;
+    z-index: 10;
+    /* Ensures it's on top of the fading-out slide */
+}
+
+.prev-btn,
+.next-btn {
+    position: absolute;
+    top: 5px;
+    align-self: anchor-center;
+    cursor: pointer;
+    width: 4rem;
+    height: 100%;
+    line-height: 35px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 2.5rem;
+    transition: background-color 0.3s ease;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.0);
+    border-radius: 0.5rem;
+    z-index: 100;
+    padding: 0;
+}
+
+.prev-btn:hover,
+.next-btn:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.prev-btn {
+    left: 0px;
+}
+
+.next-btn {
+    right: 0px;
+}
+
+.back-button {
+    color: #565454;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-top: 0px;
+    margin-top: -15px !important;
+}
+
+.back-button:hover {
+    color: #000;
+}
+
+/* Enhanced hover for the Close and Back icons/buttons */
+.close-button,
+.back-button {
+    /* Ensure cursor is explicit */
+    cursor: pointer;
+    /* Add a subtle transition for color change */
+    transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+
+}
+
+.close-button:hover,
+.back-button:hover {
+    color: #000;
+    /* Darker color on hover */
+    /* Subtle movement effect */
+    transform: scale(1.1);
+}
+
+.prev-btn,
+.next-btn {
+    background-color: rgba(0, 0, 0, 0.0);
+    border-radius: 0.5rem;
+    z-index: 100;
+    padding: 0;
+    transition: background-color 0.3s ease, transform 0.2s;
+}
+
+.prev-btn:hover,
+.next-btn:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    /* Darker on hover */
+    /* Add subtle zoom effect */
+    transform: scale(1.05);
+}
+
+
+.feature-list {
+    list-style-type: square;
+    padding-left: 20px !important;
+    margin-top: 10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-height: 30vh; 
+    z-index: 45;
+}
+
+.feature-list li {
+    font-size: 1.1rem;
+    white-space: normal;
+    /* Allows text to wrap to next line */
+    margin-bottom: 7px;
+    /* display: list-item; */
+}
+
+/* 1. Remove the bullet point specifically from the list item containing the table */
+.feature-list li:has(table) {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+    padding: 10px 0;
+}
+
+.feature-list table {
+    width: 99% !important;
+    /* Force full width */
+    table-layout: fixed;
+    /* CRITICAL: Forces columns to stay inside the width */
+    border-collapse: collapse;
+    word-break: break-word;
+    /* Wraps text inside cells */
+    margin-left: -18px;
+}
+
+.feature-list th {
+    background-color: #f1e6d1;
+    font-weight: 500;
+}
+
+.feature-list td,
+.feature-list th {
+    padding: 8px;
+    border: 1px solid #a9a9a9;
+    text-align: left;
+    white-space: normal;
+    /* Ensures text inside cells wraps */
+    vertical-align: top;
+    align-content: center;
+    text-align: left;
+}
+
+/* .feature-list::after {
+    content: "...";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+} */
+
+.feature-list::-webkit-scrollbar {
+    width: 1px;
+}
+
+.feature-list::-webkit-scrollbar-thumb {
+    background: #c4c4c4;
+    /* border-radius: 10px; */
+}
+
+/* ===================================== 3. RESPONSIVENESS: Stacking columns on smaller devices ===================================== */
+
+@media (max-width: 800px) {
+
+    /* 1. Modal Body Stack (Product Detail View) */
+    .modal-flex-container {
+        display: grid;
+    }
+
+    .modal-left-column {
+        max-width: 99%;
+    }
+}
+
+/* This triggers if the screen is narrower than 800px OR if it is held vertically */
+@media (max-width: 800px),
+(orientation: portrait) {
+
+    /* 1. Make the container stack vertically */
+    .modal-flex-container {
+        display: flex;
+        flex-direction: column;
+        /* Stacks columns: Left on top, Right on bottom */
+        overflow-y: auto;
+    }
+
+    /* 2. Make the columns take full width */
+    .modal-left-column,
+    .modal-right-column {
+        flex: 1 1 100%;
+        max-width: 100%;
+        width: 100%;
+    }
+
+    /* 3. Adjust Carousel height for vertical screens */
+    .image-carousel {
+        padding-top: 100%;
+        /* Gives the carousel a nice 4:3 aspect ratio on top */
+        margin: 0px 0;
+    }
+
+    /* 4. Allow the container to be narrower but taller in portrait */
+    #content-master-container {
+        
+        /* width: max-content;
+        max-width: 90vw; */
+        max-height: 85vh;
+        max-width: 80vw;
+        min-width: 50vw;
+        min-height: 30vh;
+
+        /* Shift from middle-center to top-center to allow scrolling down */
+        top: 5%; 
+        transform: translate(-50%, 0); 
+        margin-bottom: 5%;
+        width: max-content;
+        /* Limits width so it doesn't look stretched on vertical monitors */
+    }
+
+    #content-master-container.wide-mode {
+        max-width: 90vw;
+        width: 90vw;
+    }
+}

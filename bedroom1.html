@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="code/icon/ebco-logo-32px.png" sizes="32x32">
+    <title>Ebco Indiawood View</title>
+    <script src="code/aframe.min.js"></script>
+    <link rel="stylesheet" href="code/style.css">
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const fileName = window.location.pathname.split('/').pop().replace('.html', '.json');
+            fetchProductData(fileName);
+        });
+    </script>
+</head>
+
+<body>
+    <div id="scene-loader">
+        <div class="loader-content">
+            <div class="spinner"></div>
+            <p>Loading 3D Environment...</p>
+        </div>
+    </div>
+
+    <a-scene id="my-scene" embedded vr-mode-ui="enabled: false" cursor="rayOrigin: mouse"
+        raycaster="objects: .collidable; interval: 100;">
+        <a-sky id="main-environment-asset" src="" rotation="0 0 0"></a-sky>
+        <a-entity id="camera-wrapper">
+            <a-camera camera="fov: 90;"
+                look-controls="mouseEnabled: true; reverseMouseDrag: true; magicWindowTrackingEnabled: false;"
+                custom-touch-override pinch-to-zoom raycaster="objects: .collidable"></a-camera>
+        </a-entity>
+    </a-scene>
+
+    <div id="modal-overlay">
+        <div id="content-master-container" class="modal-content-container">
+            <!-- <span class="close-button global-close" onclick="hideAllModals()">&times;</span> -->
+            <div id="dynamic-content-area"></div>
+        </div>
+    </div>
+    <script src="code/script.js"></script>
+</body>
+
+</html>
+
+<!-- <table><thead><tr><th style='width: 30%;'>Item</th><th style='width: 20%;'>Image</th><th style='width: 17%;'>Code</th><th style='width: 14%;'>Finish</th><th style='width: 8%;'>Qty</th><th style='width: 11%;'>Amount</th></tr></thead><tbody><tr><td>Wardrobe Pocket Door System - 35 Left</td><td>-</td><td>WPDS35L-ZW</td><td>Zinc White</td><td>1 Nos</td><td>-</td></tr><tr><td>Wardrobe Pocket Door System - 35 RIGHT</td><td>-</td><td>WPDS35R-ZW</td><td>Zinc White</td><td>1 Nos</td><td>-</td></tr><tr><td>Concealed Shelf Support </td><td>-</td><td>CCSS1</td><td>Frosty White</td><td>6 Set</td><td>₹ 240</td></tr><tr><td>Wardrobe Rail Fittings - Rectangular Rail with Luminor 16</td><td>-</td><td>WRF-RRL-3M-AN</td><td>Anodized Brown</td><td>1 Nos</td><td>₹ 2758</td></tr><tr><td>Wardrobe Rail Fittings - Rectangular Bracket</td><td>-</td><td>WRF-BR2</td><td>Brown</td><td>2 Set</td><td>₹ 48</td></tr><tr><td>Bach Jewelry box </td><td>-</td><td>-</td><td>-</td><td>2 Nos</td><td>-</td></tr><tr><td>Bach shoes Rack</td><td>-</td><td>-</td><td>-</td><td>1 Nos</td><td>-</td></tr><tr><td>Wardrobe Mirror Pivot</td><td>-</td><td>WMP-6030-BR</td><td>Brown</td><td>1 Nos</td><td>₹ 3810</td></tr><tr><td>Safe Drawer -Top Mount -  Single</td><td>-</td><td>SD-TM1</td><td>Anthracite</td><td>1 Nos</td><td>₹ 1867</td></tr><tr><td>Bach Underwear box</td><td>-</td><td>-</td><td>-</td><td>1 Nos</td><td>-</td></tr><tr><td>Bach Trousers Rack</td><td>-</td><td>-</td><td>-</td><td>1 Nos</td><td>-</td></tr><tr><td>Plinth Fitting (Without Screw)</td><td>-</td><td>PF75-110</td><td>Black</td><td>6 Nos</td><td>₹ 6738</td></tr><tr><td>Skirting Clip with Bracket  (For Wood)</td><td>-</td><td>PFSCB1</td><td>Black</td><td>6 Nos</td><td>₹ 6966</td></tr><tr><td>Door Stiffner HD</td><td>-</td><td>DSTF2-HD</td><td>Grey</td><td>4 Nos</td><td>₹ 4088</td></tr><tr><td>Luminor 15 Decorative Profile 1</td><td>-</td><td>LUM15-DP1</td><td>Opaline</td><td>3 Nos</td><td>₹ 1665</td></tr><tr><td>LED Strip Light - 5mm (24v)</td><td>-</td><td>LED-501-NW</td><td>Neutral White</td><td>3 Nos</td><td>₹ 987</td></tr><tr><td>Power Supply Unit - Series 3</td><td>-</td><td>PSU3-24120</td><td>Black</td><td>1 Nos</td><td>₹ 5908</td></tr><tr><td>Power Supply Unit - Series 3</td><td>-</td><td>PSU3-2465</td><td>Black</td><td>1 Nos</td><td>₹ 3499</td></tr><tr><td>Extension Cord for Light Series 2 (24V)</td><td>-</td><td>L-EC2</td><td>Black</td><td>5 Nos</td><td>₹ 1140</td></tr><tr><td>Door Trigger Sensor 4 - Double</td><td>-</td><td>DTS4D</td><td>-</td><td>1 Nos</td><td>₹ 1268</td></tr></tbody></table> -->
+
+

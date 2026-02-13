@@ -1,0 +1,1319 @@
+  {
+  "sceneConfig": {
+    "panorama": "media-u-kitchen/Kitchen Area-31012026-01-17mb.png",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01",
+      "targetContent": "selection-01",
+      "position": "-8.439 3.118 5.02",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02",
+      "targetContent": "selection-02",
+      "position": "-8.439 3.118 2.027",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "04",
+      "targetContent": "selection-04",
+      "position": "-8.439 3.46 -2.59",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "05",
+      "targetContent": "selection-05",
+      "position": "-8.439 4.157 -5.07",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "06",
+      "targetContent": "selection-06",
+      "position": "-8.439 -2.535 -5.35",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "07",
+      "targetContent": "selection-07",
+      "position": "-8.439 -1.955 -7.678",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "09",
+      "targetContent": "selection-09",
+      "position": "-6.99 -2.03 -11.66",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "10",
+      "targetContent": "selection-10",
+      "position": "-3.83 -1.75 -11.66",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "11",
+      "targetContent": "selection-11",
+      "position": "-0.175 -1.75 -10.45",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "12",
+      "targetContent": "selection-12",
+      "position": "2.45 -1.75 -10.99",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "13",
+      "targetContent": "selection-13",
+      "position": "5.05 -2.09 -11.706",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "15",
+      "targetContent": "selection-15",
+      "position": "-6.42 3.88 -10.240",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "16",
+      "targetContent": "selection-16",
+      "position": "-3.12 4.23 -11.67",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "17",
+      "targetContent": "selection-17",
+      "position": "0.51 4.28 -11.706",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "18",
+      "targetContent": "selection-18",
+      "position": "4.00 4.46 -11.706",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "19",
+      "targetContent": "selection-19",
+      "position": "7.35 1.7 -12.30",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "20",
+      "targetContent": "selection-20",
+      "position": "5.98 -1.90 -10.32",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "21",
+      "targetContent": "selection-21",
+      "position": "6.88 -2.57 -10.23",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "22",
+      "targetContent": "selection-22",
+      "position": "6.63 -1.72 -8.10",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "23",
+      "targetContent": "selection-23",
+      "position": "6.63 -2.12 -6.10",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "24",
+      "targetContent": "selection-24",
+      "position": "2.50 2.16 -9.16",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "25",
+      "targetContent": "selection-25",
+      "position": "0.36 -2.40 5.16",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "26",
+      "targetContent": "selection-26",
+      "position": "-1.90 -0.06 7.37",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "27",
+      "targetContent": "selection-27",
+      "position": "6.63 -0.42 -5.10",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-01",
+        "prevContent": "selection-01",
+        "title": "Kitchen Pantry Max Glass - Soft Close",
+        "cardImg": "media-u-kitchen/01-01-01.jpg",
+        "carouselId": "carousel-01",
+        "images": [
+          "media-u-kitchen/01-01-01.jpg",
+          "media-u-kitchen/01-01-02.jpg"
+        ],
+        "features": [
+          "Elegant glass finish to add finesse to your dry storage solution",
+          "Soft close and soft open feature ensures effortless functioning",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KPMGSC-45</td><td>Anthracite</td><td>35,852/Set</td> </tr><tr><td>KPMGSC-60</td><td>Anthracite</td><td>40,542/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02",
+        "prevContent": "selection-01",
+        "title": "Door Stiffener Concealed 3",
+        "cardImg": "media-u-kitchen/01-02-01.jpg",
+        "carouselId": "carousel-01-02",
+        "images": [
+          "media-u-kitchen/01-02-01.jpg",
+          "media-u-kitchen/01-02-02.jpg"
+        ],
+        "features": [
+          "Ideal for wardrobe shutters to prevent warpage of tall wardrobe doors",
+          "Screwless mounting",
+          "Big adjustment:± 10mm",
+          "Use two sets when the door width is more than 600mm",
+          "Use the allen key to align the panel according to the bending direction",
+          "Depth:13mm",
+          "Length: 2000 & 2400 mm",
+          "Door thickness: ≥18mm",
+          "Door height: 1600-2000mm (DSTF3-20) & 2000 - 2400mm (DSTF3-24)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>DSTF1-AL</td><td>-</td><td>788/Set</td><tr><tr><td>DSTF2-HD-GR</td><td>Grey</td><td>1022/Set</td><tr><tr><td>DSTF3-20- AG</td><td>Anodized Gold</td><td>1959/Set</td></tr><tr><td>DSTF3-24-AG</td><td>Anodized Gold</td><td>2263/Set</td><tr><tr><td>DSTF4-19-GR</td><td>Grey</td><td>1278/Set</td><tr><tr><td>DSTF4-23-GR</td><td>Grey</td><td>1435/Set</td><tr><tr><td>DSTF4-27-GR</td><td>Grey</td><td>1603/Set</td><tr><tr><td>DSTF3-C</td><td>-</td><td>2849/Each</td><tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-03",
+        "prevContent": "selection-01",
+        "title": "155° Hinge - Zero Protrusion (Soft Close)",
+        "cardImg": "media-u-kitchen/01-03-01.jpg",
+        "carouselId": "carousel-01-03",
+        "images": [
+          "media-u-kitchen/01-03-01.jpg",
+          "media-u-kitchen/01-03-02.jpg"
+        ],
+        "features": [
+          "155° ZERO PROTRUSION hinge ensures clear/ non-obstruct opening of the cabinet door.",
+          "Specially designed for the cabinets that house drawers.",
+          "Available for Overlay & Half-overlay door applications.",
+          "Max. opening: 155°",
+          "Soft-closing mechanism allows gentle closing of the cabinet door.",
+          "Shutter cavity: Ø35mm, 11.5mm deep",
+          "Shutter thickness: 14-24mm",
+          "Cabinet side panel thickness: 17-21mm",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>H155-1-SC-GM</td><td>Gun Metal</td><td>851/Set of 2 Pcs.</td><tr><tr><td>H155-2-SC-GM</td><td>Gun Metal</td><td>851/Set of 2 Pcs.</td><tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-02-01",
+        "prevContent": "selection-02",
+        "title": "Kitchen Pantry Unit - Soft Close - Glass",
+        "cardImg": "media-u-kitchen/02-01-01.jpg",
+        "carouselId": "carousel-02",
+        "images": [
+          "media-u-kitchen/02-01-01.jpg",
+          "media-u-kitchen/02-01-02.jpg"
+        ],
+        "features": [
+          "Modern style with sleek glass front shelves makes the most of available space and enhances appearance",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KPUSCG-45</td><td>Anthracite</td><td>43,997/Set</td> </tr><tr><td>KPUSCG-60</td><td>Anthracite</td><td>49,363/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-02",
+        "prevContent": "selection-02",
+        "title": "Door Stiffener Concealed 3",
+        "cardImg": "media-u-kitchen/02-02-01.jpg",
+        "carouselId": "carousel-02-02",
+        "images": [
+          "media-u-kitchen/02-02-01.jpg",
+          "media-u-kitchen/02-02-02.jpg"
+        ],
+        "features": [
+          "Ideal for wardrobe shutters to prevent warpage of tall wardrobe doors",
+          "Screwless mounting",
+          "Big adjustment:± 10mm",
+          "Use two sets when the door width is more than 600mm",
+          "Use the allen key to align the panel according to the bending direction",
+          "Depth:13mm",
+          "Length: 2000 & 2400 mm",
+          "Door thickness: ≥18mm",
+          "Door height: 1600-2000mm (DSTF3-20) & 2000 - 2400mm (DSTF3-24)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>DSTF1-AL</td><td>-</td><td>788/Set</td><tr><tr><td>DSTF2-HD-GR</td><td>Grey</td><td>1022/Set</td><tr><tr><td>DSTF3-20- AG</td><td>Anodized Gold</td><td>1959/Set</td></tr><tr><td>DSTF3-24-AG</td><td>Anodized Gold</td><td>2263/Set</td><tr><tr><td>DSTF4-19-GR</td><td>Grey</td><td>1278/Set</td><tr><tr><td>DSTF4-23-GR</td><td>Grey</td><td>1435/Set</td><tr><tr><td>DSTF4-27-GR</td><td>Grey</td><td>1603/Set</td><tr><tr><td>DSTF3-C</td><td>-</td><td>2849/Each</td><tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-03",
+        "prevContent": "selection-02",
+        "title": "155° Hinge - Zero Protrusion (Soft Close)",
+        "cardImg": "media-u-kitchen/02-03-01.jpg",
+        "carouselId": "carousel-02-03",
+        "images": [
+          "media-u-kitchen/02-03-01.jpg",
+          "media-u-kitchen/02-03-02.jpg"
+        ],
+        "features": [
+          "155° ZERO PROTRUSION hinge ensures clear/ non-obstruct opening of the cabinet door.",
+          "Specially designed for the cabinets that house drawers.",
+          "Available for Overlay & Half-overlay door applications.",
+          "Max. opening: 155°",
+          "Soft-closing mechanism allows gentle closing of the cabinet door.",
+          "Shutter cavity: Ø35mm, 11.5mm deep",
+          "Shutter thickness: 14-24mm",
+          "Cabinet side panel thickness: 17-21mm",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>H155-1-SC-GM</td><td>Gun Metal</td><td>851/Set of 2 Pcs.</td><tr><tr><td>H155-2-SC-GM</td><td>Gun Metal</td><td>851/Set of 2 Pcs.</td><tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-04": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-04",
+        "prevContent": "selection-04",
+        "title": "Recessed Hinge 35 - Soft Close",
+        "cardImg": "media-u-kitchen/04-01.jpg",
+        "carouselId": "carousel-04",
+        "images": [
+          "media-u-kitchen/04-01.jpg",
+          "media-u-kitchen/04-02.jpg"
+        ],
+        "features": [
+          "For Wood & Aluminium profile shutters, with 3D adjustment and opening angle up to 105°",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>RH35-SC</td><td>Titanium</td><td>8,412/Set of 2 Pcs.</td></tr><tr><td>RH35-HW</td><td>Titanium</td><td>1,661/Set of 2 Pcs.</td></tr><tr><td>RH35-LC1</td><td>Zinc White</td><td>789/Set of 2 Pcs.</td></tr><tr><td>RH35-AGP</td><td>Anodized Silver / Anodized Black</td><td>3,241/3mtr.</td></tr><tr><td>RH35-AGP</td><td>Anodized Brown</td><td>3,348/3mtr.</td></tr><tr><td>RH35-AGP</td><td>Brushed Gold</td><td>3,702/3mtr.</td></tr><tr><td>RH35-AGP-H</td><td>Anodized Silver / Anodized Black</td><td>3,852/3mtr.</td></tr><tr><td>RH35-AGP-H</td><td>Anodized Brown</td><td>3,981/3mtr.</td></tr><tr><td>RH35-AGP-H</td><td>Brushed Gold</td><td>4,410/3mtr.</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-05": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-05",
+        "prevContent": "selection-05",
+        "title": "Spinova 360",
+        "cardImg": "media-u-kitchen/05-01.jpg",
+        "carouselId": "carousel-05",
+        "images": [
+          "media-u-kitchen/05-01.jpg",
+          "media-u-kitchen/05-02.jpg",
+          "media-u-kitchen/05-03.jpg",
+          "media-u-kitchen/05-04.jpg"
+        ],
+        "features": [
+          "Make the cabinet more concealed, maximize space utilization.",
+          "Simple and convenient installation and removal.",
+          "Ensures precise positioning of accessories, smooth rotation.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>SPN-360</td><td>Zinc White</td><td>50,000/Set</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-06": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-06",
+        "prevContent": "selection-06",
+        "title": "Plastic Wicker Basket Soft Close",
+        "cardImg": "media-u-kitchen/06-01.jpg",
+        "carouselId": "carousel-06",
+        "images": [
+          "media-u-kitchen/06-01.jpg",
+          "media-u-kitchen/06-02.jpg"
+        ],
+        "features": [
+          "Modern Design: Sleek and contemporary design enhances the aesthetic appeal of your kitchen while adding functionality",
+          "Premium Material: Crafted with durable plastic wicker, featuring a sturdy wooden frame and slide, ensuring longevity and stability",
+          "Soft Close Mechanism: Equipped with a soft-close feature for gentle and noiseless closing",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PWBSC45-16-20-04</td><td>Brown</td><td>6,557/Each</td></tr><tr><td>PWBSC45-16-20-06</td><td>Brown</td><td>7,029/Each</td></tr><tr><td>PWBSC45-16-20-08</td><td>Brown</td><td>7,522/Each</td></tr><tr><td>PWBSC45-22-20-04</td><td>Brown</td><td>7,608/Each</td></tr><tr><td>PWBSC45-22-20-06</td><td>Brown</td><td>8,274/Each</td></tr><tr><td>PWBSC45-22-20-08</td><td>Brown</td><td>8,928/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-07": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-07",
+        "prevContent": "selection-07",
+        "title": "Mixer Lift Up Stand",
+        "cardImg": "media-u-kitchen/07-01-01.gif",
+        "carouselId": "carousel-07",
+        "images": [
+          "media-u-kitchen/07-01-01.gif",
+          "media-u-kitchen/07-01-02.webp",
+          "media-u-kitchen/07-01-03.jpg"
+        ],
+        "features": [
+          "Stores appliances inside the cabinet, reducing countertop clutter.",
+          "Secure locking mechanism for safety.",
+          "Effortlessly smooth lifting and lowering.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>MLUS1-AT</td><td>Anthracite</td><td>10,312/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-07-02",
+        "prevContent": "selection-07",
+        "title": "Pro-motion Drawer System 90 - S3",
+        "cardImg": "media-u-kitchen/07-02-01.jpg",
+        "carouselId": "carousel-07-02",
+        "images": [
+          "media-u-kitchen/07-02-01.jpg",
+          "media-u-kitchen/07-02-02.jpg"
+        ],
+        "features": [
+          "Quick installation and dismantle.",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Full extension of drawer with soft close feature",
+          "Fascia panel system for internal drawers",
+          "Side panel height: 90mm",
+          "Load capacity: 50kg",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td colspan='3' style='font-size: 1.5rem; text-align: center;'>Pro-motion Drawer System 90 - S3</td></tr><tr><td>PMDS1-30-S3</td><td>White / Anthracite</td><td>3226 / Set</td></tr><tr><td>PMDS1-35-S3</td><td>White / Anthracite</td><td>3251 / Set</td></tr><tr><td>PMDS1-40-S3</td><td>White / Anthracite / Black</td><td>3301 / Set</td></tr><tr><td>PMDS1-45-S3</td><td>White / Anthracite / Brown / Black</td><td>3477 / Set</td></tr><tr><td>PMDS1-45-S3-OK</td><td>Oak</td><td>4179 / Set</td></tr><tr><td>PMDS1-50-S3</td><td>White / Anthracite / Brown / Black</td><td>3522 / Set</td></tr><tr><td>PMDS1-50-S3-OK</td><td>Oak</td><td>4326 / Set</td></tr><tr><td>PMDS1-55-S3</td><td>White / Anthracite / Brown / Black</td><td>3610 / Set</td></tr><tr><td>PMDS1-55-S3-OK</td><td>Oak</td><td>4507 / Set</td></tr><tr><td>PMDS1-60-S3</td><td>White / Anthracite / Black</td><td>4035 / Set</td></tr><tr><td colspan='3' style='font-size: 1.5rem; text-align: center;'>Pro-motion Drawer System 90 - SLIM3 with Glass</td></tr><tr><td>PMDS1G-45-S3</td><td>White / Anthracite</td><td>4148 / Set</td></tr><tr><td>PMDS1G-50-S3</td><td>White / Anthracite</td><td>4403 / Set</td></tr><tr><td>PMDS1G-55-S3</td><td>White / Anthracite</td><td>4568 / Set</td></tr><tr><td>Aluminium Facia Panel for PMDS2 'S3' Series <br>PMDS2-S3-FP</td><td>White / Anthracite / Brown / Black</td><td>3971 / Each</td></tr><tr><td>Aluminium Facia Panel for PMDS3 'S3' Series <br>PMDS3-S3-FP</td><td>White / Anthracite / Brown / Black</td><td>4100 / Each</td></tr><tr><td>Aluminium Facia Rail for PMDS3 'S3' Series <br>PMDS3-S3-FR</td><td>White / Anthracite / Brown / Black</td><td>1441 / Each</td></tr><tr><td>Facia Connector for PMDS1 'S3' Series <br>PMDS1-S3-FC</td><td>White / Anthracite / Brown / Black</td><td>422 / Set</td></tr><tr><td>Facia Connector for PMDS2 'S3' Series <br>PMDS2-S3-FC</td><td>White / Anthracite / Brown / Black</td><td>685 / Set</td></tr><tr><td>Facia Connector for PMDS3 'S3' Series for Rail <br>PMDS3-S3-FC-R</td><td>White / Anthracite / Brown / Black</td><td>689 / Set</td></tr><tr><td>Facia Connector for PMDS3 'S3' Series for Glass/Aluminium Panel <br>PMDS3S3-FC-GP</td><td>Brown / White / Anthracite</td><td>689 / Set</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 45 <br>PMDS3-S3-FG-45</td><td>-</td><td>506 / Each</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 60 <br>PMDS3-S3-FG-60</td><td>-</td><td>696 / Each</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 90 <br>PMDS3-S3-FG-90</td><td>-</td><td>1064 / Each</td></tr><tr><td>Aluminium Facia Rail for PMDS3 'S' Series <br>PMDS3-FR</td><td>Anthracite / White</td><td>1441 / Each</td></tr><tr><td>LED for PMDS 'S3' Series - 50 <br>PMDS-S3-LED-50</td><td>Anthracite</td><td>2711 / Set</td></tr><tr><td>Logo Plate for Pro-motion Drawer System - S3 <br>PMDS-LP1-S3-AT</td><td>Anthracite</td><td>21 / Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-07-03",
+        "prevContent": "selection-07",
+        "title": "Hinge for Aluminium Profile 3D - With Linear Mounting Plate",
+        "cardImg": "media-u-kitchen/07-03-01.jpg",
+        "carouselId": "carousel-07-03",
+        "images": [
+          "media-u-kitchen/07-03-01.jpg",
+          "media-u-kitchen/07-03-02.jpg",
+          "media-u-kitchen/07-03-03.jpg"
+        ],
+        "features": [
+          "Specially designed hinge with linear mounting plate for the Glass shutter Al. profiles.",
+          "Available in Overlay & Half Overlay",
+          "Hinge opening angle: 105˚",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>HAP1</td><td>Nickel Plated</td><td>440/Set of 2</td></tr><tr><td>HAP2</td><td>Nickel Plated</td><td>440/Set of 2</td></tr><tr><td>HAP1</td><td>Titanium</td><td>539/Set of 2</td></tr><tr><td>HAP2</td><td>Titanium</td><td>539/Set of 2</td></tr><tr><td>HAP-T</td><td>-</td><td>16/Each</td></tr><tr><td>HAP-4-22-2-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>1451/2.44mtr</td></tr><tr><td>HAP-4-22-2-AN</td><td>Anodized Brown</td><td>1685/2.44mtr </td></tr><tr><td>HAP-4-22-36-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>2174/3.66mtr</td></tr><tr><td>HAP-4-22-36-AN</td><td>Anodized Brown</td><td>2526/3.66mtr</td></tr><tr><td>HAP-4-22-2-SF</td><td>Special Finish</td><td>1747/2.44mtr</td></tr><tr><td>HAP-4-22-36-SF</td><td>Special Finish</td><td>2618/3.66mtr</td></tr><tr><td>HAP-4-22-2-CP/BA/CH/BG</td><td>Chrome Plated / Brushed Aluminium / Champagne / Brushed Gold</td><td>1685/2.44mtr</td></tr><tr><td>HAP-4-22-36-CP/BA/CH/BG</td><td>Chrome Plated / Brushed Aluminium / Champagne / Brushed Gold</td><td>2526/3.66mtr</td></tr><tr><td>HAP-4-22H-2-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>1764/2.44mtr</td></tr><tr><td>HAP-4-22H-2-AN</td><td>Anodized Brown</td><td>2069/2.44mtr</td></tr><tr><td>HAP-4-22H-36-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>2646/3.66mtr</td></tr><tr><td>HAP-4-22H-36-AN</td><td>Anodized Brown</td><td>3101/3.66mtr</td></tr><tr><td>HAP-4-22H-2-SF</td><td>Special Finish</td><td>2146/2.44mtr</td></tr><tr><td>HAP-4-22H-36-SF</td><td>Special Finish</td><td>3221/3.66mtr</td></tr><tr><td>HAP-4-22H-2-CP/BA/CH/BG</td><td>Chrome Plated / Brushed Aluminium / Champagne / Brushed Gold</td><td>2069/2.44mtr</td></tr><tr><td>HAP-4-22H-36-CP/BA/CH/BG</td><td>Chrome Plated / Brushed Aluminium / Champagne / Brushed Gold</td><td>3101/3.66mtr</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-09": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-09-01",
+        "prevContent": "selection-09",
+        "title": "Magic Corner Double Pullout - Glass",
+        "cardImg": "media-u-kitchen/09-01-01.jpg",
+        "carouselId": "carousel-09-01",
+        "images": [
+          "media-u-kitchen/09-01-01.jpg",
+          "media-u-kitchen/09-01-02.jpg"
+        ],
+        "features": [
+          "Glass Shelves provides a sleek, modern look and is easy to clean",
+          "Enhances kitchen aesthetics with a contemporary style",
+          "High Load Capacity which is strong enough to hold heavy cookware and appliances",
+          "Both glass shelves pull out completely for easy access",
+          "Built with high-quality materials for longevity",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>MCDP90G</td><td>Anthracite</td><td>34,672/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-09-02",
+        "prevContent": "selection-09",
+        "title": "Blind corner Hinge- 3D-Soft close",
+        "cardImg": "media-u-kitchen/09-02-01.jpg",
+        "carouselId": "carousel-09-02",
+        "images": [
+          "media-u-kitchen/09-02-01.jpg"
+        ],
+        "features": [
+          "3D Adjustment",
+          "Max. opening: 90˚",
+          "In-built soft close mechanism prevents shutter from banging",
+          "Max. shutter size: 850mm X 550mm",
+          "Shutter thickness: 16mm - 19mm",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>HBC1-3D-SC</td><td>Nickel Plated</td><td>391/ Set of 2</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-10": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-10-01",
+        "prevContent": "selection-10",
+        "title": "Pro-motion Drawer System 90 - S3",
+        "cardImg": "media-u-kitchen/10-01-01.jpg",
+        "carouselId": "carousel-10-01",
+        "images": [
+          "media-u-kitchen/10-01-01.jpg", 
+          "media-u-kitchen/10-01-02.jpg"
+        ],
+        "features": [
+          "Quick installation and dismantle.",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Full extension of drawer with soft close feature",
+          "Fascia panel system for internal drawers",
+          "Side panel height: 90mm",
+          "Load capacity: 50kg",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS1-30-S3</td><td>White / Anthracite</td><td>3,226/Set</td></tr><tr><td>PMDS1-35-S3</td><td>White / Anthracite</td><td>3,251/Set</td></tr><tr><td>PMDS1-40-S3</td><td>White / Anthracite / Black</td><td>3,301/Set</td></tr><tr><td>PMDS1-45-S3</td><td>White / Anthracite / Black / Brown</td><td>3,477/Set</td></tr><tr><td>PMDS1-45-S3</td><td>Oak </td><td>4,179/Set</td></tr><tr><td>PMDS1-50-S3</td><td>White / Anthracite / Black / Brown</td><td>3,522/Set</td></tr><tr><td>PMDS1-50-S3</td><td>Oak</td><td>4,326/Set</td></tr><tr><td>PMDS1-55-S3</td><td>White / Anthracite / Black / Brown</td><td>3,610/Set</td></tr><tr><td>PMDS1-55-S3</td><td>Oak</td><td>4,507/Set</td></tr><tr><td>PMDS1-60-S3</td><td>White / Anthracite / Black </td><td>4,035/Set</td></tr><tr><td>PMDS-S3-LED-50</td><td>Anthracite</td><td>2,711/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-10-02",
+        "prevContent": "selection-10",
+        "title": "Kitchen Cutlery Tray-2",
+        "cardImg": "media-u-kitchen/10-02-01.png",
+        "carouselId": "carousel-10-02",
+        "images": [
+          "media-u-kitchen/10-02-01.png",
+          "media-u-kitchen/10-02-02.png"
+        ],
+        "features": [
+          "Elegantly designed to suit today's modern kitchen.",
+          "Available in Anthracite finish.",
+          "Comes in 7 different sizes and configurations to fit any drawer.",
+          "Manufactured out of non-toxic, food grade polypropylene and are easy to clean.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KCT2-40-AT</td><td>Anthracite</td><td>796/Each</td></tr><tr><td>KCT2-45-AT</td><td>Anthracite</td><td>880/Each</td></tr><tr><td>KCT2-50-AT</td><td>Anthracite</td><td>1058/Each</td></tr><tr><td>KCT2-60-AT</td><td>Anthracite</td><td>1142/Each</td></tr><tr><td>KCT2-80-AT</td><td>Anthracite</td><td>2158/Each</td></tr><tr><td>KCT2-90-AT</td><td>Anthracite</td><td>2462/Each</td></tr><tr><td>KCT2-100-AT</td><td>Anthracite</td><td>2650/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-10-03",
+        "prevContent": "selection-10",
+        "title": "LED For PMDS 'S3' Series 50",
+        "cardImg": "media-u-kitchen/10-03-01.webp",
+        "carouselId": "carousel-10-03",
+        "images": [
+          "media-u-kitchen/10-03-01.webp",
+          "media-u-kitchen/10-03-02.webp"
+        ],
+        "features": [
+          "Elegant lighting that enhances the usability and appearance of the PMDS S3 Series 50",
+          "ON/OFF button on controller box helps conserve battery.",
+          "Includes 2 lights (right & left, 500mm each) and 1 controller box for full drawer coverage",
+          "Tool-free installation with strong adhesive backing.",
+          "Runs on 6 AAA batteries with a built-in sensor that automatically turns on the light when the drawer opens and switches off when closed or after 20 seconds.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS-S3-LED-50</td><td>Anthracite</td><td>2711/Set</td></tr></tbody></table>"
+       ]
+      },
+      {
+        "id": "content-10-04",
+        "prevContent": "selection-10",
+        "title": "Pro-motion Drawer System 122 - S3",
+        "cardImg": "media-u-kitchen/10-04-01.jpg",
+        "carouselId": "carousel-10-04",
+        "images": [
+          "media-u-kitchen/10-04-01.jpg",
+          "media-u-kitchen/10-04-02.jpg"
+        ],
+        "features": [
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Load capacity: 50kg",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS2-30-S3</td><td>White / Anthracite</td><td>3,427/Set</td></tr><tr><td>PMDS2-35-S3</td><td>White / Anthracite</td><td>3,452/Set</td></tr><tr><td>PMDS2-40-S3</td><td>White / Anthracite / Black</td><td>3,526/Set</td></tr><tr><td>PMDS2-45-S3</td><td>White / Anthracite / Brown / Black</td><td>3,707/Set</td></tr><tr><td>PMDS2-45-S3-OK</td><td>Oak</td><td>4,631/Set</td></tr><tr><td>PMDS2-50-S3</td><td>White / Anthracite / Brown / Black</td><td>3,775/Set</td></tr><tr><td>PMDS2-50-S3-OK</td><td>Oak</td><td>4,699/Set</td></tr><tr><td>PMDS2-55-S3</td><td>White / Anthracite / Brown / Black</td><td>3,843/Set</td></tr><tr><td>PMDS2-55-S3-OK</td><td>Oak</td><td>4,823/Set</td></tr><tr><td>PMDS2-60-S3</td><td>White / Anthracite / Black</td><td>4,392/Set</td></tr><tr><td>PMDS-S3-LED-50</td><td>Anthracite</td><td>2711/Set</td></tr></tbody></table>"
+       ]
+      },
+      {
+        "id": "content-10-05",
+        "prevContent": "selection-10",
+        "title": "Modular Cutlery Trays & Accessories",
+        "cardImg": "media-u-kitchen/10-05-01.jpg",
+        "carouselId": "carousel-10-05",
+        "images": [
+          "media-u-kitchen/10-05-01.jpg",
+          "media-u-kitchen/10-05-02.jpg"
+        ],
+        "features": [
+          "Organize drawers as desired with flexible single/ double wing trays.",
+          "These flexible trays can be easily positioned on the side or in the middle of a drawer with any combination of your choice.",
+          "These wing trays can be equipped with knife block & cutting board, thereby providing additional space to accessorize drawers as required.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>MCT-1020-SW-AT</td><td>Anthracite</td><td>838/Each</td></tr><tr><td>MCT-920-SW-AT</td><td>Anthracite</td><td>639/Each</td></tr><tr><td>MCT-1520-SW-AT</td><td>Anthracite</td><td>1131/Each</td></tr><tr><td>MCT-1120-DW-AT</td><td>Anthracite</td><td>911/Each</td></tr><tr><td>MCT-KB2-WD</td><td>Wood Finish</td><td>3013/Each</td></tr><tr><td>MCT-CB2-WD</td><td>Wood Finish</td><td>2397/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-10-06",
+        "prevContent": "selection-10",
+        "title": "Pro-motion Drawer System 203 - S3",
+        "cardImg": "media-u-kitchen/10-06-01.jpg",
+        "carouselId": "carousel-10-06",
+        "images": [
+          "media-u-kitchen/10-06-01.jpg"
+        ],
+        "features": [
+          "Drawer width can be designed freely with automatic error adujustment.",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Load capacity: 50kg",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS4-45-S3</td><td>White / Anthracite</td><td>4,697/Set</td></tr><tr><td>PMDS4-50-S3</td><td>White / Anthracite</td><td>4,975/Set</td></tr><tr><td>PMDS4-55-S3</td><td>White / Anthracite</td><td>5,205/Set</td></tr></tbody></table>"
+       ]
+      },
+      {
+        "id": "content-10-07",
+        "prevContent": "selection-10",
+        "title": "Kitchen Drawer Bin",
+        "cardImg": "media-u-kitchen/10-07-01.jpg",
+        "carouselId": "carousel-10-07",
+        "images": [
+          "media-u-kitchen/10-07-01.jpg",
+          "media-u-kitchen/10-07-02.jpg",
+          "media-u-kitchen/10-07-03.jpg",
+          "media-u-kitchen/10-07-04.jpg"
+        ],
+        "features": [
+          "Suitable for drawer width 600mm/900mm",
+          "Capacity: 35L (15L+20L), 55L (15L+20L+20L)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KDB60-35</td><td>Anthracite</td><td>7,705/Set</td></tr><tr><td>KDB90-55</td><td>Anthracite</td><td>9,304/Set</td></tr></tbody></table>"
+       ]
+      }
+    ]
+  },
+  "selection-11": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-11-02",
+        "prevContent": "selection-11",
+        "title": "Kitchen Cutlery Tray 5",
+        "cardImg": "media-u-kitchen/11-02-01.jpg",
+        "carouselId": "carousel-11-02",
+        "images": [
+          "media-u-kitchen/11-02-01.jpg",
+          "media-u-kitchen/11-02-02.jpg"
+        ],
+        "features": [
+          "Multiple compartments keep cutlery and tools neatly organised",
+          "Diagonal stripes pattern tray surface for better hold",
+          "Diamond pattern top for an elegant look",
+          "Available in 7 different cut-able widths to fit any drawer",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KCT5-40-AT</td><td>Anthracite</td><td>801/Each</td></tr><tr><td>KCT5-45-AT</td><td>Anthracite</td><td>878/Each</td></tr><tr><td>KCT5-50-AT</td><td>Anthracite</td><td>920/Each</td></tr><tr><td>KCT5-60-AT</td><td>Anthracite</td><td>1039/Each</td></tr><tr><td>KCT5-70-AT</td><td>Anthracite</td><td>1227/Each</td></tr><tr><td>KCT5-80-AT</td><td>Anthracite</td><td>1323/Each</td></tr><tr><td>KCT5-90-AT</td><td>Anthracite</td><td>1399/Each</td></tr></tbody></table>"
+       ]
+      },
+      {
+        "id": "content-11-03",
+        "prevContent": "selection-11",
+        "title": "Pro-motion Drawer System 90 - S3",
+        "cardImg": "media-u-kitchen/11-03-01.jpg",
+        "carouselId": "carousel-11-03",
+        "images": [
+          "media-u-kitchen/11-03-01.jpg",
+          "media-u-kitchen/11-03-02.jpg"
+        ],
+        "features": [
+          "Quick installation and dismantle.",
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 90mm",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 50kg",
+          "Full extension of drawer with soft close feature",
+          "Fascia panel system for internal drawers",
+          "Finish: White (WH), Anthracite (AT), Black (BL), Brown (BR), Oak (OK)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS1-30-S3</td><td>White / Anthracite </td><td>3226 / Set</td></tr><tr><td>PMDS1-35-S3</td><td>White / Anthracite </td><td>3251 / Set</td></tr><tr><td>PMDS1-40-S3</td><td>White / Anthracite / Black</td><td>3301 / Set</td></tr><tr><td>PMDS1-45-S3</td><td>White / Anthracite / Brown / Black</td><td>3477 / Set</td></tr><tr><td>PMDS1-45-S3-OK</td><td>Oak</td><td>4179 / Set</td></tr><tr><td>PMDS1-50-S3</td><td>White / Anthracite / Brown / Black</td><td>3522 / Set</td></tr><tr><td>PMDS1-50-S3-OK</td><td>Oak</td><td>4326 / Set</td></tr><tr><td>PMDS1-55-S3</td><td>White / Anthracite / Brown / Black</td><td>3610 / Set</td></tr><tr><td>PMDS1-55-S3-OK</td><td>Oak</td><td>4507 / Set</td></tr><tr><td>PMDS1-60-S3</td><td>White / Anthracite / Black</td><td>4035 / Set</td></tr><tr><td>PMDS2-S3-FP</td><td>White / Anthracite / Brown / Black</td><td>3971 / Each</td></tr><tr><td>PMDS3-S3-FP</td><td>White / Anthracite / Brown / Black</td><td>4100 / Each</td></tr><tr><td>PMDS3-S3-FR</td><td>White / Anthracite / Brown / Black</td><td>1441 / Each</td></tr><tr><td>PMDS1-S3-FC</td><td>White / Anthracite / Brown / Black</td><td>422 / Set</td></tr><tr><td>PMDS2-S3-FC</td><td>White / Anthracite / Brown / Black</td><td>685 / Set</td></tr><tr><td>PMDS3-S3-FC-R</td><td>White / Anthracite / Brown / Black</td><td>689 / Set</td></tr><tr><td>PMDS3S3-FC-GP</td><td>BR/White / Anthracite </td><td>689 / Set</td></tr><tr><td>PMDS1G-45-S3</td><td>White / Anthracite </td><td>4148 / Set</td></tr><tr><td>PMDS1G-50-S3</td><td>White / Anthracite </td><td>4403 / Set</td></tr><tr><td>PMDS1G-55-S3</td><td>White / Anthracite </td><td>4568 / Set</td></tr><tr><td>PMDS-G1-45-S3</td><td>White / Anthracite / Brown</td><td>465 / Pair</td></tr><tr><td>PMDS-G1-50-S3</td><td>White / Anthracite / Brown</td><td>513 / Pair</td></tr><tr><td>PMDS-G1-55-S3</td><td>White / Anthracite / Brown</td><td>553 / Pair</td></tr><tr><td>PMDS-G1-60-S3</td><td>White / Anthracite </td><td>581 / Pair</td></tr><tr><td>PMDS3-S3-FG-45</td><td>-</td><td>506 / Each</td></tr><tr><td>PMDS3-S3-FG-60</td><td>-</td><td>696 / Each</td></tr><tr><td>PMDS3-S3-FG-90</td><td>-</td><td>1064 / Each</td></tr><tr><td>PMDS3-FR</td><td>Anthracite / White</td><td>1441 / Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-11-04",
+        "prevContent": "selection-11",
+        "title": "Pro-motion Drawer System 122 - S3",
+        "cardImg": "media-u-kitchen/11-04-01.jpg",
+        "carouselId": "carousel-11-04",
+        "images": [
+          "media-u-kitchen/11-04-01.jpg",
+          "media-u-kitchen/11-04-02.jpg"
+        ],
+        "features": [
+          "Full extension of drawer with soft close feature",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 50kg",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 122mm",
+          "Finish: White (WH), Anthracite (AT), Brown (BR), Oak (OK)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS2-30-S3</td><td>White / Anthracite</td><td>3427 / Set</td></tr><tr><td>PMDS2-35-S3</td><td>White / Anthracite</td><td>3452 / Set</td></tr><tr><td>PMDS2-40-S3</td><td>White / Anthracite/ Black</td><td>3526 / Set</td></tr><tr><td>PMDS2-45-S3</td><td>White / Anthracite/ Brown / Black</td><td>3707 / Set</td></tr><tr><td>PMDS2-45-S3-OK</td><td>Oak</td><td>4631 / Set</td></tr><tr><td>PMDS2-50-S3</td><td>White / Anthracite/ Brown / Black</td><td>3775 / Set</td></tr><tr><td>PMDS2-50-S3-OK</td><td>Oak</td><td>4699 / Set</td></tr><tr><td>PMDS2-55-S3</td><td>White / Anthracite/ Brown / Black</td><td>3843 / Set</td></tr><tr><td>PMDS2-55-S3-OK</td><td>Oak</td><td>4823 / Set</td></tr><tr><td>PMDS2-60-S3</td><td>White / Anthracite/ Black</td><td>4392 / Set</td></tr><tr><td>PMDS2G-45-S3</td><td>White / Anthracite</td><td>4466 / Set</td></tr><tr><td>PMDS2G-50-S3</td><td>White / Anthracite</td><td>4746 / Set</td></tr><tr><td>PMDS2G-55-S3</td><td>White / Anthracite</td><td>4950 / Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-11-05",
+        "prevContent": "selection-11",
+        "title": "Pro-motion Drawer System 172 - S3",
+        "cardImg": "media-u-kitchen/11-05-01.jpg",
+        "carouselId": "carousel-11-05",
+        "images": [
+          "media-u-kitchen/11-05-01.jpg",
+          "media-u-kitchen/11-05-02.jpg"
+        ],
+        "features": [
+          "Full extension of drawer with soft close feature",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 50kg",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 172mm",
+          "Finish: White (WH), Anthracite (AT), Brown (BR), Oak (OK)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS3-30-S3</td><td>White / Anthracite</td><td>4021 / Set</td></tr><tr><td>PMDS3-35-S3</td><td>White / Anthracite</td><td>4044 / Set</td></tr><tr><td>PMDS3-40-S3</td><td>White / Anthracite / Black</td><td>4062 / Set</td></tr><tr><td>PMDS3-45-S3</td><td>White / Anthracite / Brown / Black</td><td>4195 / Set</td></tr><tr><td>PMDS3-45-S3-OK</td><td>Oak</td><td>5420 / Set</td></tr><tr><td>PMDS3-50-S3</td><td>White / Anthracite / Brown / Black</td><td>4265 / Set</td></tr><tr><td>PMDS3-50-S3-OK</td><td>Oak</td><td>5546 / Set</td></tr><tr><td>PMDS3-55-S3</td><td>White / Anthracite / Brown / Black</td><td>4347 / Set</td></tr><tr><td>PMDS3-55-S3-OK</td><td>Oak</td><td>5716 / Set</td></tr><tr><td>PMDS3-60-S3</td><td>White / Anthracite / Black</td><td>4746 / Set</td></tr><tr><td>PMDS3G-45-S3</td><td>White / Anthracite</td><td>5076 / Set</td></tr><tr><td>PMDS3G-50-S3</td><td>White / Anthracite</td><td>5397 / Set</td></tr><tr><td>PMDS3G-55-S3</td><td>White / Anthracite</td><td>5634 / Set</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-12": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-12",
+        "prevContent": "selection-12",
+        "title": "Base Pullout Max 45",
+        "cardImg": "media-u-kitchen/12-01.jpg",
+        "carouselId": "carousel-12",
+        "images": [
+          "media-u-kitchen/12-01.jpg",
+          "media-u-kitchen/12-02.jpg",
+          "media-u-kitchen/12-03.jpg"
+        ],
+        "features": [
+          "Organize your kitchen essentials at ease with this multipurpose, compact, and flexible storage unit",
+          "Easy access to content from all three sides",
+          "Suitable for miscellaneous storage including bottles, jars, knives, ladles, chopping board, gloves etc.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>BPO1-45</td><td>Anthracite</td><td>13,897/Set</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-13": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-13-01",
+        "prevContent": "selection-13",
+        "title": "Magic Corner Max 90 - Glass",
+        "cardImg": "media-u-kitchen/13-01-01.jpg",
+        "carouselId": "carousel-13-01",
+        "images": [
+          "media-u-kitchen/13-01-01.jpg"
+        ],
+        "features": [
+          "Convert kitchen's dead corner into a smart storage with magic corner max 90 glass baskets.",
+          "Ensures smooth and quiet closing with soft-close mechanism.",
+          "For access, pull out and twist 90° for the first 2 baskets & to reach the other 2 baskets, pull out individually.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>MCM90G-L-AT</td><td>Anthracite</td><td>43,981/Set</td></tr><tr><td>MCM90G-R-AT</td><td>Anthracite</td><td>43,981/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-13-02",
+        "prevContent": "selection-13",
+        "title": "Blind corner Hinge- 3D-Soft close",
+        "cardImg": "media-u-kitchen/13-02-01.jpg",
+        "carouselId": "carousel-13-02",
+        "images": [
+          "media-u-kitchen/13-02-01.jpg"
+        ],
+        "features": [
+          "3D Adjustment",
+          "Max. opening: 90˚",
+          "In-built soft close mechanism prevents shutter from banging",
+          "Max. shutter size: 850mm X 550mm",
+          "Shutter thickness: 16mm - 19mm",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>HBC1-3D-SC</td><td>Nickel Plated</td><td>391/ Set of 2</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-15": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-15-01",
+        "prevContent": "selection-15",
+        "title": "Hinge for Aluminium Profile 3D - With Linear Mounting Plate",
+        "cardImg": "media-u-kitchen/15-01-01.jpg",
+        "carouselId": "carousel-15-01",
+        "images": [
+          "media-u-kitchen/15-01-01.jpg",
+          "media-u-kitchen/15-01-02.jpg"
+        ],
+        "features": [
+          "Specially designed hinge with linear mounting plate for the Glass shutter Al. profiles.",
+          "Available in Overlay & Half Overlay",
+          "Hinge opening angle: 105˚",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>HAPL1-TN</td><td>Titanium</td><td>577/Set of 2</td></tr><tr><td>HAPL2-TN</td><td>Titanium</td><td>577/Set of 2</td></tr><tr><td>HAPL-C-TN</td><td>Titanium</td><td>97/Set of 2</td></tr><tr><td>HAP-T</td><td>-</td><td>16/Each</td></tr><tr><td>HAP-4-22-2-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>1451/2.44mtr</td></tr><tr><td>HAP-4-22-2-AN</td><td>-</td><td>1685/2.44mtr</td></tr><tr><td>HAP-4-22-36-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>2174/3.66mtr</td></tr><tr><td>HAP-4-22-36-AN</td><td>-</td><td>2526/3.66mtr</td></tr><tr><td>HAP-4-22-2-SF</td><td>Special Finish</td><td>1747/2.44mtr</td></tr><tr><td>HAP-4-22-36-SF</td><td>Special Finish</td><td>2618/3.66mtr</td></tr><tr><td>HAP-4-22-2-CP/BA/CH/BG</td><td>Chrome Plated / Champagne / Brushed Aluminium / Brushed Gold</td><td>1685/2.44mtr</td></tr><tr><td>HAP-4-22-36-CP/BA/CH/BG</td><td>Chrome Plated / Champagne / Brushed Aluminium / Brushed Gold</td><td>2526/3.66mtr</td></tr><tr><td>HAP-4-22H-2-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>1764/2.44mtr</td></tr><tr><td>HAP-4-22H-2-AN</td><td>-</td><td>2069/2.44mtr</td></tr><tr><td>HAP-4-22H-36-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>2646/3.66mtr</td></tr><tr><td>HAP-4-22H-36-AN</td><td>-</td><td>3101/3.66mtr</td></tr><tr><td>HAP-4-22H-2-SF</td><td>Special Finish</td><td>2146/2.44mtr</td></tr><tr><td>HAP-4-22H-36-SF</td><td>Special Finish</td><td>3221/3.66mtr</td></tr><tr><td>HAP-4-22H-2-CP/BA/CH/BG</td><td>Chrome Plated / Champagne / Brushed Aluminium / Brushed Gold</td><td>2069/2.44mtr</td></tr><tr><td>HAP-4-22H-36-CP/BA/CH/BG</td><td>Chrome Plated / Champagne / Brushed Aluminium / Brushed Gold</td><td>3101/3.66mtr</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-17-02",
+        "prevContent": "selection-15",
+        "title": "Cabinet / Glass Shelf Support",
+        "cardImg": "media-u-kitchen/15-02-01.jpg",
+        "carouselId": "carousel-15-02",
+        "images": [
+          "media-u-kitchen/15-02-01.jpg",
+          "media-u-kitchen/15-02-02.jpg"
+        ],
+        "features": [
+          "Easy to use with elegant looks for wood or glass shelves.",
+          "Requires ø5mm drill to fix.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>GSS2-NP</td><td>Nickel Plated</td><td>11628 / 1000pc</td></tr><tr><td>GSS2-TN</td><td>Titanium</td><td>11900 / 1000pc</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-15-03",
+        "prevContent": "selection-15",
+        "title": "Cabinet Shutter Profile Plastic",
+        "cardImg": "media-u-kitchen/15-03-01.webp",
+        "carouselId": "carousel-15-03",
+        "images": [
+          "media-u-kitchen/15-03-01.webp",
+          "media-u-kitchen/15-03-02.webp"
+        ],
+        "features": [
+          "For 4mm glass cabinet shutters.",
+          "Includes coextruded rubber gasket; no external sleeve needed",
+          "Recommended to use with Ebco Hinge for Al. Profile 3D (to be purchased separately)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>R.A. Connector for Cabinet Shutter Profile Plastic <br>CSPP-4-RAC</td><td>Black / Anthracite</td><td>42/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-16": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-16",
+        "prevContent": "selection-16",
+        "title": "Kitchen Pulldown System - Glass ",
+        "cardImg": "media-u-kitchen/16-01.jpg",
+        "carouselId": "carousel-16",
+        "images": [
+          "media-u-kitchen/16-01.jpg",
+          "media-u-kitchen/16-02.jpg"
+        ],
+        "features": [
+          "Overhead Storage is now accessible.",
+          "Soft pulldown & Soft lift up feature.",
+          "Ability to adjust the load as per requirement.",
+          "Glass Baskets can easily be removed for cleaning and clipped back.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KPDSG60</td><td>Anthracite</td><td>25,357/Set</td></tr><tr><td>KPDS60</td><td>Anthracite</td><td>21,065/Each</td></tr><tr><td>KPDS60B-17-10-6</td><td>Stainless Steel 304</td><td>3,270/Set of 2</td></tr><tr><td>KPDSG90</td><td>Anthracite</td><td>28,334/Set</td></tr><tr><td>KPDS90</td><td>Anthracite</td><td>21,365/Each</td></tr><tr><td>KPDS90B-29-10-6</td><td>Stainless Steel 304</td><td>4,767/Set of 2</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-17": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-17-01",
+        "prevContent": "selection-17",
+        "title": "Eurolifts Flap Door System",
+        "cardImg": "media-u-kitchen/17-01-01.jpg",
+        "carouselId": "carousel-17-01",
+        "images": [
+          "media-u-kitchen/17-01-01.jpg",
+          "media-u-kitchen/17-01-02.jpg"
+        ],
+        "features": [
+          "Ideal for overhead hanging cabinets.",
+          "Flap type fully openable door for easy assessibility.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EFD1-L/R</td><td>Anthracite</td><td>2931/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-17-02",
+        "prevContent": "selection-17",
+        "title": "Cabinet / Glass Shelf Support",
+        "cardImg": "media-u-kitchen/17-02-01.jpg",
+        "carouselId": "carousel-17-02",
+        "images": [
+          "media-u-kitchen/17-02-01.jpg",
+          "media-u-kitchen/17-02-02.jpg"
+        ],
+        "features": [
+          "Easy to use with elegant looks for wood or glass shelves.",
+          "Requires ø5mm drill to fix.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>GSS2-NP</td><td>Nickel Plated</td><td>11628 / 1000pc</td></tr><tr><td>GSS2-TN</td><td>Titanium</td><td>11900 / 1000pc</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-17-03",
+        "prevContent": "selection-17",
+        "title": "Slip On Hinge - Euro",
+        "cardImg": "media-u-kitchen/17-03-01.jpg",
+        "carouselId": "carousel-17-03",
+        "images": [
+          "media-u-kitchen/17-03-01.jpg"
+        ],
+        "features": [
+          "Available in Full overlay, Half overlay and Inset.",
+          "Max. opening - 105 °",
+          "Max. shutter size - 34 inch x 22 inch (850 mm x 550 mm) for 2 hinges.",
+          "Shutter Thickness - 16 to 19 mm",
+          "Shutter cavity Ø35 mm; 12 mm deep. cavity 4 mm from edge.",
+          "Finish - Nickel Plated.",
+          "Cap to cover the Ø35mm drilling made for maxi connectors, hinges, etc.",
+          "Easy to fit & remove and also reusable.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>E-HS1M1-NP</td><td>Nickel Plated</td><td>105/Set of 2 Pcs.</td></tr><tr><td>E-HS2M1-NP</td><td>Nickel Plated</td><td>113/Set of 2 Pcs.</td></tr><tr><td>E-HS3M1-NP</td><td>Nickel Plated</td><td>119/Set of 2 Pcs.</td></tr><tr><td>E-HS1M130-NP</td><td>Nickel Plated</td><td>107/Set of 2 Pcs.</td></tr><tr><td>E-HS2M130-NP</td><td>Nickel Plated</td><td>113/Set of 2 Pcs.</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-18": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-18-01",
+        "prevContent": "selection-18",
+        "title": "Eurolifts Bi-fold Door System",
+        "cardImg": "media-u-kitchen/18-01-01.jpg",
+        "carouselId": "carousel-18-01",
+        "images": [
+          "media-u-kitchen/18-01-01.jpg",
+          "media-u-kitchen/18-01-02.jpg",
+          "media-u-kitchen/18-01-03.jpg"
+        ],
+        "features": [
+          "Ideal for overhead hanging cabinets.",
+          "Folding type doors in open condition for space saving.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EBFD60-L/R</td><td>Anthracite</td><td>3761/Set</td></tr><tr><td>EBFD72-L/R</td><td>Anthracite</td><td>3824/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-18-02",
+        "prevContent": "selection-18",
+        "title": "Concealed Shelf Support",
+        "cardImg": "media-u-kitchen/18-02-01.jpg",
+        "carouselId": "carousel-18-02",
+        "images": [
+          "media-u-kitchen/18-02-01.jpg",
+          "media-u-kitchen/18-02-02.jpg"
+        ],
+        "features": [
+          "These are easy to use fittings and are used for connecting shelves and sides of cabinets",
+          "This saves on assembly time as the shelves can be fitted easily from the front or from above into the carcass of the cabinet",
+          "The Housing sits inside a Ø 15mm cavity, 10.5mm deep",
+          "The screw is fitted on the side wall of the cabinet, & the shelf with the Housing is pushed from the top",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CCSS1-FW</td><td>Frosty White</td><td>581//40pc</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-18-03",
+        "prevContent": "selection-18",
+        "title": "Slip On Hinge - Euro",
+        "cardImg": "media-u-kitchen/18-03-01.jpg",
+        "carouselId": "carousel-18-03",
+        "images": [
+          "media-u-kitchen/18-03-01.jpg"
+        ],
+        "features": [
+          "Available in Full overlay, Half overlay and Inset.",
+          "Max. opening - 105 °",
+          "Max. shutter size - 34 inch x 22 inch (850 mm x 550 mm) for 2 hinges.",
+          "Shutter Thickness - 16 to 19 mm",
+          "Shutter cavity Ø35 mm; 12 mm deep. cavity 4 mm from edge.",
+          "Finish - Nickel Plated.",
+          "Cap to cover the Ø35mm drilling made for maxi connectors, hinges, etc.",
+          "Easy to fit & remove and also reusable.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>E-HS1M1-NP</td><td>Nickel Plated</td><td>105/Set of 2 Pcs.</td></tr><tr><td>E-HS2M1-NP</td><td>Nickel Plated</td><td>113/Set of 2 Pcs.</td></tr><tr><td>E-HS3M1-NP</td><td>Nickel Plated</td><td>119/Set of 2 Pcs.</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-19": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-19",
+        "prevContent": "selection-19",
+        "title": "Roll Top Glass - Vertical",
+        "cardImg": "media-u-kitchen/19-01.webp",
+        "carouselId": "carousel-19",
+        "images": [
+          "media-u-kitchen/19-01.webp"
+        ],
+        "features": [
+          "Designed to give complete opening in cabinets.",
+          "Easy to install & use.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>RTGV-60140</td><td>FG</td><td>37,988/Set</td></tr></tbody></table>"          
+        ]
+      }
+    ]
+  },
+  "selection-20": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-20",
+        "prevContent": "selection-20",
+        "title": "Slim Pull Out - Soft Close",
+        "cardImg": "media-u-kitchen/20-01.jpg",
+        "carouselId": "carousel-20",
+        "images": [
+          "media-u-kitchen/20-01.jpg"
+        ],
+        "features": [
+          "2 tier Slim Pull-out allows you to utilize narrow spaces to store & organize handy products",
+          "Load Capacity: 10 kgs per shelf",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>SP-5020</td><td>Anthracite / White</td><td>6160/Set</td></tr><tr><td>SP-5520</td><td>Anthracite / White</td><td>6380/Set</td></tr></tbody></table>"          
+        ]
+      }
+    ]
+  },
+  "selection-21": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-21",
+        "prevContent": "selection-21",
+        "title": "Bottle Pullout 2 - Soft Close - Glass",
+        "cardImg": "media-u-kitchen/21-01.jpg",
+        "carouselId": "carousel-21",
+        "images": [
+          "media-u-kitchen/21-01.jpg",
+          "media-u-kitchen/21-02.jpg"
+        ],
+        "features": [
+          "Ideal solution for kitchen narrow base cabinets where small and different things can be stored in an organized manner.",
+          "Built-in SOFT CLOSE mechanism.",
+          "Comes in full set with Baskets, Concealed slides & a Mounting kit.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>BPO2SC2G-100-AT</td><td>Anthracite</td><td>8,851/Set</td></tr><tr><td>BPO2SC2G-150-AT</td><td>Anthracite</td><td>9,548/Set</td></tr><tr><td>BPO2SC2G-200-AT</td><td>Anthracite</td><td>9,922/Set</td></tr><tr><td>BPO2SC2G-250-AT</td><td>Anthracite</td><td>10,604/Set</td></tr></tbody></table>"          
+        ]
+      }
+    ]
+  },
+  "selection-22": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-22",
+        "prevContent": "selection-22",
+        "title": "Pull Out Grain Drawer - 15 Ltr.",
+        "cardImg": "media-u-kitchen/22-01.webp",
+        "carouselId": "carousel-22",
+        "images": [
+          "media-u-kitchen/22-01.webp",
+          "media-u-kitchen/22-02.webp",
+          "media-u-kitchen/22-03.webp"
+        ],
+        "features": [
+          "Designed to ease accessibility & organization of frequently used dry ingredients.",
+          "Option of fascia brackets for shutter mounting.",
+          "Fully sealed transparent sliding top cover for easy visibility and access to items inside.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>POGD-15</td><td>White / Anthracite</td><td>5049/Each</td></tr><tr><td>POGD-15-FB</td><td>White / Anthracite</td><td>940/Pair</td></tr></tbody></table>"          
+        ]
+      }
+    ]
+  },
+  "selection-23": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-23-01",
+        "prevContent": "selection-23",
+        "title": "Pan Hanger Rack - Soft Close",
+        "cardImg": "media-u-kitchen/23-01-01.gif",
+        "carouselId": "carousel-23-01",
+        "images": [
+          "media-u-kitchen/23-01-01.gif",
+          "media-u-kitchen/23-01-02.jpg",
+          "media-u-kitchen/23-01-03.jpg"
+        ],
+        "features": [
+          "Features a soft-close mechanism for quiet and effortless closure.",
+          "Suitable for internal cabinet depth of ≥490mm.",
+          "Comes with slide length of 482mm for smooth operation.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PHR48-SC</td><td>Anthracite</td><td>3219/Each</td></tr></tbody></table>"          
+        ]
+      },
+      {
+        "id": "content-23-02",
+        "prevContent": "selection-23",
+        "title": "Lid Holder For Pan Hanger",
+        "cardImg": "media-u-kitchen/23-02-01.jpg",
+        "carouselId": "carousel-23-02",
+        "images": [
+          "media-u-kitchen/23-02-01.jpg",
+          "media-u-kitchen/23-02-02.jpg"
+        ],
+        "features": [
+          "Ideal accessories to complement Livsmart pan hanger to store the lids.",
+          "Compatible with Sleek Telescopic Drawer Slides 500mm",
+          "Comes with a 4 set of screws & nuts",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LH-18-4-15</td><td>Stainless Steel</td><td>1157/Each</td></tr></tbody></table>"          
+        ]
+      },
+      {
+        "id": "content-23-03",
+        "prevContent": "selection-23",
+        "title": "Hinge for Aluminium Profile 3D - With Linear Mounting Plate",
+        "cardImg": "media-u-kitchen/23-03-01.jpg",
+        "carouselId": "carousel-23-03",
+        "images": [
+          "media-u-kitchen/23-03-01.jpg",
+          "media-u-kitchen/23-03-02.jpg",
+          "media-u-kitchen/23-03-03.jpg"
+        ],
+        "features": [
+          "Specially designed hinge with linear mounting plate for the Glass shutter Al. profiles.",
+          "Available in Overlay & Half Overlay",
+          "Hinge opening angle: 105˚",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>HAPL1-TN</td><td>Titanium</td><td>577/Set of 2</td></tr><tr><td>HAPL2-TN</td><td>Titanium</td><td>577/Set of 2</td></tr><tr><td>HAPL-C-TN</td><td>Titanium</td><td>97/Set of 2</td></tr><tr><td>HAP-T</td><td>-</td><td>16/Each</td></tr><tr><td>HAP-4-22-2-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>1451/2.44mtr</td></tr><tr><td>HAP-4-22-2-AN</td><td>-</td><td>1685/2.44mtr</td></tr><tr><td>HAP-4-22-36-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>2174/3.66mtr</td></tr><tr><td>HAP-4-22-36-AN</td><td>-</td><td>2526/3.66mtr</td></tr><tr><td>HAP-4-22-2-SF</td><td>Special Finish</td><td>1747/2.44mtr</td></tr><tr><td>HAP-4-22-36-SF</td><td>Special Finish</td><td>2618/3.66mtr</td></tr><tr><td>HAP-4-22-2-CP/BA/CH/BG</td><td>Chrome Plated / Champagne / Brushed Aluminium / Brushed Gold</td><td>1685/2.44mtr</td></tr><tr><td>HAP-4-22-36-CP/BA/CH/BG</td><td>Chrome Plated / Champagne / Brushed Aluminium / Brushed Gold</td><td>2526/3.66mtr</td></tr><tr><td>HAP-4-22H-2-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>1764/2.44mtr</td></tr><tr><td>HAP-4-22H-2-AN</td><td>-</td><td>2069/2.44mtr</td></tr><tr><td>HAP-4-22H-36-AS/AB</td><td>Anodized Silver / Anodized Black</td><td>2646/3.66mtr</td></tr><tr><td>HAP-4-22H-36-AN</td><td>-</td><td>3101/3.66mtr</td></tr><tr><td>HAP-4-22H-2-SF</td><td>Special Finish</td><td>2146/2.44mtr</td></tr><tr><td>HAP-4-22H-36-SF</td><td>Special Finish</td><td>3221/3.66mtr</td></tr><tr><td>HAP-4-22H-2-CP/BA/CH/BG</td><td>Chrome Plated / Champagne / Brushed Aluminium / Brushed Gold</td><td>2069/2.44mtr</td></tr><tr><td>HAP-4-22H-36-CP/BA/CH/BG</td><td>Chrome Plated / Champagne / Brushed Aluminium / Brushed Gold</td><td>3101/3.66mtr</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-23-04",
+        "prevContent": "selection-23",
+        "title": "Side Pullout Organizer - 2 Tier",
+        "cardImg": "media-u-kitchen/23-04-01.jpg",
+        "carouselId": "carousel-23-04",
+        "images": [
+          "media-u-kitchen/23-04-01.jpg",
+          "media-u-kitchen/23-04-02.jpg",
+          "media-u-kitchen/23-04-03.jpg"
+        ],
+        "features": [
+          "This side pullout has multiple applications - in kitchens, wardrobes and other utility cabinets where small and different things can be stored in an organized manner.",
+          "Allows you easy access by a smooth pullout slide system.",
+          "Soft close ensures smooth functioning.",
+          "Convenient to use & easy to fit.",
+          "Fits easily anywhere on side of cabinet and in narrow space.",
+          "Built in soft close mechanism.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>SPO2</td><td>Anthracite</td><td>15,603/Set</td></tr></tbody></table>"          
+        ]
+      }
+    ]
+  },
+  "selection-24": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-24",
+        "prevContent": "selection-24",
+        "title": "Kitchen Midway Systems",
+        "cardImg": "media-u-kitchen/24-01.jpg",
+        "carouselId": "carousel-24",
+        "images": [
+          "media-u-kitchen/24-01.jpg",
+          "media-u-kitchen/24-02.jpg",
+          "media-u-kitchen/24-03.jpg",
+          "media-u-kitchen/24-04.jpg",
+          "media-u-kitchen/24-05.jpg",
+          "media-u-kitchen/24-06.jpg",
+          "media-u-kitchen/24-07.jpg",
+          "media-u-kitchen/24-08.jpg",
+          "media-u-kitchen/24-09.jpg"
+        ],
+        "features": [
+          "Maximise your kitchen space and get easy access to your daily kitchen tools",
+          "Easy to clip on shelves/racks that can be added / removed or repositioned as per your work convenience.",
+          "Made of MS and Natural Wood which adds aesthetic appeal to your countertop",
+          "Optional LED lighting in Aluminium track.",
+          "Safety Bumpers provided for additional stability and grip.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KMS-L-AT</td><td>Anthracite</td><td>2915/Each</td></tr><tr><td>KMS-AT</td><td>Anthracite</td><td>1341/Each</td></tr><tr><td>KMS-L120-AT</td><td>Anthracite</td><td>3490/Each</td></tr><tr><td>KMS-120-AT</td><td>Anthracite</td><td>1676/Each</td></tr><tr><td>KMS-S</td><td>Anthracite (with Wood)</td><td>1037/Each</td></tr><tr><td>KMS-S-SR-R</td><td>Anthracite (with Wood)</td><td>1504/Each</td></tr><tr><td>KMS-WGH</td><td>Anthracite</td><td>539/Each</td></tr><tr><td>KMS-ST</td><td>Anthracite (with Wood)</td><td>1174/Each</td></tr><tr><td>KMS-LR</td><td>Anthracite</td><td>296/Each</td></tr><tr><td>KMS-TR</td><td>Anthracite (with Wood)</td><td>1183/Each</td></tr><tr><td>KMS-S-G</td><td>Anthracite</td><td>1084/Each</td></tr><tr><td>KMS-ST-G</td><td>Anthracite</td><td>1200/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-25": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-25-02",
+        "prevContent": "selection-25",
+        "title": "Spinova 360",
+        "cardImg": "media-u-kitchen/25-02-01.jpg",
+        "carouselId": "carousel-25-02",
+        "images": [
+          "media-u-kitchen/25-02-01.jpg",
+          "media-u-kitchen/25-02-02.jpg",
+          "media-u-kitchen/25-02-03.jpg",
+          "media-u-kitchen/25-02-04.jpg"
+        ],
+        "features": [
+          "Make the cabinet more concealed, maximize space utilization.",
+          "Simple and convenient installation and removal.",
+          "Ensures precise positioning of accessories, smooth rotation.",
+          "<table><thead><tr><th>Item Code</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>SPN-360</td><td>Zinc White</td><td>50,000/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-25-03",
+        "prevContent": "selection-25",
+        "title": "Pro-motion Drawer System 90 - S3",
+        "cardImg": "media-u-kitchen/25-03-01.jpg",
+        "carouselId": "carousel-25-03",
+        "images": [
+          "media-u-kitchen/25-03-01.jpg",
+          "media-u-kitchen/25-03-02.jpg"
+        ],
+        "features": [
+          "Quick installation and dismantle.",
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 90mm",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 50kg",
+          "Full extension of drawer with soft close feature",
+          "Fascia panel system for internal drawers",
+          "Finish: White (WH), Anthracite (AT), Black (BL), Brown (BR), Oak (OK)",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS1-30-S3</td><td>White / Anthracite</td><td>3226 / Set</td></tr><tr><td>PMDS1-35-S3</td><td>White / Anthracite</td><td>3251 / Set</td></tr><tr><td>PMDS1-40-S3</td><td>White / Anthracite / Black</td><td>3301 / Set</td></tr><tr><td>PMDS1-45-S3</td><td>White / Anthracite / Brown / Black</td><td>3477 / Set</td></tr><tr><td>PMDS1-45-S3-OK</td><td>Oak</td><td>4179 / Set</td></tr><tr><td>PMDS1-50-S3</td><td>White / Anthracite / Brown / Black</td><td>3522 / Set</td></tr><tr><td>PMDS1-50-S3-OK</td><td>Oak</td><td>4326 / Set</td></tr><tr><td>PMDS1-55-S3</td><td>White / Anthracite / Brown / Black</td><td>3610 / Set</td></tr><tr><td>PMDS1-55-S3-OK</td><td>Oak</td><td>4507 / Set</td></tr><tr><td>PMDS1-60-S3</td><td>White / Anthracite / Black</td><td>4035 / Set</td></tr><tr><td>PMDS1G-45-S3</td><td>White / Anthracite</td><td>4148 / Set</td></tr><tr><td>PMDS1G-50-S3</td><td>White / Anthracite</td><td>4403 / Set</td></tr><tr><td>PMDS1G-55-S3</td><td>White / Anthracite</td><td>4568 / Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-25-04",
+        "prevContent": "selection-25",
+        "title": "Pro-motion Drawer System 122 - S3",
+        "cardImg": "media-u-kitchen/25-04-01.jpg",
+        "carouselId": "carousel-25-04",
+        "images": [
+          "media-u-kitchen/25-04-01.jpg",
+          "media-u-kitchen/25-04-02.jpg"
+        ],
+        "features": [
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Load capacity: 50kg",
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 122mm",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PMDS2-30-S3</td><td>White / Anthracite</td><td>3427 / Set</td></tr><tr><td>PMDS2-35-S3</td><td>White / Anthracite</td><td>3452 / Set</td></tr><tr><td>PMDS2-40-S3</td><td>White / Anthracite / Black</td><td>3526 / Set</td></tr><tr><td>PMDS2-45-S3</td><td>White / Anthracite / Brown / Black</td><td>3707 / Set</td></tr><tr><td>PMDS2-45-S3-OK</td><td>Oak</td><td>4631 / Set</td></tr><tr><td>PMDS2-50-S3</td><td>White / Anthracite / Brown / Black</td><td>3775 / Set</td></tr><tr><td>PMDS2-50-S3-OK</td><td>Oak</td><td>4699 / Set</td></tr><tr><td>PMDS2-55-S3</td><td>White / Anthracite / Brown / Black</td><td>3843 / Set</td></tr><tr><td>PMDS2-55-S3-OK</td><td>Oak</td><td>4823 / Set</td></tr><tr><td>PMDS2-60-S3</td><td>White / Anthracite / Black</td><td>4392 / Set</td></tr><tr><td>PMDS2G-45-S3</td><td>White / Anthracite</td><td>4466 / Set</td></tr><tr><td>PMDS2G-50-S3</td><td>White / Anthracite</td><td>4746 / Set</td></tr><tr><td>PMDS2G-55-S3</td><td>White / Anthracite</td><td>4950 / Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-25-05",
+        "prevContent": "selection-25",
+        "title": "Linear Slim 5 For Drawer - Door Trigger IR Sensor (Surface Mount)",
+        "cardImg": "media-u-kitchen/25-05-01.jpg",
+        "carouselId": "carousel-25-05",
+        "images": [
+          "media-u-kitchen/25-05-01.jpg",
+          "media-u-kitchen/25-05-02.jpg"
+        ],
+        "features": [
+          "Specially designed linear lights for wooden shelf surface mount application.",
+          "Wooden thickness: 18mm",
+          "Suitable for Residences, commercial offices, retail outlets, etc.",
+          "The in-built IR sensor detects motion and activates the light and cuts off after seconds",
+          "Input:  24V DC",
+          "CCT: 4000K",
+          "CRI: Ra 80+",
+          "Watt: 14.4w/mtr",
+          "Led: 120L/mtr",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS5IRS-412-NW-AS</td><td>Anodized Silver</td><td>1980/Each</td></tr><tr><td>L-LS5IRS-562-NW-AS</td><td>Anodized Silver</td><td>2692/Each</td></tr><tr><td>L-LS5IRS-862-NW-AS</td><td>Anodized Silver</td><td>4138/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-25-06",
+        "prevContent": "selection-25",
+        "title": "Kitchen Cutlery Tray 5",
+        "cardImg": "media-u-kitchen/25-06-01.jpg",
+        "carouselId": "carousel-25-06",
+        "images": [
+          "media-u-kitchen/25-06-01.jpg",
+          "media-u-kitchen/25-06-02.jpg"
+        ],
+        "features": [
+          "Multiple compartments keep cutlery and tools neatly organised",
+          "Diagonal stripes pattern tray surface for better hold",
+          "Diamond pattern top for an elegant look",
+          "Height: 55mm and Depth: 420-490mm",
+          "Available in 7 different cut-able widths to fit any drawer",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KCT5-40-AT</td><td>Anthracite</td><td>801/Each</td></tr><tr><td>KCT5-45-AT</td><td>Anthracite</td><td>878/Each</td></tr><tr><td>KCT5-50-AT</td><td>Anthracite</td><td>920/Each</td></tr><tr><td>KCT5-60-AT</td><td>Anthracite</td><td>1039/Each</td></tr><tr><td>KCT5-70-AT</td><td>Anthracite</td><td>1227/Each</td></tr><tr><td>KCT5-80-AT</td><td>Anthracite</td><td>1323/Each</td></tr><tr><td>KCT5-90-AT</td><td>Anthracite</td><td>1399/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-25-07",
+        "prevContent": "selection-25",
+        "title": "Kitchen Cutlery Tray 2",
+        "cardImg": "media-u-kitchen/25-07-01.png",
+        "carouselId": "carousel-25-07",
+        "images": [
+          "media-u-kitchen/25-07-01.png",
+          "media-u-kitchen/25-07-02.png",
+          "media-u-kitchen/25-07-03.jpg",
+          "media-u-kitchen/25-07-04.png",
+          "media-u-kitchen/25-07-05.png",
+          "media-u-kitchen/25-07-06.png",
+          "media-u-kitchen/25-07-07.png",
+          "media-u-kitchen/25-07-08.png",
+          "media-u-kitchen/25-07-09.png"
+        ],
+        "features": [
+          "Elegantly designed to suit today's modern kitchen.",
+          "Available in Anthracite finish.",
+          "Comes in 7 different sizes and configurations to fit any drawer.",
+          "Manufactured out of non-toxic, food grade polypropylene and are easy to clean.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>KCT2-40-AT</td><td>Anthracite</td><td>796/Each</td></tr><tr><td>KCT2-45-AT</td><td>Anthracite</td><td>880/Each</td></tr><tr><td>KCT2-50-AT</td><td>Anthracite</td><td>1058/Each</td></tr><tr><td>KCT2-60-AT</td><td>Anthracite</td><td>1142/Each</td></tr><tr><td>KCT2-80-AT</td><td>Anthracite</td><td>2158/Each</td></tr><tr><td>KCT2-90-AT</td><td>Anthracite</td><td>2462/Each</td></tr><tr><td>KCT2-100-AT</td><td>Anthracite</td><td>2650/Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-26": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-26-01",
+        "prevContent": "selection-26",
+        "title": "Pole Shelving System",
+        "cardImg": "media-u-kitchen/26-01-01.jpg",
+        "carouselId": "carousel-26-01",
+        "images": [
+          "media-u-kitchen/26-01-01.jpg",
+          "media-u-kitchen/26-01-02.png",
+          "media-u-kitchen/26-01-03.jpg",
+          "media-u-kitchen/26-01-04.jpg",
+          "media-u-kitchen/26-01-05.jpg",
+          "media-u-kitchen/26-01-06.jpg",
+          "media-u-kitchen/26-01-07.jpg"
+        ],
+        "features": [
+          "This versatile Display System is equally suited for brand retail stores (Clothing, Apparels, Department) as well as walk in wardrobes at home",
+          "It's highly flexible design enables to change the combination / layout of display without actually removing the pole systems installed",
+          "Multiple Adaptor brackets can be chosen for Hangers, Shelves, Cabinets, Tilting Shelves, etc as per your desired application",
+          "Aluminium sections and die cast parts ensures strength and stability",
+          "Flexibility to mount the pole from floor to wall / ceiling as per the design requirement",
+          "<table><thead><tr><th style='width: 30%;'>Item</th><th style='width: 20%;'>Image</th><th style='width: 17%;'>Code</th><th style='width: 14%;'>Finish</th><th style='width: 8%;'>Qty</th><th style='width: 11%;'>Amount</th></tr></thead><tbody><tr><td>Aluminium Section with Luminor (5mm LED to be used)</td><td><img style='width: 99%;' src='media-u-kitchen/26-01-08.png' alt='PPDS-ALS-L- 3M-BG'></td><td>PPDS-ALS-L- 3M-BG</td><td>Brushed Gold</td><td>4 Nos</td><td>₹ 19,510</td></tr><tr><td>Height Adjustable Plinth</td><td><img style='width: 99%;' src='media-u-kitchen/26-01-09.png' alt='PPDS-HAP'></td><td>PPDS-HAP</td><td>Brushed Gold</td><td>4 Nos</td><td>₹ 754</td></tr><tr><td>End Connector Set</td><td><img style='width: 99%;' src='media-u-kitchen/26-01-10.png' alt='PPDS-ECS'></td><td>PPDS-ECS</td><td>Brushed Gold</td><td>4 Nos</td><td>₹ 427</td></tr><tr><td>Big Shelf Support</td><td><img style='width: 99%;' src='media-u-kitchen/26-01-11.png' alt='PPDS-BSS'></td><td>PPDS-BSS</td><td>Brushed Gold</td><td>12 Sets</td><td>₹ 3,092</td></tr><tr><td>Small Shelf Support</td><td><img style='width: 99%;' src='media-u-kitchen/26-01-12.png' alt='PPDS-SSS'></td><td>PPDS-SSS</td><td>Brushed Gold</td><td>3 Sets</td><td>₹ 383</td></tr><tr><td>SS 304 - Sleek Telescopic Drawer Slides - 35Kg. - Soft Close (35 Kg, 45 mm Ht)</td><td><img style='width: 99%;' src='media-u-kitchen/26-01-13.png' alt='PPDS-SSS'></td><td>STDS1-30-35SS-SC</td><td>Stainless Steel</td><td>3 Sets</td><td>₹ 5,217</td></tr><tr><td>Edge Profile Handle - 7</td><td><img style='width: 99%;' src='media-u-kitchen/26-01-14.png' alt='PPDS-SSS'></td><td>EPH7-598-AB</td><td>Anodized Black</td><td>3 Nos</td><td>₹ 1,848</td></tr><tr><td>LED Strip Light - 5mm (24v)</td><td><img style='width: 99%;' src='media-u-kitchen/26-01-15.png' alt='PPDS-SSS'></td><td>LED-501-NW</td><td>Neutral White</td><td>8 Nos</td><td>₹ 2,631</td></tr><tr><td colspan='1' rowspan='2'><div>Power Supply Unit - Series 3</div></td><td rowspan='2'><img style='width: 99%;' src='media-u-kitchen/26-01-16.png' alt='PPDS-SSS'></td><td>PSU3-24120</td><td>Black</td><td>2 Nos</td><td>₹ 11,816</td></tr><tr><td>PSU3-2465</td><td>Black</td><td>1 Nos</td><td>₹ 3,499</td></tr><tr><td>Extension Cord for Light Series 2 (24V)</td><td><img style='width: 99%;' src='media-u-kitchen/26-01-17.png' alt='PPDS-SSS'></td><td>L-EC2</td><td>Black</td><td>4 Nos</td><td>₹ 913</td></tr><tr><td colspan='5' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ 50,092</td></tr><tr><td colspan='6' style='text-align: end; border: 0px;'>NOTE: The above BOM covers hardware cost only.</td></tr></tbody></table>",
+          "<table><tbody><tr><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download BOM: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-u-kitchen/26-01-QR1.png' alt='QR-1'></td><td style='width: 35%; text-align: center; border-right: 0px;'>Scan to Download Brochure: </td><td style='width: 15%; text-align: center; border-left: 0px;'><img style='width: 95%;' src='media-u-kitchen/26-01-QR2.png' alt='QR-2'></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-27": {
+    "title": "KITCHEN",
+    "products": [
+      {
+        "id": "content-27-01",
+        "prevContent": "selection-27",
+        "title": "Rotation Mechanism for Desk",
+        "cardImg": "media-u-kitchen/27-01-01.jpg",
+        "carouselId": "carousel-27-01",
+        "images": [
+          "media-u-kitchen/27-01-01.jpg",
+          "media-u-kitchen/27-01-02.jpg",
+          "media-u-kitchen/27-01-03.jpg",
+          "media-u-kitchen/27-01-04.jpg",
+          "media-u-kitchen/27-01-05.jpg",
+          "media-u-kitchen/27-01-06.png"
+        ],
+        "features": [
+          "Designed to make your desk top rotate",
+          "Sturdy and easy to operate",
+          "Easy to extension of table",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>RMD-BL</td><td>Black</td><td>3038 / Each</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}
