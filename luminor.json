@@ -87,6 +87,12 @@
       "targetContent": "selection-13",
       "position": "3.10 1.45 -7.85",
       "rotation": "0 0 0"
+    },
+    {
+      "id": "14",
+      "targetContent": "selection-14",
+      "position": "-1.60 0.45 5.05",
+      "rotation": "0 0 0"
     }
   ],
   "selection-01": {
@@ -408,6 +414,30 @@
           "Customizable length as per requirement",
           "To be used with Livsmart LED strip light-5mm (24v) (code: LED-501-NW)",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CLPD1</td><td>Brown / Silver</td><td>3216/Each</td><tr><tr><td>LED-501-NW</td><td>Brown / Silver</td><td>329/1 pc of 3 mtr.</td><tr><tr><td>CLPD1-EC</td><td>Brown / Silver</td><td>39/Pair</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-14": {
+    "title": "LED Demo",
+    "products": [
+      {
+        "id": "content-14-01",
+        "prevContent": "selection-14",
+        "title": "Linked Sliding Partition System Slim 80 - Soft Close",
+        "cardImg": "media-luminor/14-01-01.jpg",
+        "carouselId": "carousel-14-01",
+        "images": [
+          "media-luminor/14-01-01.jpg"
+        ],
+        "features": [
+          "Specially engineered linked sliding partition system designed for 3-door glass installations.",
+          "The interlocking rail system makes all 3 doors move together smoothly and in perfect sync",
+          "Clean floor look with no bottom track. Rollers guide the door while the top-mounted system stays stable with anti-sway support and won’t sag over time.",
+          "Perfect for elevating any modern, minimalist space, thanks to its minimal-gap design and fully concealed hardware that creates a clean, seamless look.",
+          "Door weight: ≤ 80kg",
+          "Ideal for open plan spaces like living room, kitchen, walk-in wardrobes, space dividers.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LSPSS-80A-L-SC-TN</td><td>Titanium</td><td>-</td><tr><tr><td>LSPSS-80A-R-SC-TN</td><td>Titanium</td><td>-</td><tr><tr><td>LSPSS-SC-URTT-AB</td><td>Anodized Black</td><td>-</td></tr><tr><td>LSPSS-SC-URMC-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-URSC-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-UP-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-VP-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-BP-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-VPS</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-VPSC-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-S</td><td>Black</td><td>-</td><tr></tbody></table>"
         ]
       }
     ]
