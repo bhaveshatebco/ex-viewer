@@ -53,12 +53,6 @@
       "rotation": "0 0 0"
     },
     {
-      "id": "08-1",
-      "targetContent": "selection-08-1",
-      "position": "5.32 -1.10 -8.43",
-      "rotation": "0 0 0"
-    },
-    {
       "id": "09",
       "targetContent": "selection-09",
       "position": "5.32 0.50 -8.43",
@@ -96,7 +90,7 @@
     }
   ],
   "selection-01": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-01",
@@ -119,7 +113,7 @@
     ]
   },
   "selection-02": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-02",
@@ -146,7 +140,7 @@
     ]
   },
   "selection-03": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-03",
@@ -168,11 +162,27 @@
           "Led: 120L/mtr.",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-L2G8-412</td><td>Anodized Silver</td><td>999/Each</td><tr><tr><td>L-L2G8-562</td><td>Anodized Silver</td><td>1362/Each</td><tr><tr><td>L-L2G8-862</td><td>Anodized Silver</td><td>2091/Each</td></tr></tbody></table>"
         ]
+      },
+      {
+        "id": "content-03-02",
+        "prevContent": "selection-03",
+        "title": "Glass Shelf Support",
+        "cardImg": "media-luminor/03-02-01.jpg",
+        "carouselId": "carousel-03-02",
+        "images": [
+          "media-luminor/03-02-01.jpg",
+          "media-luminor/03-02-02.jpg"
+        ],
+        "features": [
+          "Easy to use with elegant looks for wood or glass shelves.",
+          "Requires ø5mm drill to fix.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>GSS2-NP</td><td>Nickel Plated</td><td>11628/1000pc</td></tr><tr><td>GSS2-TN</td><td>Titanium</td><td>11900/1000pc</td></tr></tbody></table>"
+        ]
       }
     ]
   },
   "selection-04": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-04",
@@ -196,7 +206,7 @@
     ]
   },
   "selection-05": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-05",
@@ -212,13 +222,13 @@
           "Invisible, concealed, touch-capacitive sensor that transforms furniture surfaces into smart, dimmable light controls.",
           "Control mode : Dimming / ON / OFF",
           "Capacity : 60W",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS5IRS-412-NW</td><td>Neutral White</td><td>1980/Each</td><tr><tr><td>L-LS5IRS-562-NW</td><td>Neutral White</td><td>2692/Each</td><tr><tr><td>L-LS5IRS-862-NW</td><td>Neutral White</td><td>4138/Each</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>ITDS-3</td><td>-</td><td>1045/Each</td><tr></tbody></table>"
         ]
       }
     ]
   },
   "selection-06": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-06",
@@ -243,11 +253,27 @@
           "Led: 120L/mtr",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS5IRS-412-NW</td><td>Anodized Silver</td><td>1980/Each</td><tr><tr><td>L-LS5IRS-562-NW</td><td>Anodized Silver</td><td>2692/Each</td><tr><tr><td>L-LS5IRS-862-NW</td><td>Anodized Silver</td><td>4138/Each</td></tr></tbody></table>"
         ]
+      },
+      {
+        "id": "content-06-02",
+        "prevContent": "selection-06",
+        "title": "Concealed Drawer Slide Slim – 2 Push Open (with Fascia Bracket)",
+        "cardImg": "media-luminor/06-02-01.png",
+        "carouselId": "carousel-06-02",
+        "images": [
+          "media-luminor/06-02-01.png"
+        ],
+        "features": [
+          "Concealed drawer slide slim 2 with facia brackets has in-built PUSH OPEN mechanism.",
+          "This compact model uses minimal space (27mm) below the drawer.",
+          "Flexible 3D adjustment allow facia brackets to be adjusted in 3 directions.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CDSS230-PO</td><td>Zinc White</td><td>1639/Set</td></tr><tr><td>CDSS235-PO</td><td>Zinc White</td><td>1679/Set</td></tr><tr><td>CDSS240-PO</td><td>Zinc White</td><td>1816/Set</td></tr><tr><td>CDSS245-PO</td><td>Zinc White</td><td>1938/Set</td></tr><tr><td>CDSS250-PO</td><td>Zinc White</td><td>2088/Set</td></tr></tbody></table>"
+        ]
       }
     ]
   },
   "selection-07": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-07",
@@ -270,11 +296,27 @@
           "Led: 120L/mtr",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS6S-412-NW</td><td>Anodized Silver / Anodized Brown</td><td>796/Each</td><tr><tr><td>L-LS6S-562-NW</td><td>Anodized Silver / Anodized Brown</td><td>1079/Each</td><tr><tr><td>L-LS6S-762-NW</td><td>Anodized Silver / Anodized Brown</td><td>1446/Each</td></tr><tr><td>L-LS6S-862-NW</td><td>Anodized Silver / Anodized Brown</td><td>1655/Each</td><tr><tr><td>L-LS6S-962-NW</td><td>Anodized Silver / Anodized Brown</td><td>1844/Each</td><tr><tr><td>L-LS6S-1162-NW</td><td>Anodized Silver / Anodized Brown</td><td>2231/Each</td><tr></tbody></table>"
         ]
+      },
+      {
+        "id": "content-07-02",
+        "prevContent": "selection-07",
+        "title": "Concealed Drawer Slide Slim – 2 Push Open (with Fascia Bracket)",
+        "cardImg": "media-luminor/07-02-01.png",
+        "carouselId": "carousel-07-02",
+        "images": [
+          "media-luminor/07-02-01.png"
+        ],
+        "features": [
+          "Concealed drawer slide slim 2 with facia brackets has in-built PUSH OPEN mechanism.",
+          "This compact model uses minimal space (27mm) below the drawer.",
+          "Flexible 3D adjustment allow facia brackets to be adjusted in 3 directions.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CDSS230-PO</td><td>Zinc White</td><td>1639/Set</td></tr><tr><td>CDSS235-PO</td><td>Zinc White</td><td>1679/Set</td></tr><tr><td>CDSS240-PO</td><td>Zinc White</td><td>1816/Set</td></tr><tr><td>CDSS245-PO</td><td>Zinc White</td><td>1938/Set</td></tr><tr><td>CDSS250-PO</td><td>Zinc White</td><td>2088/Set</td></tr></tbody></table>"
+        ]
       }
     ]
   },
   "selection-08": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-08",
@@ -292,11 +334,27 @@
           "Available in various lengths: 462, 562, 862 & 2000,",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS7-462-NW</td><td>Anodized Silver</td><td>356/Each</td><tr><tr><td>L-LS7-562-NW</td><td>Anodized Silver</td><td>440/Each</td><tr><tr><td>L-LS7-862-NW</td><td>Anodized Silver</td><td>670/Each</td></tr><tr><td>L-LS7-2000-NW</td><td>Anodized Silver</td><td>1540/Each</td><tr></tbody></table>"
         ]
+      },
+      {
+        "id": "content-08-02",
+        "prevContent": "selection-08",
+        "title": "Concealed Drawer Slide Slim – 2 Push Open (with Fascia Bracket)",
+        "cardImg": "media-luminor/08-02-01.png",
+        "carouselId": "carousel-08-02",
+        "images": [
+          "media-luminor/08-02-01.png"
+        ],
+        "features": [
+          "Concealed drawer slide slim 2 with facia brackets has in-built PUSH OPEN mechanism.",
+          "This compact model uses minimal space (27mm) below the drawer.",
+          "Flexible 3D adjustment allow facia brackets to be adjusted in 3 directions.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CDSS230-PO</td><td>Zinc White</td><td>1639/Set</td></tr><tr><td>CDSS235-PO</td><td>Zinc White</td><td>1679/Set</td></tr><tr><td>CDSS240-PO</td><td>Zinc White</td><td>1816/Set</td></tr><tr><td>CDSS245-PO</td><td>Zinc White</td><td>1938/Set</td></tr><tr><td>CDSS250-PO</td><td>Zinc White</td><td>2088/Set</td></tr></tbody></table>"
+        ]
       }
     ]
   },
   "selection-09": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-09",
@@ -323,7 +381,7 @@
     ]
   },
   "selection-10": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-10",
@@ -348,7 +406,7 @@
     ]
   },
   "selection-11": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-11",
@@ -366,11 +424,27 @@
           "Recommended to be used with Livsmart LED strip light-8mm (code: LED-801-NW) - to be purchased separately",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LWSEL-18-AN</td><td>Anodized Brown</td><td>1631/3mtr.</td></tr></tbody></table>"
         ]
+      },
+      {
+        "id": "content-11-02",
+        "prevContent": "selection-11",
+        "title": "Cabinet Shelf Support",
+        "cardImg": "media-luminor/11-02-01.jpg",
+        "carouselId": "carousel-11-02",
+        "images": [
+          "media-luminor/11-02-01.jpg",
+          "media-luminor/11-02-02.jpg"
+        ],
+        "features": [
+          "Easy to use with elegant looks for wood or glass shelves.",
+          "Requires ø5mm drill to fix.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CSS2</td><td>Chrome Plated</td><td>15127/2000pc</td></tr></tbody></table>"
+        ]
       }
     ]
   },
   "selection-12": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-12",
@@ -394,19 +468,19 @@
     ]
   },
   "selection-13": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-13",
         "prevContent": "selection-13",
         "title": "Cove Light Profile with Diffusor",
-        "cardImg": "media-luminor/13-01.jpg",
+        "cardImg": "media-luminor/13-01-01.jpg",
         "carouselId": "carousel-13",
         "images": [
-          "media-luminor/13-01.jpg",
-          "media-luminor/13-02.jpg",
-          "media-luminor/13-03.jpg",
-          "media-luminor/13-04.jpg"
+          "media-luminor/13-01-01.jpg",
+          "media-luminor/13-01-02.jpg",
+          "media-luminor/13-01-03.jpg",
+          "media-luminor/13-01-04.jpg"
         ],
         "features": [
           "Indirect linear lighting for furniture",
@@ -415,11 +489,50 @@
           "To be used with Livsmart LED strip light-5mm (24v) (code: LED-501-NW)",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CLPD1</td><td>Brown / Silver</td><td>3216/Each</td><tr><tr><td>LED-501-NW</td><td>Brown / Silver</td><td>329/1 pc of 3 mtr.</td><tr><tr><td>CLPD1-EC</td><td>Brown / Silver</td><td>39/Pair</td></tr></tbody></table>"
         ]
+      },
+      {
+        "id": "content-13-02",
+        "prevContent": "selection-13",
+        "title": "Door Trigger Sensor (Surface Or Recessed)",
+        "cardImg": "media-luminor/13-02-01.jpg",
+        "carouselId": "carousel-13-02",
+        "images": [
+          "media-luminor/13-02-01.jpg",
+          "media-luminor/13-02-02.jpg"
+        ],
+        "features": [
+          "Add-on attachment to achieve automatic power control with the movement of furniture shutters.",
+          "Ideal for sliding or openable wardrobes, overhead cabinets & drawers, etc.",
+          "Input: 12V/24V DC",
+          "Watt: 60W",
+          "Sensor Trigger Distance: 5 cm",
+          "Compatible with all Ebco LED furniture lights.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>DTS2-2</td><td>White</td><td>1079/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-13-03",
+        "prevContent": "selection-13",
+        "title": "Door Trigger Sensor",
+        "cardImg": "media-luminor/13-03-01.jpg",
+        "carouselId": "carousel-13-03",
+        "images": [
+          "media-luminor/13-03-01.jpg",
+          "media-luminor/13-03-02.jpg"
+        ],
+        "features": [
+          "Door trigger sensor to activate power control with the moment of furniture shutter",
+          "Input: 12V/24V DC",
+          "Watt: 60W",
+          "Sensor distance: 5-8cm",
+          "Compatible with all Ebco LED furniture lights.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>DTS3-2</td><td>-</td><td>1079/Each</td></tr></tbody></table>"
+        ]
       }
     ]
   },
   "selection-14": {
-    "title": "LED Demo",
+    "title": "LED Lights",
     "products": [
       {
         "id": "content-14-01",

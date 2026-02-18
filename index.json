@@ -27,6 +27,21 @@
         "features": [
           "1",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-EMPTY",
+        "prevContent": "selection-EMPTY",
+        "title": "TITLE",
+        "cardImg": "media-foldername/EMPTY-01.jpg",
+        "carouselId": "carousel-EMPTY",
+        "images": [
+          "media-foldername/EMPTY-01.jpg",
+          "media-foldername/EMPTY-02.jpg"
+        ],
+        "features": [
+          "1",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table>"
         ],
         "featuresBOM": [
           "With Images in BOM table: <table><thead><tr><th style='width: 30%;'>Item</th><th style='width: 20%;'>Image</th><th style='width: 17%;'>Code</th><th style='width: 14%;'>Finish</th><th style='width: 08%;'>Qty</th><th style='width: 11%;'>Amount</th></tr></thead><tbody><tr><td>-</td><td><img style='width: 99%;' src='media-foldername/filename' alt='filename'></td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan='5' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ 0,000</td></tr><tr><td colspan='6' style='text-align: end; border: 0px;'>NOTE: The above BOM covers hardware cost only.</td></tr></tbody></table>",
