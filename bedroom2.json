@@ -11,12 +11,6 @@
       "rotation": "0 0 0"
     },
     {
-      "id": "02",
-      "targetContent": "selection-02",
-      "position": "-4.70 3.57 -5.77",
-      "rotation": "0 0 0"
-    },
-    {
       "id": "03",
       "targetContent": "selection-03",
       "position": "-0.10 0.13 -5.70",
@@ -54,6 +48,24 @@
           "Motor capacity: 6000N",
           "Available with a wireless remote controller.",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>PLBF-EMR3-HD</td><td>Anthracite</td><td>27,203/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02",
+        "prevContent": "selection-01-02",
+        "title": "Bed Crossbar - Telescopic",
+        "cardImg": "media-bedroom2/01-02-01.jpg",
+        "carouselId": "carousel-01-02",
+        "images": [
+          "media-bedroom2/01-02-01.jpg",
+          "media-bedroom2/01-02-02.jpg"
+        ],
+        "features": [
+          "Ideal solution to provide support to the center zone of the bed",
+          "The cross-rail support to be lengthened or shortened to support different size beds",
+          "Adjusts in width to accommodate as per different bed sizes",
+          "Can be retrofitted in existing bed frame",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>BC-BT1</td><td>Anthracite</td><td>761/Each</td></tr><tr><td>BC-BT2</td><td>Anthracite</td><td>1033/Each</td></tr></tbody></table>"
         ]
       }
     ]
@@ -94,14 +106,14 @@
     "title": "Bedroom 2",
     "products": [
       {
-        "id": "content-03-01",
+        "id": "content-03-01-01",
         "prevContent": "selection-03",
         "title": "Smart Lift Electric Basic 3",
-        "cardImg": "media-bedroom2/03-01-01.jpg",
-        "carouselId": "carousel-03-01",
+        "cardImg": "media-bedroom2/03-01-01-01.jpg",
+        "carouselId": "carousel-03-01-01",
         "images": [
-          "media-bedroom2/03-01-01.jpg",
-          "media-bedroom2/03-01-02.jpg"
+          "media-bedroom2/03-01-01-01.jpg",
+          "media-bedroom2/03-01-01-02.jpg"
         ],
         "features": [
           "Smart lift with single motor mechanism for smooth height transitions.",
@@ -113,18 +125,84 @@
         ]
       },
       {
-        "id": "content-03-02",
+        "id": "content-03-01-02",
+        "prevContent": "selection-03",
+        "title": "Table Mat",
+        "cardImg": "media-bedroom2/03-01-02-01.jpg",
+        "carouselId": "carousel-03-01-02",
+        "images": [
+          "media-bedroom2/03-01-02-01.jpg",
+          "media-bedroom2/03-01-02-02.jpg"
+        ],
+        "features": [
+          "Experience comfort at workplace.",
+          "Now available in new finish: Navy Blue.",
+          "Protects your desk from scratches, scuffs or spills.",
+          "Right angle and Anti Skid property retains it in position.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>TM-6035</td><td>Black / Blue Navy / Brown</td><td>1540/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-01-03",
+        "prevContent": "selection-03",
+        "title": "Safe Drawer - Top Mount - Double (With Felt Mat)",
+        "cardImg": "media-bedroom2/03-01-03-01.jpg",
+        "carouselId": "carousel-03-01-03",
+        "images": [
+          "media-bedroom2/03-01-03-01.jpg",
+          "media-bedroom2/03-01-03-02.jpg"
+        ],
+        "features": [
+          "Ready to use ceiling mount Safe Drawer - Double made of steel.",
+          "Conveniently designed for storage of laptop in top lockable drawer & stationery items in bottom drawer.",
+          "Available with an option of felt mat.",
+          "Equally suitable to use with regular as well as height adjustable desks (Smart Lifts).",
+          "This complete set of two drawers with slides, mounting bracket and lock can be retro fitted on your existing table.",
+          "Safety mounting brackets ensures that the drawer cannot be removed as long as it is in locked position.",
+          "Maximum laptop size 390 x 270 x 40mm.",
+          "Full extension of drawer 300mm.",
+          "Weight capacity: 30 kg.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>SD-TM1D</td><td>Anthracite</td><td>3658/Set</td></tr><tr><td>SDM-TM1D</td><td>Anthracite</td><td>3947/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-01-04",
+        "prevContent": "selection-03",
+        "title": "Laptop Stand",
+        "cardImg": "media-bedroom2/03-01-04-01.jpg",
+        "carouselId": "carousel-03-01-04",
+        "images": [
+          "media-bedroom2/03-01-04-01.jpg",
+          "media-bedroom2/03-01-04-02.jpg"
+        ],
+        "features": [
+          "This Laptop stand can be used on a table, in the car, on a bed and in the multiple scenarios.",
+          "Ergonomically designed for comfort.",
+          "Lightweight and easy to carry around as per your convenience.",
+          "Anti-Skid pad provided to keep your laptop from sliding off the stand.",
+          "Manufactured out of high grade durable plastic.",
+          "This Laptop stand can be used on a table, in the car, on a bed and in the multiple scenarios.",
+          "Ergonomically designed for comfort.",
+          "Lightweight and easy to carry around as per your convenience.",
+          "Anti-Skid pad provided to keep your laptop from sliding off the stand.",
+          "Ventilation grill feature to prevent the laptop from over-heating.",
+          "Manufactured out of high grade durable plastic.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LTS1</td><td>Anthracite</td><td>503/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-02-01",
         "prevContent": "selection-03",
         "title": "5 Module Electric Box Top Mount",
-        "cardImg": "media-bedroom2/03-02-01.jpg",
-        "carouselId": "carousel-03-02",
+        "cardImg": "media-bedroom2/03-02-01-01.jpg",
+        "carouselId": "carousel-03-02-01",
         "images": [
-          "media-bedroom2/03-02-01.jpg",
-          "media-bedroom2/03-02-02.png",
-          "media-bedroom2/03-02-03.gif",
-          "media-bedroom2/03-02-04.png",
-          "media-bedroom2/03-02-05.jpg",
-          "media-bedroom2/03-02-06.jpg"
+          "media-bedroom2/03-02-01-01.jpg",
+          "media-bedroom2/03-02-01-02.png",
+          "media-bedroom2/03-02-01-03.gif",
+          "media-bedroom2/03-02-01-04.png",
+          "media-bedroom2/03-02-01-05.jpg",
+          "media-bedroom2/03-02-01-06.jpg"
         ],
         "features": [
           "Compact Design With Safe Plastic Construction.",
@@ -136,19 +214,81 @@
         ]
       },
       {
-        "id": "content-03-03",
+        "id": "content-03-02-02",
+        "prevContent": "selection-03",
+        "title": "Electric Box - Slide Out",
+        "cardImg": "media-bedroom2/03-02-02-01.jpg",
+        "carouselId": "carousel-03-02-02",
+        "images": [
+          "media-bedroom2/03-02-02-01.jpg",
+          "media-bedroom2/03-02-02-02.jpg"
+        ],
+        "features": [
+          "This concealed electric box is ideal for any conference table, work desk or counter tops.",
+          "Compact and slim design electric box with a sliding lid that hides sockets when not in use.",
+          "The unit includes Wireless Charger 15W, 2 Universal Power Socket, 2 USB Fast Charger (Type A + Type C) , 1 CAT 6 Socket and 1 HDMI Socket.",
+          "Input Voltage: 110 - 250 V, Power : Max. 2300W",
+          "In-built wireless charger for high end smart phones.",
+          "Dimensions: 350 x 100 x 40 mm",
+          "Desktop Cut-out Size: 340 x 72 mm",
+          "Compatible with handsets only having wireless charging feature.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EBS-SO2</td><td>Silver</td><td>12487/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-02-03",
+        "prevContent": "selection-03",
+        "title": "Electric Box - Edge Mount",
+        "cardImg": "media-bedroom2/03-02-03-01.jpg",
+        "carouselId": "carousel-03-02-03",
+        "images": [
+          "media-bedroom2/03-02-03-01.jpg",
+          "media-bedroom2/03-02-03-02.jpg"
+        ],
+        "features": [
+          "Easy edge mounting electric box is deal for any work desk.",
+          "Easy clamp on mounting makes it flexible to use on any table and mount anywhere you wish.",
+          "The unit includes 2 Universal Power Sockets, 2 USB Fast Charger (Type A + Type C).",
+          "Dimensions: 162 x 63 x 117 mm.",
+          "Power: Max 2300W",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EBS-EM2</td><td>Black</td><td>6558/Set</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-03-01",
         "prevContent": "selection-03",
         "title": "Electric Box",
-        "cardImg": "media-bedroom2/03-03-01.jpg",
-        "carouselId": "carousel-03-03",
+        "cardImg": "media-bedroom2/03-03-01-01.jpg",
+        "carouselId": "carousel-03-03-01",
         "images": [
-          "media-bedroom2/03-03-01.jpg"
+          "media-bedroom2/03-03-01-01.jpg"
         ],
         "features": [
           "An integrated workstation solution to add power connectivity to any desks, conference table for multi device charging, connecting projectors etc",
           "Special lid provided to hide switches when not in use",
           "Soft close optional",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EB-6M</td><td>Anthracite</td><td>1247/Each</td><tr><tr><td>EB-6MSC</td><td>Anthracite</td><td>1387/Each</td><tr><tr><td>EB-6MS</td><td>Anthracite</td><td>1439/Each</td></tr><tr><td>EB-6MSCS</td><td>Anthracite</td><td>1584/Each</td><tr><tr><td>EB-8M</td><td>Anthracite</td><td>1412/Each</td><tr><tr><td>EB-8MSC</td><td>Anthracite</td><td>1557/Each</td><tr><tr><td>EB-8MS</td><td>Anthracite</td><td>1632/Each</td><tr><tr><td>EB-8MSCS</td><td>Anthracite</td><td>1779/Each</td><tr><tr><td>EB-10M</td><td>Anthracite</td><td>1578/Each</td><tr><tr><td>EB-10MSC</td><td>Anthracite</td><td>1722/Each</td><tr><tr><td>EB-10MS</td><td>Anthracite</td><td>1833/Each</td><tr><tr><td>EB-10MSCS</td><td>Anthracite</td><td>1980/Each</td><tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-03-02",
+        "prevContent": "selection-03",
+        "title": "6 Module Electric Box - Top Mount",
+        "cardImg": "media-bedroom2/03-03-02-01.jpg",
+        "carouselId": "carousel-03-03-02",
+        "images": [
+          "media-bedroom2/03-03-02-01.jpg",
+          "media-bedroom2/03-03-02-02.webp",
+          "media-bedroom2/03-03-02-03.webp",
+          "media-bedroom2/03-03-02-04.jpg"
+        ],
+        "features": [
+          "Electrical box designed to be mounted on the surface of a table or desk",
+          "Provide convenient access to electrical outlets",
+          "Output for universal power sockets: Individual capacity of 6A",
+          "Output for USB Chargers: 5V/2.4A, operating voltage of 165V-265V AC",
+          "Cut out dimension: 208 x 71mm",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EB6-TM</td><td>Black</td><td>2598/Each</td></tr></tbody></table>"
         ]
       },
       {
@@ -169,21 +309,74 @@
         ]
       },
       {
-        "id": "content-03-05",
+        "id": "content-03-05-01",
         "prevContent": "selection-03",
         "title": "Cable Organiser - Zinc",
-        "cardImg": "media-bedroom2/03-05-01.png",
-        "carouselId": "carousel-03-05",
+        "cardImg": "media-bedroom2/03-05-01-01.png",
+        "carouselId": "carousel-03-05-01",
         "images": [
-          "media-bedroom2/03-05-01.png",
-          "media-bedroom2/03-05-02.jpg",
-          "media-bedroom2/03-05-03.jpg"
+          "media-bedroom2/03-05-01-01.png",
+          "media-bedroom2/03-05-01-02.jpg",
+          "media-bedroom2/03-05-01-03.jpg"
         ],
         "features": [
           "Helps organize your cables that come through a desk.",
           "Die-cast and zinc plated.",
           "Highly Durable.",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CO60ZN1</td><td>Zinc White</td><td>218/Each</td></tr><tr><td>CO80ZN1</td><td>Zinc White</td><td>287/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-05-02",
+        "prevContent": "selection-03",
+        "title": "Cable Tray Fixed",
+        "cardImg": "media-bedroom2/03-05-02-01.jpg",
+        "carouselId": "carousel-03-05-02",
+        "images": [
+          "media-bedroom2/03-05-02-01.jpg"
+        ],
+        "features": [
+          "Ideal cable collector for the work desk.",
+          "Can apply on new as well as existing tables.",
+          "2 Way mounting possible as per convenience.",
+          "2 Finishes - Anthracite and White Texture.",
+          "System 32 holes provided.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CTF-1</td><td>Anthracite / White Texture</td><td>453/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-05-03",
+        "prevContent": "selection-03",
+        "title": "Vertebrae (Rectangular)",
+        "cardImg": "media-bedroom2/03-05-03-01.png",
+        "carouselId": "carousel-03-05-03",
+        "images": [
+          "media-bedroom2/03-05-03-01.png",
+          "media-bedroom2/03-05-03-02.jpg"
+        ],
+        "features": [
+          "Used at work stations or desks to neatly conceal electrical and data cables separately.",
+          "It enhances the aesthetics of your work space.",
+          "Manufactured out of plastic and is flexible.",
+          "System 32 compatible.",
+          "Includes a built-in counter weight at base.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>VR2</td><td>White / Grey / Black</td><td>538/Each</td></tr><tr><td>VR13</td><td>White / Grey / Black</td><td>708/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-05-04",
+        "prevContent": "selection-03",
+        "title": "Cabinet Shelf Support",
+        "cardImg": "media-bedroom2/03-05-04-01.jpg",
+        "carouselId": "carousel-03-05-04",
+        "images": [
+          "media-bedroom2/03-05-04-01.jpg",
+          "media-bedroom2/03-05-04-02.jpg"
+        ],
+        "features": [
+          "Easy to use with elegant looks for wood or glass shelves.",
+          "Requires ø5mm drill to fix.",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><tdCSS2</td><td>Chrome Plated</td><td15127/2000pc</td></tr></tbody></table>"
         ]
       },
       {
@@ -210,15 +403,15 @@
         ]
       },
       {
-        "id": "content-03-07",
+        "id": "content-03-07-01",
         "prevContent": "selection-03",
         "title": "Electric Box with Cable Manager 3",
-        "cardImg": "media-bedroom2/03-07-01.jpg",
-        "carouselId": "carousel-03-07",
+        "cardImg": "media-bedroom2/03-07-01-01.jpg",
+        "carouselId": "carousel-03-07-01",
         "images": [
-          "media-bedroom2/03-07-01.jpg",
-          "media-bedroom2/03-07-02.png",
-          "media-bedroom2/03-07-03.png"
+          "media-bedroom2/03-07-01-01.jpg",
+          "media-bedroom2/03-07-01-02.png",
+          "media-bedroom2/03-07-01-03.png"
         ],
         "features": [
           "Ideal electric box for furniture in offices, conference/meeting rooms, institution, and home applications.",
@@ -228,6 +421,26 @@
           "This compact fitting comes with a special lid that hides the socket when not in use.",
           "Keeps your cable organized thereby providing clear access to the data/power sockets.",
           "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>EBCM3</td><td>Black / White</td><td>1418/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-03-07-02",
+        "prevContent": "selection-03-07-02",
+        "title": "Sleek Telescopic Drawer Slide 35 - Soft Close",
+        "cardImg": "media-bedroom2/03-07-02-01.jpg",
+        "carouselId": "carousel-03-07-02",
+        "images": [
+          "media-bedroom2/03-07-02-01.jpg"
+        ],
+        "features": [
+          "Precision telescopic slides",
+          "Soft closing function built in slide, easy for installation.",
+          "Full extension of drawer",
+          "Load capacity : 35 Kgs",
+          "Direct fitting from the front",
+          "Removable drawer with Latch",
+          "System 32 Installation",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>STDS30-35-SC</td><td>Zinc White</td><td>718/Set of 2pcs.</td></tr><tr><td>STDS35-35-SC</td><td>Zinc White</td><td>792/Set of 2pcs.</td></tr><tr><td>STDS40-35-SC</td><td>Zinc White</td><td>866/Set of 2pcs.</td></tr><tr><td>STDS45-35-SC</td><td>Zinc White</td><td>944/Set of 2pcs.</td></tr><tr><td>STDS50-35-SC</td><td>Zinc White</td><td>1018/Set of 2pcs.</td></tr><tr><td>STDS55-35-SC</td><td>Zinc White</td><td>1109/Set of 2pcs.</td></tr><tr><td>STDS60-35-SC</td><td>Zinc White</td><td>1182/Set of 2pcs.</td></tr></tbody></table>"
         ]
       },
       {
@@ -311,22 +524,56 @@
     "title": "Bedroom 2",
     "products": [
       {
-        "id": "content-04",
+        "id": "content-04-01",
         "prevContent": "selection-04",
         "title": "Hi Slide Walk-In Sliding System",
-        "cardImg": "media-bedroom2/04-01.jpg",
-        "carouselId": "carousel-04",
+        "cardImg": "media-bedroom2/04-01-01.jpg",
+        "carouselId": "carousel-04-01",
         "images": [
-          "media-bedroom2/04-01.jpg",
-          "media-bedroom2/04-02.jpg",
-          "media-bedroom2/04-03.jpg"
+          "media-bedroom2/04-01-01.jpg",
+          "media-bedroom2/04-01-02.jpg",
+          "media-bedroom2/04-01-03.jpg"
         ],
         "features": [
           "Floor to ceiling sliding system which are light (to use build 9mm panels), effortless silent sliding has soft close, soft open feature.",
           "Modular and highly flexible in terms of design, to use multiple panels of wood or glass to suit the décor.",
           "Superior design with 2 way soft close ensures high strength & smooth functioning.",
           "Quick & hassle free installation.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>HSWSS-BR1</td><td>Nickel Plated</td><td>348/Set of 2</td></tr><tr><td>HSWSS-BR2-HD</td><td>Nickel Plated</td><td>679/Set of 2</td></tr><tr><td>HSWSS-SCK-40</td><td>Grey</td><td>1747/Set of 2</td></tr><tr><td>HSWSS-SCK-90</td><td>Grey</td><td>1747/Set of 2</td></tr><tr><td>HSWSS-CSCK-50</td><td>Grey</td><td>2085/Set</td></tr><tr><td>HSWSS-ODSCK-50</td><td>Grey</td><td>1697/Set</td></tr><tr><td>HSWSS-TGT-3M-AB</td><td>Anodized Black</td><td>3071/3mtr</td></tr><tr><td>HSWSS-BTC-3M-AB</td><td>Anodized Black</td><td>1760/3mtr</td></tr><tr><td>HSWSS-SPTM-3M-AB</td><td>Anodized Black</td><td>1356/3mtr</td></tr><tr><td>HSWSS-BP-3M-AB</td><td>Anodized Black</td><td>2275/3mtr</td></tr><tr><td>HSWSS-SPV-3M-AB</td><td>Anodized Black</td><td>2290/3mtr</td></tr><tr><td>HSWSS-SPV-36-AB</td><td>Anodized Black</td><td>2794/3.66mtr</td></tr><tr><td>HSWSS-SPVHHD-3M-AB</td><td>Anodized Black</td><td>3691/3mtr</td></tr><tr><td>HSWSS-SPVH-3M-AB</td><td>Anodized Black</td><td>2938/3mtr</td></tr><tr><td>HSWSS-SPVH-36-AB</td><td>Anodized Black</td><td>3584/3.66mtr</td></tr><tr><td>HSWSS-TGT-3M-SF</td><td>Special Finish</td><td>4256/3mtr</td></tr><tr><td>HSWSS-BTC-3M-SF</td><td>Special Finish</td><td>2404/3mtr</td></tr><tr><td>HSWSS-SPTM-3M-SF</td><td>Special Finish</td><td>1766/3mtr</td></tr><tr><td>HSWSS-BP-3M-SF</td><td>Special Finish</td><td>2876/3mtr</td></tr><tr><td>HSWSS-SPV-3M-SF</td><td>Special Finish</td><td>2994/3mtr</td></tr><tr><td>HSWSS-SPV-36-SF</td><td>Special Finish</td><td>3651/3.66mtr</td></tr><tr><td>HSWSS-SPVHHD-3M-SF</td><td>Special Finish</td><td>4378/3mtr</td></tr><tr><td>HSWSS-SPVH-3M-SF</td><td>Special Finish</td><td>3651/3mtr</td></tr><tr><td>HSWSS-SPVH-36-SF</td><td>Special Finish</td><td>4456/3.66mtr</td></tr><tr><td>HSWSS-TGT-3M-CH/BG</td><td>Champagne / Brushed Gold </td><td>4082/3mtr</td></tr><tr><td>HSWSS-BTC-3M-CH/BG</td><td>Champagne / Brushed Gold </td><td>2275/3mtr</td></tr><tr><td>HSWSS-SPTM-3M-CH/BG</td><td>Champagne / Brushed Gold </td><td>1685/3mtr</td></tr><tr><td>HSWSS-BP-3M-CP/CH/BG</td><td>Chrome Plated / Champagne / Brushed Gold </td><td>2754/3mtr</td></tr><tr><td>HSWSS-SPV-3M</td><td>Champagne / Brushed Gold</td><td>2852/3mtr</td></tr><tr><td>HSWSS-SPV-36-BG</td><td>Brushed Gold</td><td>3481/3.66mtr</td></tr><tr><td>HSWSS-SPVHHD-3M</td><td>Champagne / Brushed Gold</td><td>4207/3mtr.</td></tr><tr><td>HSWSS-SPVH-3M-CH/BG</td><td>Champagne / Brushed Gold </td><td>3511/3mtr</td></tr><tr><td>HSWSS-SPVH-36-BG</td><td>Brushed Gold</td><td>4284/3.66mtr</td></tr><tr><td>HSWSS-SL4</td><td>Clear </td><td>45/3mtr.</td></tr><tr><td>HSWSS-ST640  </td><td>Nickel Plated</td><td>519 /100pc</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-04-02",
+        "prevContent": "selection-04",
+        "title": "Walk-in Sliding Push Lock - Glass / Wood",
+        "cardImg": "media-bedroom2/04-02-01.jpg",
+        "carouselId": "carousel-04-02",
+        "images": [
+          "media-bedroom2/04-02-01.jpg",
+          "media-bedroom2/04-02-02.jpg"
+        ],
+        "features": [
+          "Specially designed lock for the Walk-in Sliding wood and glass Shutters.",
+          "Compatible to use with shutter profile vertical handle (HSWSS-SPVH)",
+          "Glass THK.: 4mm & Wood THK.: 9mm",
+          "Finish : Champagne Gold / Brushed Gold / Special Finish",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>P-WSPL-GW</td><td>Black / Champagne Gold / Brushed Gold / Special Finish</td><td>440/Each</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-04-03",
+        "prevContent": "selection-04",
+        "title": "Walk-in Sliding Push Lock - Aluminum",
+        "cardImg": "media-bedroom2/04-03-01.jpg",
+        "carouselId": "carousel-04-03",
+        "images": [
+          "media-bedroom2/04-03-01.jpg",
+          "media-bedroom2/04-03-02.jpg"
+        ],
+        "features": [
+          "Specially designed lock for the Walk-in Sliding Shutters profile vertical handle (HSWSS-SPVH)",
+          "Finishes: Champagne Gold / Brushed Gold / Special Finish",
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>P-WSPL-AL</td><td>Black / Champagne Gold / Brushed Gold / Special Finish</td><td>421/Each</td></tr></tbody></table>"
         ]
       }
     ]
