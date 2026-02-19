@@ -24,7 +24,7 @@
     }
   ],
   "selection-01": {
-    "title": "Bedroom 2",
+    "title": "Bedroom",
     "products": [
       {
         "id": "content-01",
@@ -71,7 +71,7 @@
     ]
   },
   "selection-02": {
-    "title": "Bedroom 2",
+    "title": "Bedroom",
     "products": [
       {
         "id": "content-02",
@@ -103,7 +103,7 @@
     ]
   },
   "selection-03": {
-    "title": "Bedroom 2",
+    "title": "Bedroom",
     "products": [
       {
         "id": "content-03-01-01",
@@ -521,7 +521,7 @@
     ]
   },
   "selection-04": {
-    "title": "Bedroom 2",
+    "title": "Bedroom",
     "products": [
       {
         "id": "content-04-01",
