@@ -107,7 +107,7 @@
           "Suitable for residences, commercial offices, Retail outlets & showrooms, etc.",
           "Color temperature: 4000K (NW)",
           "LED type: CRI 80+.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LR9-412</td><td>Anodized Silver</td><td>687/Each</td><tr><tr><td>L-LR9-562</td><td>Anodized Silver</td><td>939/Each</td><tr><tr><td>L-LR9-862</td><td>Anodized Silver</td><td>1435/Each</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>L-LR9-412</td><td>Anodized Silver</td><td>687/Each</td><tr><tr><td>L-LR9-562</td><td>Anodized Silver</td><td>939/Each</td><tr><tr><td>L-LR9-862</td><td>Anodized Silver</td><td>1435/Each</td></tr></tbody></table>"
         ]
       }
     ]
@@ -134,7 +134,7 @@
           "CRI: Ra 80+",
           "Watt: 11.52w/mtr.",
           "Led: 144L/mtr.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LSE18-412-NW</td><td>Anodized Silver / Anodized Brown</td><td>1404/Each</td><tr><tr><td>L-LSE18-562-NW </td><td>Anodized Silver / Anodized Brown</td><td>1907/Each</td><tr><tr><td>L-LSE18-862-NW</td><td>Anodized Silver / Anodized Brown</td><td>2923/Each</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>L-LSE18-412-NW</td><td>Anodized Silver / Anodized Brown</td><td>1404/Each</td><tr><tr><td>L-LSE18-562-NW </td><td>Anodized Silver / Anodized Brown</td><td>1907/Each</td><tr><tr><td>L-LSE18-862-NW</td><td>Anodized Silver / Anodized Brown</td><td>2923/Each</td></tr></tbody></table>"
         ]
       }
     ]
@@ -160,7 +160,7 @@
           "CRI: Ra 80+",
           "Watt: 14.4w/mtr",
           "Led: 120L/mtr.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-L2G8-412</td><td>Anodized Silver</td><td>999/Each</td><tr><tr><td>L-L2G8-562</td><td>Anodized Silver</td><td>1362/Each</td><tr><tr><td>L-L2G8-862</td><td>Anodized Silver</td><td>2091/Each</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>L-L2G8-412</td><td>Anodized Silver</td><td>999/Each</td><tr><tr><td>L-L2G8-562</td><td>Anodized Silver</td><td>1362/Each</td><tr><tr><td>L-L2G8-862</td><td>Anodized Silver</td><td>2091/Each</td></tr></tbody></table>"
         ]
       },
       {
@@ -176,7 +176,7 @@
         "features": [
           "Easy to use with elegant looks for wood or glass shelves.",
           "Requires ø5mm drill to fix.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>GSS2-NP</td><td>Nickel Plated</td><td>11628/1000pc</td></tr><tr><td>GSS2-TN</td><td>Titanium</td><td>11900/1000pc</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>GSS2-NP</td><td>Nickel Plated</td><td>11628/1000pc</td></tr><tr><td>GSS2-TN</td><td>Titanium</td><td>11900/1000pc</td></tr></tbody></table>"
         ]
       }
     ]
@@ -200,7 +200,7 @@
           "Suitable for Residence, commercial offices, retail outlets, etc.",
           "Multi-functional neutral white LED lighting for simultaneously used for niches and shelves.",
           "Door trigger two-part sensor to achieve automatic power control with the movement of furniture shutters.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-L218A-412</td><td>Anodized Silver</td><td>1938/Each</td><tr><tr><td>L-L218A-562</td><td>Anodized Silver</td><td>2661/Each</td><tr><tr><td>L-L218A-862</td><td>Anodized Silver</td><td>4100/Each</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>L-L218A-412</td><td>Anodized Silver</td><td>1938/Each</td><tr><tr><td>L-L218A-562</td><td>Anodized Silver</td><td>2661/Each</td><tr><tr><td>L-L218A-862</td><td>Anodized Silver</td><td>4100/Each</td></tr></tbody></table>"
         ]
       }
     ]
@@ -222,7 +222,7 @@
           "Invisible, concealed, touch-capacitive sensor that transforms furniture surfaces into smart, dimmable light controls.",
           "Control mode : Dimming / ON / OFF",
           "Capacity : 60W",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>ITDS-3</td><td>-</td><td>1045/Each</td><tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>ITDS-3</td><td>-</td><td>1045/Each</td><tr></tbody></table>"
         ]
       }
     ]
@@ -251,7 +251,7 @@
           "CRI: Ra 80+",
           "Watt: 14.4w/mtr",
           "Led: 120L/mtr",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS5IRS-412-NW</td><td>Anodized Silver</td><td>1980/Each</td><tr><tr><td>L-LS5IRS-562-NW</td><td>Anodized Silver</td><td>2692/Each</td><tr><tr><td>L-LS5IRS-862-NW</td><td>Anodized Silver</td><td>4138/Each</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>L-LS5IRS-412-NW</td><td>Anodized Silver</td><td>1980/Each</td><tr><tr><td>L-LS5IRS-562-NW</td><td>Anodized Silver</td><td>2692/Each</td><tr><tr><td>L-LS5IRS-862-NW</td><td>Anodized Silver</td><td>4138/Each</td></tr></tbody></table>"
         ]
       },
       {
@@ -267,7 +267,7 @@
           "Concealed drawer slide slim 2 with facia brackets has in-built PUSH OPEN mechanism.",
           "This compact model uses minimal space (27mm) below the drawer.",
           "Flexible 3D adjustment allow facia brackets to be adjusted in 3 directions.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CDSS230-PO</td><td>Zinc White</td><td>1639/Set</td></tr><tr><td>CDSS235-PO</td><td>Zinc White</td><td>1679/Set</td></tr><tr><td>CDSS240-PO</td><td>Zinc White</td><td>1816/Set</td></tr><tr><td>CDSS245-PO</td><td>Zinc White</td><td>1938/Set</td></tr><tr><td>CDSS250-PO</td><td>Zinc White</td><td>2088/Set</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>CDSS230-PO</td><td>Zinc White</td><td>1639/Set</td></tr><tr><td>CDSS235-PO</td><td>Zinc White</td><td>1679/Set</td></tr><tr><td>CDSS240-PO</td><td>Zinc White</td><td>1816/Set</td></tr><tr><td>CDSS245-PO</td><td>Zinc White</td><td>1938/Set</td></tr><tr><td>CDSS250-PO</td><td>Zinc White</td><td>2088/Set</td></tr></tbody></table>"
         ]
       }
     ]
@@ -294,7 +294,7 @@
           "CRI: Ra 80+",
           "Watt: 14.4w/mtr",
           "Led: 120L/mtr",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS6S-412-NW</td><td>Anodized Silver / Anodized Brown</td><td>796/Each</td><tr><tr><td>L-LS6S-562-NW</td><td>Anodized Silver / Anodized Brown</td><td>1079/Each</td><tr><tr><td>L-LS6S-762-NW</td><td>Anodized Silver / Anodized Brown</td><td>1446/Each</td></tr><tr><td>L-LS6S-862-NW</td><td>Anodized Silver / Anodized Brown</td><td>1655/Each</td><tr><tr><td>L-LS6S-962-NW</td><td>Anodized Silver / Anodized Brown</td><td>1844/Each</td><tr><tr><td>L-LS6S-1162-NW</td><td>Anodized Silver / Anodized Brown</td><td>2231/Each</td><tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>L-LS6S-412-NW</td><td>Anodized Silver / Anodized Brown</td><td>796/Each</td><tr><tr><td>L-LS6S-562-NW</td><td>Anodized Silver / Anodized Brown</td><td>1079/Each</td><tr><tr><td>L-LS6S-762-NW</td><td>Anodized Silver / Anodized Brown</td><td>1446/Each</td></tr><tr><td>L-LS6S-862-NW</td><td>Anodized Silver / Anodized Brown</td><td>1655/Each</td><tr><tr><td>L-LS6S-962-NW</td><td>Anodized Silver / Anodized Brown</td><td>1844/Each</td><tr><tr><td>L-LS6S-1162-NW</td><td>Anodized Silver / Anodized Brown</td><td>2231/Each</td><tr></tbody></table>"
         ]
       },
       {
@@ -310,7 +310,7 @@
           "Concealed drawer slide slim 2 with facia brackets has in-built PUSH OPEN mechanism.",
           "This compact model uses minimal space (27mm) below the drawer.",
           "Flexible 3D adjustment allow facia brackets to be adjusted in 3 directions.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CDSS230-PO</td><td>Zinc White</td><td>1639/Set</td></tr><tr><td>CDSS235-PO</td><td>Zinc White</td><td>1679/Set</td></tr><tr><td>CDSS240-PO</td><td>Zinc White</td><td>1816/Set</td></tr><tr><td>CDSS245-PO</td><td>Zinc White</td><td>1938/Set</td></tr><tr><td>CDSS250-PO</td><td>Zinc White</td><td>2088/Set</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>CDSS230-PO</td><td>Zinc White</td><td>1639/Set</td></tr><tr><td>CDSS235-PO</td><td>Zinc White</td><td>1679/Set</td></tr><tr><td>CDSS240-PO</td><td>Zinc White</td><td>1816/Set</td></tr><tr><td>CDSS245-PO</td><td>Zinc White</td><td>1938/Set</td></tr><tr><td>CDSS250-PO</td><td>Zinc White</td><td>2088/Set</td></tr></tbody></table>"
         ]
       }
     ]
@@ -332,7 +332,7 @@
           "Ideal for indirect, cove lighting, etc",
           "Suitable to fit in any under cabinet kitchen lighting, commercial offices, retail outlets, etc",
           "Available in various lengths: 462, 562, 862 & 2000,",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LS7-462-NW</td><td>Anodized Silver</td><td>356/Each</td><tr><tr><td>L-LS7-562-NW</td><td>Anodized Silver</td><td>440/Each</td><tr><tr><td>L-LS7-862-NW</td><td>Anodized Silver</td><td>670/Each</td></tr><tr><td>L-LS7-2000-NW</td><td>Anodized Silver</td><td>1540/Each</td><tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>L-LS7-462-NW</td><td>Anodized Silver</td><td>356/Each</td><tr><tr><td>L-LS7-562-NW</td><td>Anodized Silver</td><td>440/Each</td><tr><tr><td>L-LS7-862-NW</td><td>Anodized Silver</td><td>670/Each</td></tr><tr><td>L-LS7-2000-NW</td><td>Anodized Silver</td><td>1540/Each</td><tr></tbody></table>"
         ]
       },
       {
@@ -348,7 +348,7 @@
           "Concealed drawer slide slim 2 with facia brackets has in-built PUSH OPEN mechanism.",
           "This compact model uses minimal space (27mm) below the drawer.",
           "Flexible 3D adjustment allow facia brackets to be adjusted in 3 directions.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CDSS230-PO</td><td>Zinc White</td><td>1639/Set</td></tr><tr><td>CDSS235-PO</td><td>Zinc White</td><td>1679/Set</td></tr><tr><td>CDSS240-PO</td><td>Zinc White</td><td>1816/Set</td></tr><tr><td>CDSS245-PO</td><td>Zinc White</td><td>1938/Set</td></tr><tr><td>CDSS250-PO</td><td>Zinc White</td><td>2088/Set</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>CDSS230-PO</td><td>Zinc White</td><td>1639/Set</td></tr><tr><td>CDSS235-PO</td><td>Zinc White</td><td>1679/Set</td></tr><tr><td>CDSS240-PO</td><td>Zinc White</td><td>1816/Set</td></tr><tr><td>CDSS245-PO</td><td>Zinc White</td><td>1938/Set</td></tr><tr><td>CDSS250-PO</td><td>Zinc White</td><td>2088/Set</td></tr></tbody></table>"
         ]
       }
     ]
@@ -375,7 +375,7 @@
           "Opaline Finish.",
           "Two way light",
           "Ideal for shelfs, 5-year warranty",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LUM13W</td><td>Opaline</td><td>834/1 pc. of 3 mtr.</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>LUM13W</td><td>Opaline</td><td>834/1 pc. of 3 mtr.</td></tr></tbody></table>"
         ]
       }
     ]
@@ -400,7 +400,7 @@
           "Opaline Finish",
           "Two way light.",
           "Led strip to be purchased separately.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LUM12G</td><td>Opaline</td><td>834/1 pc. of 3 mtr.</td><tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>LUM12G</td><td>Opaline</td><td>834/1 pc. of 3 mtr.</td><tr></tbody></table>"
         ]
       }
     ]
@@ -422,7 +422,7 @@
           "For 18mm thick wooden shelf edge mount application",
           "Length of the light can be customized as per the requirement",
           "Recommended to be used with Livsmart LED strip light-8mm (code: LED-801-NW) - to be purchased separately",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LWSEL-18-AN</td><td>Anodized Brown</td><td>1631/3mtr.</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>LWSEL-18-AN</td><td>Anodized Brown</td><td>1631/3mtr.</td></tr></tbody></table>"
         ]
       },
       {
@@ -438,7 +438,7 @@
         "features": [
           "Easy to use with elegant looks for wood or glass shelves.",
           "Requires ø5mm drill to fix.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CSS2</td><td>Chrome Plated</td><td>15127/2000pc</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>CSS2</td><td>Chrome Plated</td><td>15127/2000pc</td></tr></tbody></table>"
         ]
       }
     ]
@@ -462,7 +462,7 @@
           "Lengths (Power):  412mm(4.8Watt), 562mm(6.5Watt), 862mm(10Watt)",
           "Color temperature: 4000K (NW)",
           "LED type: CRI 80+.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>L-LR9-412</td><td>Anodized Silver</td><td>687/Each</td><tr><tr><td>L-LR9-562</td><td>Anodized Silver</td><td>939/Each</td><tr><tr><td>L-LR9-862</td><td>Anodized Silver</td><td>1435/Each</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>L-LR9-412</td><td>Anodized Silver</td><td>687/Each</td><tr><tr><td>L-LR9-562</td><td>Anodized Silver</td><td>939/Each</td><tr><tr><td>L-LR9-862</td><td>Anodized Silver</td><td>1435/Each</td></tr></tbody></table>"
         ]
       }
     ]
@@ -487,7 +487,7 @@
           "Recessed installation in wooden panel",
           "Customizable length as per requirement",
           "To be used with Livsmart LED strip light-5mm (24v) (code: LED-501-NW)",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CLPD1</td><td>Brown / Silver</td><td>3216/Each</td><tr><tr><td>LED-501-NW</td><td>Brown / Silver</td><td>329/1 pc of 3 mtr.</td><tr><tr><td>CLPD1-EC</td><td>Brown / Silver</td><td>39/Pair</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>CLPD1</td><td>Brown / Silver</td><td>3216/Each</td><tr><tr><td>LED-501-NW</td><td>Brown / Silver</td><td>329/1 pc of 3 mtr.</td><tr><tr><td>CLPD1-EC</td><td>Brown / Silver</td><td>39/Pair</td></tr></tbody></table>"
         ]
       },
       {
@@ -507,7 +507,7 @@
           "Watt: 60W",
           "Sensor Trigger Distance: 5 cm",
           "Compatible with all Ebco LED furniture lights.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>DTS2-2</td><td>White</td><td>1079/Each</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>DTS2-2</td><td>White</td><td>1079/Each</td></tr></tbody></table>"
         ]
       },
       {
@@ -526,7 +526,7 @@
           "Watt: 60W",
           "Sensor distance: 5-8cm",
           "Compatible with all Ebco LED furniture lights.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>DTS3-2</td><td>-</td><td>1079/Each</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>DTS3-2</td><td>-</td><td>1079/Each</td></tr></tbody></table>"
         ]
       }
     ]
@@ -550,7 +550,7 @@
           "Perfect for elevating any modern, minimalist space, thanks to its minimal-gap design and fully concealed hardware that creates a clean, seamless look.",
           "Door weight: ≤ 80kg",
           "Ideal for open plan spaces like living room, kitchen, walk-in wardrobes, space dividers.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>LSPSS-80A-L-SC-TN</td><td>Titanium</td><td>-</td><tr><tr><td>LSPSS-80A-R-SC-TN</td><td>Titanium</td><td>-</td><tr><tr><td>LSPSS-SC-URTT-AB</td><td>Anodized Black</td><td>-</td></tr><tr><td>LSPSS-SC-URMC-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-URSC-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-UP-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-VP-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-BP-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-VPS</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-VPSC-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-S</td><td>Black</td><td>-</td><tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>MRP (in ₹ )</th></tr></thead><tbody><tr><td>LSPSS-80A-L-SC-TN</td><td>Titanium</td><td>-</td><tr><tr><td>LSPSS-80A-R-SC-TN</td><td>Titanium</td><td>-</td><tr><tr><td>LSPSS-SC-URTT-AB</td><td>Anodized Black</td><td>-</td></tr><tr><td>LSPSS-SC-URMC-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-URSC-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-UP-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-VP-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-BP-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-VPS</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-VPSC-AB</td><td>Anodized Black</td><td>-</td><tr><tr><td>LSPSS-SC-S</td><td>Black</td><td>-</td><tr></tbody></table>"
         ]
       }
     ]
