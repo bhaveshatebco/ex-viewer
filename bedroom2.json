@@ -52,7 +52,7 @@
       },
       {
         "id": "content-01-02",
-        "prevContent": "selection-01-02",
+        "prevContent": "selection-01",
         "title": "Bed Crossbar - Telescopic",
         "cardImg": "media-bedroom2/01-02-01.jpg",
         "carouselId": "carousel-01-02",
@@ -330,10 +330,10 @@
         "id": "content-03-05-02",
         "prevContent": "selection-03",
         "title": "Cable Tray Fixed",
-        "cardImg": "media-bedroom2/03-05-02-01.jpg",
+        "cardImg": "media-bedroom2/03-05-02-01.png",
         "carouselId": "carousel-03-05-02",
         "images": [
-          "media-bedroom2/03-05-02-01.jpg"
+          "media-bedroom2/03-05-02-01.png"
         ],
         "features": [
           "Ideal cable collector for the work desk.",
@@ -376,7 +376,7 @@
         "features": [
           "Easy to use with elegant looks for wood or glass shelves.",
           "Requires ø5mm drill to fix.",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><tdCSS2</td><td>Chrome Plated</td><td15127/2000pc</td></tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>CSS2</td><td>Chrome Plated</td><td>15127/2000pc</td></tr></tbody></table>"
         ]
       },
       {
@@ -399,7 +399,7 @@
           "NFC ACCESS : Assign up to 2 admins and 98 users",
           "FINGERPRINT ACCESS : Assign up to 2 admins and 48 users",
           "Power : 6V DC for 4 AA (1.5V) batteries",
-          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>ESDL2-HR-FNN</td><td>Black</td><td>-</td><tr><tr><td>ESDL2-HL-FNN</td><td>Black</td><td>3845/Each</td><tr><tr><td>ESDL2-NFC-AC1</td><td>-</td><td>101/Each</td></tr><tr><td>ESDL2-NFC-UC1</td><td>-</td><td>101/Each</td><tr></tbody></table>"
+          "<table><thead><tr><th>ItemCode</th><th>Finish</th><th>Price</th></tr></thead><tbody><tr><td>ESDL2-HR-FNN</td><td>Black</td><td>3845/Each</td><tr><tr><td>ESDL2-HL-FNN</td><td>Black</td><td>3845/Each</td><tr><tr><td>ESDL2-NFC-AC1</td><td>-</td><td>101/Each</td></tr><tr><td>ESDL2-NFC-UC1</td><td>-</td><td>101/Each</td><tr></tbody></table>"
         ]
       },
       {
@@ -425,7 +425,7 @@
       },
       {
         "id": "content-03-07-02",
-        "prevContent": "selection-03-07-02",
+        "prevContent": "selection-03",
         "title": "Sleek Telescopic Drawer Slide 35 - Soft Close",
         "cardImg": "media-bedroom2/03-07-02-01.jpg",
         "carouselId": "carousel-03-07-02",
