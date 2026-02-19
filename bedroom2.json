@@ -13,7 +13,7 @@
     {
       "id": "03",
       "targetContent": "selection-03",
-      "position": "-0.10 0.13 -5.70",
+      "position": "4.00 0.33 -5.70",
       "rotation": "0 0 0"
     },
     {
@@ -531,8 +531,7 @@
         "carouselId": "carousel-04-01",
         "images": [
           "media-bedroom2/04-01-01.jpg",
-          "media-bedroom2/04-01-02.jpg",
-          "media-bedroom2/04-01-03.jpg"
+          "media-bedroom2/04-01-02.jpg"
         ],
         "features": [
           "Floor to ceiling sliding system which are light (to use build 9mm panels), effortless silent sliding has soft close, soft open feature.",
