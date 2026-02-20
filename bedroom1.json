@@ -49,7 +49,7 @@
     {
       "id": "11",
       "targetContent": "selection-11",
-      "position": "6.50 3.00 -6.00",
+      "position": "4.10 3.00 -3.70",
       "rotation": "0 0 0"
     },    
     {
@@ -69,7 +69,11 @@
         "cardImg": "media-bedroom1/09-01-01.webp",
         "carouselId": "carousel-09-01",
         "images": [
-          "media-bedroom1/09-01-01.webp"
+          "media-bedroom1/09-01-01.webp",
+          "media-bedroom1/09-01-01-01.jpg",
+          "media-bedroom1/09-01-01-02.jpg",
+          "media-bedroom1/09-01-01-03.jpg",
+          "media-bedroom1/09-01-01-04.jpg"
         ],
         "features": [
           "Smart 2-in-1 design: Sofa by day, full-sized bed by night.",
@@ -111,8 +115,7 @@
         "cardImg": "media-bedroom1/09-02-02-01.jpg",
         "carouselId": "carousel-09-02-02",
         "images": [
-          "media-bedroom1/09-02-02-01.jpg",
-          "media-bedroom1/09-02-02-02.jpg"
+          "media-bedroom1/09-02-02-01.jpg"
         ],
         "features": [
           "Easy to use with elegant looks for wood or glass shelves.",
@@ -274,7 +277,7 @@
       {
         "id": "content-11-01-01",
         "prevContent": "selection-11",
-        "title": "Pocket Door Wardrobe",
+        "title": "Wardrobe Pocket Door System",
         "cardImg": "media-bedroom1/11-01-01-01.jpg",
         "carouselId": "carousel-11-01-01",
         "images": [
@@ -300,9 +303,10 @@
         "id": "content-11-01-02",
         "prevContent": "selection-11",
         "title": "Door Stiffener HD",
-        "cardImg": "media-bedroom1/11-01-02-01.png",
+        "cardImg": "media-bedroom1/11-01-02-02.jpg",
         "carouselId": "carousel-11-01-02", 
         "images": [
+          "media-bedroom1/11-01-02-02.jpg",
           "media-bedroom1/11-01-02-01.png"
         ],
         "features": [

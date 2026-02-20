@@ -34,11 +34,6 @@
         "carouselId": "carousel-01",
         "images": [
           "media-bedroom2/01-01.jpg",
-          "media-bedroom2/01-01-01.jpg",
-          "media-bedroom2/01-01-02.jpg",
-          "media-bedroom2/01-01-03.jpg",
-          "media-bedroom2/01-01-04.jpg",
-          "media-bedroom2/01-01-05.jpg",
           "media-bedroom2/01-02.jpg"
         ],
         "features": [
@@ -262,7 +257,7 @@
       {
         "id": "content-03-03-01",
         "prevContent": "selection-03",
-        "title": "Electric Box",
+        "title": "Electric Box 6 Module Shield",
         "cardImg": "media-bedroom2/03-03-01-01.jpg",
         "carouselId": "carousel-03-03-01",
         "images": [

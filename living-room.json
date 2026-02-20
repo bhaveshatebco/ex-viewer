@@ -124,12 +124,11 @@
       {
         "id": "content-02-03",
         "prevContent": "selection-02",
-        "title": "Cabinet / Glass Shelf Support",
+        "title": "Glass Shelf Support",
         "cardImg": "media-living-room/02-03-01.jpg",
         "carouselId": "carousel-02-03",
         "images": [
-          "media-living-room/02-03-01.jpg",
-          "media-living-room/02-03-02.jpg"
+          "media-living-room/02-03-01.jpg"
         ],
         "features": [
           "Easy to use with elegant looks for wood or glass shelves.",

@@ -757,12 +757,11 @@
       {
         "id": "content-17-02",
         "prevContent": "selection-15",
-        "title": "Cabinet / Glass Shelf Support",
+        "title": "Glass Shelf Support",
         "cardImg": "media-u-kitchen/15-02-01.jpg",
         "carouselId": "carousel-15-02",
         "images": [
-          "media-u-kitchen/15-02-01.jpg",
-          "media-u-kitchen/15-02-02.jpg"
+          "media-u-kitchen/15-02-01.jpg"
         ],
         "features": [
           "Easy to use with elegant looks for wood or glass shelves.",
@@ -834,12 +833,11 @@
       {
         "id": "content-17-02",
         "prevContent": "selection-17",
-        "title": "Cabinet / Glass Shelf Support",
+        "title": "Glass Shelf Support",
         "cardImg": "media-u-kitchen/17-02-01.jpg",
         "carouselId": "carousel-17-02",
         "images": [
-          "media-u-kitchen/17-02-01.jpg",
-          "media-u-kitchen/17-02-02.jpg"
+          "media-u-kitchen/17-02-01.jpg"
         ],
         "features": [
           "Easy to use with elegant looks for wood or glass shelves.",
@@ -1272,11 +1270,11 @@
         "images": [
           "media-u-kitchen/26-01-01.jpg",
           "media-u-kitchen/26-01-02.png",
-          "media-u-kitchen/26-01-03.jpg",
-          "media-u-kitchen/26-01-04.jpg",
           "media-u-kitchen/26-01-05.jpg",
           "media-u-kitchen/26-01-06.jpg",
-          "media-u-kitchen/26-01-07.jpg"
+          "media-u-kitchen/26-01-07.jpg",
+          "media-u-kitchen/26-01-03.jpg",
+          "media-u-kitchen/26-01-04.jpg"
         ],
         "features": [
           "This versatile Display System is equally suited for brand retail stores (Clothing, Apparels, Department) as well as walk in wardrobes at home",

@@ -90,7 +90,7 @@
     }
   ],
   "selection-01": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-01",
@@ -113,7 +113,7 @@
     ]
   },
   "selection-02": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-02",
@@ -140,7 +140,7 @@
     ]
   },
   "selection-03": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-03",
@@ -170,8 +170,7 @@
         "cardImg": "media-luminor/03-02-01.jpg",
         "carouselId": "carousel-03-02",
         "images": [
-          "media-luminor/03-02-01.jpg",
-          "media-luminor/03-02-02.jpg"
+          "media-luminor/03-02-01.jpg"
         ],
         "features": [
           "Easy to use with elegant looks for wood or glass shelves.",
@@ -182,7 +181,7 @@
     ]
   },
   "selection-04": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-04",
@@ -206,7 +205,7 @@
     ]
   },
   "selection-05": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-05",
@@ -228,7 +227,7 @@
     ]
   },
   "selection-06": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-06",
@@ -273,7 +272,7 @@
     ]
   },
   "selection-07": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-07",
@@ -316,7 +315,7 @@
     ]
   },
   "selection-08": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-08",
@@ -354,7 +353,7 @@
     ]
   },
   "selection-09": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-09",
@@ -381,7 +380,7 @@
     ]
   },
   "selection-10": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-10",
@@ -406,7 +405,7 @@
     ]
   },
   "selection-11": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-11",
@@ -444,7 +443,7 @@
     ]
   },
   "selection-12": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-12",
@@ -468,7 +467,7 @@
     ]
   },
   "selection-13": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-13",
@@ -532,7 +531,7 @@
     ]
   },
   "selection-14": {
-    "title": "LED Lights",
+    "title": "Lights",
     "products": [
       {
         "id": "content-14-01",
@@ -541,7 +540,11 @@
         "cardImg": "media-luminor/14-01-01.jpg",
         "carouselId": "carousel-14-01",
         "images": [
-          "media-luminor/14-01-01.jpg"
+          "media-luminor/14-01-01.jpg",
+          "media-luminor/14-01-02.jpg",
+          "media-luminor/14-01-03.jpg",
+          "media-luminor/14-01-04.jpg",
+          "media-luminor/14-01-05.jpg"
         ],
         "features": [
           "Specially engineered linked sliding partition system designed for 3-door glass installations.",
