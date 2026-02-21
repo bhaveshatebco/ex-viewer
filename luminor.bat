@@ -1,7 +1,7 @@
 @echo off
 title Offline Server
 REM Starting local server on http://localhost:5502...
-echo Server started. Closing this window will stop the server.
+echo Application started. Closing this window will stop the application.
 
 :: 1. Open Chrome
 start chrome "http://localhost:5502/luminor.html"
